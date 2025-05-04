@@ -1,0 +1,46 @@
+[Source URL]: https://luddy.indiana.edu/contact/profile/index.html?Apu_Kapadia
+
+Home
+Contact
+profile
+Profile of Apu Kapadia
+Apu  Kapadia
+Associate Dean for Graduate Studies
+Professor of Computer Science
+Director and Chair, Cybersecurity Risk Management Program
+Email:
+kapadia@iu.edu
+Phone:
+(812) 856-1465
+Office:
+Luddy Hall (700 N. Woodlawn Ave) | Room:
+3028
+Website:
+https://homes.luddy.indiana.edu/kapadia/
+Education
+Ph.D. in Computer Science at University of Illinois at Urbana-Champaign, 2005
+M.S. in Computer Science at University of Illinois at Urbana-Champaign, 2001
+B.S. in Computer Science at University of Illinois at Urbana-Champaign, 1998
+Biography
+Apu Kapadia is a Professor of Computer Science at the Luddy School of Informatics, Computing, and Engineering, Indiana University Bloomington. He received his Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign in October 2005. For his dissertation research on trustworthy communication, he received a four-year High-Performance Computer Science Fellowship from the Department of Energy. Following his doctorate, he joined Dartmouth College as a Post-Doctoral Research Fellow with the Institute for Security Technology Studies (ISTS), and then as a Member of Technical Staff at MIT Lincoln Laboratory.
+Apu Kapadia is interested in topics related to computer security and privacy. He is particularly interested in usable security and HCI; pervasive computing in the context of cameras, wearables, and IoT; and accountable anonymity. For his work on accountable anonymity, two of his papers were named as 'Runners-up for PET Award 2009: Outstanding Research in Privacy Enhancing Technologies', and his recent work on detecting bystanders in photos received a CNIL-INRIA 2020 Privacy Protection runner-up prize. He has also received honorable mentions at ACM CHI 2016 and Pervasive Computing in 2007 for his work on usable security.
+Apu Kapadia has received several NSF grants, including an NSF CAREER award in 2013, and two Google Research Awards in 2014 and 2020. He was a recipient of the Indiana University Trustees Teaching Award in 2013, the Dr. James E. Mumford Excellence in Extraordinary Teaching Award in 2021, and the Distinguished Alumni Educator Award from the Department of Computer Science at the University of Illinois at Urbana-Champaign in 2015. For the years 2015 and 2016, he was Program Co-Chair of the Privacy Enhancing Technologies Symposium (PETS) and Co-Editor-in-Chief of the associated journal Proceedings on Privacy Enhancing Technologies (PoPETs). In 2020 and 2021 he was Sub-Committee Co-Chair for Privacy & Security at the ACM CHI Conference. He is currently General Co-Chair of the SOUPS (Symposium on Usable Privacy and Security) conference.
+Luddy Research Areas
+Crosscutting
+Data Science @Luddy
+HCI@Luddy
+Health@Luddy
+Security and Privacy@Luddy
+Sensors and Material@Luddy
+Intradepartmental
+Human Computer Interaction and Design
+Departmental
+Computer Vision, Speech, and Music Processing
+Privacy
+Security and Privacy
+Security Informatics
+Centers
+Center for Security and Privacy in Informatics, Computing, and Engineering
+Update your profile
+Request Information
+People Directory

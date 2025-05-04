@@ -1,0 +1,33 @@
+[Source URL]: https://luddy.indiana.edu/research/student-research/cyber-rotc.html?_ga=2.171831844.527217672.1604350011-50313076.1604335263
+
+Home
+Research
+Student Research
+Cyber ROTC
+Cyber ROTC
+Cybersecurity research opportunities for ROTC cadets
+The Cyber ROTC program is designed to grow a capable and trained military workforce with the skills to defend against emergent cyber and electronic warfare threats. ROTC cadets are paired with faculty researchers from the Luddy School of Informatics, Computing, and Engineering; Ostrom Workshop’s Program on Cybersecurity and Internet Governance; Center for Applied Cybersecurity Research; and the Hamilton Lugar School of Global and International Studies, and will pursue research topics in cybersecurity fields.
+Funding from the Office of Naval Research (ONR) supports 10 student participants in active research. Each student participant is funded to work closely with a faculty supervisor and a graduate mentor for a full academic year. Students and faculty will also work collaboratively with the National Security Innovation Network (NSIN) and its extensive portfolio of programs for national service. The proposed program’s partnership with NSIN will connect student participants to Navy and Marine Corps careers, content, facilities, and personnel.
+2020 projects
+For 2020, were able to select from the following projects:
+Project 1: Offensive AI.AI-Driven Cyber-Attacks
+Project 2: Ethereum Security
+Project 3: Computer Vision and Machine Learning
+Project 4: Enhancing privacy in photo sharing applications
+Project 5: IoT sensor design for improved privacy
+Project 6: Powerhouse: A Comparative Analysis of Blockchain-Enabled Microgrids
+Project 7: Forks: Ten Decisions that Gave Us the Internet we Have, and What to Do About It
+Project 8: Security Analysis and Defenses for Multiple Access Channels onIoT
+Project 9: Privacy preference management for mobile devices
+Project 10: Improving UI/UX for the Tor Browser
+Project 11: Privacy-preserving machine learning
+Project 12: Secure multiparty computation over blockchain
+Application deadline
+The 2022 application is closed. Applications for 2023 will open in August.
+Faculty Directory
+Luddy Faculty Fellows
+Faculty Achievement Awards
+Research Centers and Labs
+Research Areas
+Student Research
+Research Experiences for Undergraduates

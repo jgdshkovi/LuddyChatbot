@@ -1,0 +1,141 @@
+[Source URL]: https://informatics.indiana.edu/programs/ms-informatics/animal-informatics.html
+
+Home
+Programs
+M.S. Informatics
+Animal Informatics
+Animal Informatics
+Use technology to understand and improve the lives of animals
+Our track in animal informatics is the first dedicated program of its kind in the world. The program will help students use technology to better understand animal behavior and develop tools to improve the health, well-being, and quality of life for animals and professionals working in the commercial pet industries, captive animal management (e.g., zoos, aquariums, livestock), animal welfare organizations, assistive and therapeutic support animal programs, veterinary medicine, wildlife conservation, and the cognitive, biological, and evolutionary sciences.
+This professional track, part of our M.S. in Informatics, will teach the technical skills needed to innovate and incorporate animal-computer interaction, data science, artificial intelligence, and virtual and augmented reality technology into work with animals. Our graduates will be able to apply their skills on behalf of animal populations and interspecies relationships, whether in the wild, in zoos, on farms, in shelters, in research labs, or in our homes.
+Animal Informatics at Luddy
+Animal informatics is improving the lives and our understanding of animals every day. Find out more about Animal Informatics at the Luddy School.
+4+1 in Informatics
+Earn two degrees in just five years with the 4+1 in informatics program.
+Track guide
+Curriculum
+Our track in animal informatics is a 36-credit-hour degree that features 27 credit hours in informatics courses and 9 credit hours of electives of any graduate-level coursework within or outside of the Luddy School of Informatics, Computing, and Engineering. The program will appeal to students who have a general interest in animal informatics as well as those who have a specific interest in creating tangible objects, studying animal cognition, applying data science, and using 3D imagery, including capture, analysis, and data visualization.
+First year (18 credit hours)
+Fall
+*I511 ACI Methods (3 cr) -
+Video Course Description
+*I514 Seminar in ACI (3 cr) -
+Video Course Description
+I590 Prototyping with Arduino Tools (3 cr)
+*For Fall 2020, you can register for this course under I400/I590.
+Spring
+I512 Direct Observation and Design (3 cr) -
+Video Course Description
+I513 Usable Artificial Intelligence (3 cr)
+I699 Independent Study (3 cr)
+Second year (18 credit hours)
+At least 9 credits from the following electives:
+Must be advisor-approved independent research/study, including any approved fieldwork and final project work with any IU faculty affiliated with the Animal Informatics program, including faculty in the Center for the Integrative Study of Animal Behavior, the O’Neill School of Public and Environmental Affairs, the cognitive science program and other departments in the College of Arts and Sciences, the Environmental Resilience Institute, the Stone Age Institute, and professionals working in external institutions such as the Indianapolis Zoo, the Indiana Department of Natural Resources, the USDA, U.S. Fish and Wildlife, and corporations and nonprofits such as Elanco, the Bee Corp, WildCare, and local farms and animal shelters.
+Possible electives
+Qualitative Methods and Design
+INFO I527 Mobile and Pervasive Design OR CSCI P535 Pervasive Computing
+INFO I530 Field Deployments
+INFO I440/I540: Human-Robot Interaction
+INFO I543 Interaction Design Methods
+INFO I544 Experience Design
+INFO I590 Environmental Policy and Health Design
+INFO I590 Technology Entrepreneurship
+INFO I604 Human-Computer Interaction Design Theory
+INFO I709 Animal and/as Technology
+IoT Systems and Physical Fabrication
+INFO I400/I590 Makerspace: Design and Fabrication
+INFO I440/I540 Human-Robot Interaction
+INFO I527 Mobile and Pervasive Design OR CSCI P535 Pervasive Computing
+INFO I549 Advanced Prototyping
+CSCI P442 Digital Systems OR ENGR E314/E514 Embedded Systems
+ENGR E537 Rapid Prototyping for Engineers
+Mobile App Development
+INFO I400 Cross-platform Mobile Programming
+INFO I527 Mobile and Pervasive Design OR CSCI P535 Pervasive Computing
+Virtual Reality Platform
+INFO I304/I590 Intro to Virtual Reality
+INFO I442/I590 Creating Virtual Assets
+INFO I443/I590 Building Virtual Worlds
+INFO I444/I590 Artificial Life in VR
+CSCI B453 Game Development
+Data Analytics
+INFO I422/I590 Data Visualization
+INFO I526/CSCI P556 Applied Machine Learning
+INFO I601 Introduction to Complex Systems
+INFO I606 Network Science
+CSCI B555 Machine Learning
+CSCI B565 Data Mining
+ENGR E434/E534 Big Data Applications
+ENGR E484/E584 Scientific Visualization
+ENGR E511 Machine Learning for Signal Processing
+ENGR E533 Deep Learning Systems
+GEOG G588 Applied Spatial Statistics
+Artificial Intelligence and Cognition
+INFO I440/I540 Human-Robot Interaction
+CSCI B551 Elements of AI
+CSCI B657 Computer Vision
+BIOL L453 Sensory Ecology
+BIOL Z460 Animal Behavior
+Geospatial Information System
+GEOG G336/G535 Environmental Remote Sensing
+GEOG G436/G536 Advanced Remote Sensing
+GEOG G438/G538 Geographic Information Systems
+GEOG G439/G539 Advanced Geographic Information Systems
+GEOG G478/G578 Global Change, Food and Farming Systems
+GEOG G439/G639 GIS ∓ Environmental Analysis
+Website and Database Design
+INFO I435/I535 Management, Access, and Use of Big and Complex Data
+ILS Z511 Database Design
+ILS Z515 Information Architecture
+ILS Z517 Web Programming
+ILS Z532 Information Architecture for the Web
+ILS Z556 Systems Analysis & Design
+Technology Entrepreneurship
+INFO I436/I566 Technology Innovation
+INFO I438/I568 Technology Entrepreneurship
+Summary
+Our animal informatics track focuses on five main areas:
+Maker applications for animals
+Develop and construct tools that provide unique opportunities to enrich the lives of animals, such as the San Francisco Zoo’s Rhino “Foobler” – a giant hard plastic ball with six internal chambers that can be filled with food and programmed to dispense throughout the day when the rhino pushes it around. Create species-appropriate interfaces for animals who provide assistance to disabled humans, such as dog nose-friendly light switches and telephone buttons, or develop assistive technology to animals, such as 3D-printed replacement limbs, or animal-activated hydration or massage stations – and more.
+Automated quality of life data capture and analysis
+Sensor technology and data science can monitor and analyze how captive animals live and thrive while also alerting caregivers about potential problems with livestock, zoo residents, shelter animals, lab animals, and wildlife. For instance, sensor technology can be used to monitor beehives, allowing beekeepers to adjust conditions in a hive to allow bees to thrive.
+Wildlife (and poacher) tracking and monitoring
+Lightweight sensors and data capture devices can provide a real-time picture of the movement of local populations, diseased or endangered species, as well as the migration patterns of animals traveling on land, in the ocean, or in the air. Still and moving image capture—including via drone or social media—can be especially useful in allowing researchers to analyze individual and group behaviors.
+Animal cognition
+Understanding how nonhuman animals think and learn is requiring less and less in-person interaction with humans thanks to eye-tracking software, interactive games, problem-solving puzzles, and environmental choice options. Creating ways for animals to participate in noninvasive experiments and situations that help us better understand them and the way they interact with their environment can help improve their quality of life. Understanding animal intelligence can also reveal fundamental insights into human intelligence and provide clues for building machines that think like biological creatures.
+Interspecies relationships and education
+Technologies such as artificial intelligence, virtual reality, augmented reality, and mixed reality are being used to improve interactions between a variety of nonhuman and human animals. Innovative zoo and aquarium exhibit design, novel approaches to data collection and visualization, and designs to better ascertain and then match the needs and desires of well-meaning humans with those of other animals are allowing humans and nonhumans to better interact with animals and understand their needs.
+Our track in animal informatics is a 36-credit-hour degree that features 27 credit hours in informatics courses and 9 credit hours of electives of any graduate-level coursework within or outside of the Luddy School of Informatics, Computing, and Engineering. The program will appeal to students who have a general interest in animal informatics as well as those who have a specific interest in creating tangible objects, studying animal cognition, applying data science, and using 3D imagery, including capture, analysis, and data visualization.
+Primary track faculty
+Christena Nippert-Eng
+Christena Nippert-Eng is a sociologist and Professor of Informatics at IUB. Her scholarly interests include cognition, culture, gender, privacy, time, space, everyday life, ethnography, user-centered design and, most recently, the social behavior of nonhuman animals, especially the rest of the great apes.
+Patrick Shih
+Patrick Shih's research focuses on the study of sociotechnical systems and mechanisms to support health and wellbeing and reduce health disparity of marginalized and underserved populations in rural areas. Specifically, his lab designs, prototypes, and deploys novel personal health informatics devices, interfaces, and platforms to support people with physical, developmental, and mental conditions. He also designs technologies to amplify human and animal capabilities in animal-assisted interventions and to improve animal welfare.
+Justin Wood
+Justin Wood’s research aims to link psychology to artificial intelligence with the goal of reverse-engineering the origins of intelligence to build machines that learn like newborn animals. His ultimate goal is to build end-to-end (pixels-to-actions) artificial agents that mimic cognitive development in newborn animals.
+Christopher Martin
+Christopher Flynn Martin is a research scientist at Indianapolis Zoo and affiliate faculty in the Department of Informatics. He conducts studies on animal cognition at the zoo, and runs a consulting business that builds custom electronics and software to enhance animal enrichment, research, and husbandry practices at zoos around the world.
+Faculty research in Animal Computer Interaction
+Professor of Informatics Christena Nippert-Eng highlights her research, including her search for the fundamental principles of camouflage across species, the face-to-face, and digital realms, and the innovations in ethnographic research she has developed through her work with students observing and designing for gorillas at Lincoln Park Zoo.
+Description of the video:
+Professor of Informatics Christena Nippert-Eng highlights her research, including her search for the fundamental principles of camouflage across species, the face-to-face, and digital realms, and the innovations in ethnographic research she has developed through her work with students observing and designing for gorillas at Lincoln Park Zoo.
+Assistant Professor of Informatics, Patrick Shih talks about his research in Animal Computer Informatics at the Luddy School.
+Description of the video:
+Assistant Professor of Informatics, Patrick Shih talks about his research in Animal Computer Informatics at the Luddy School.
+Professor of Informatics, Justin Woood talks about his research in Animal Computer Informatics at the Luddy School.
+Description of the video:
+Professor of Informatics, Justin Woood talks about his research in Animal Computer Informatics at the Luddy School.
+Learn more about our Informatics graduate programs
+Request more information
+Find other way to meet the Luddy Graduate Team
+Meet Us
+B.S. in Informatics
+Undergraduate Minors
+Undergraduate Certificates
+4+1 Program
+M.S. Informatics
+Animal Informatics
+M.S. in Human-Computer Interaction
+Accelerated M.S.I.S.
+Ph.D. in Informatics
+Ph.D. Minors

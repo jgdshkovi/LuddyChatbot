@@ -1,0 +1,604 @@
+[Source URL]: https://bulletin.college.indiana.edu/programs/index.html?program=cyglpolbs&bulletin_term=4225
+
+Cybersecurity and Global Policy Program
+Bachelor of Science in Cybersecurity and Global
+Policy
+Students on Summer 2022, Fall 2022, or Spring 2023 requirements
+CYGLPOLBS
+The B.S. provides students with both technical and policy expertise in a rapidly expanding field, one in which there is high demand for skilled professionals. Through pursuing this degree, students will gain a sophisticated understanding of programming, data structures, networked systems, and security protocols. They will also learn about the wide range of privacy, cultural, economic, legal, and security issues surrounding the field of cybersecurity. They will learn to assess risk, explore possible responses to cyber attacks, and examine how cybersecurity crosses national boundaries and thereby challenges traditional, state-oriented understandings and responses. Upon graduation, students should be able to work closely and communicate effectively with a wide range of both technical and policy experts in the public, nonprofit, and private realms.
+View Degree Map
+A semester-by-semester path to completing degree and major requirements
+Home
+Majors, Minors + Certificates
+Bachelor of Science in Cybersecurity and Global Policy
+Requirements
+Major
+Degree
+The major requires at least 65.5 credit hours (74.5 with the addenda requirements), including the requirements listed below.
+Technical, Policy, and Social Foundations.
+Introduction to Informatics.
+One (1) course:
+INFO-H 101 Introduction to Informatics, Honors
+i
+INFO-I 101 Introduction to Informatics
+i
+INFO-H 101 Introduction to Informatics, Honors
+Description
+None
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+INFO-I 101 Introduction to Informatics
+Description
+Problem solving with information technology; introduction to information representation, relational databases, system design, propositional logic, cutting edge technologies; CPU, operating systems, networks; laboratory emphasizing information technology including webpage design, word processing, and databases using tools available on campus.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Mathematical Foundations of Informatics.
+One (1) course:
+CSCI-C 241 Discrete Structures for Computer Science
+i
+INFO-H 201 Mathemetical Foundations of Informatics, Honors
+i
+INFO-I 201 Mathematical Foundations of Informatics
+i
+CSCI-C 241 Discrete Structures for Computer Science
+Description
+Induction and recursive programs, running time, asymptotic notations, combinatorics and discrete probability, trees and lists, the relational data model, graph algorithms, propositional and predicate logic.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+INFO-H 201 Mathemetical Foundations of Informatics, Honors
+Description
+None
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+INFO-I 201 Mathematical Foundations of Informatics
+Description
+An introduction to methods of analytical, abstract and critical thinking, deductive reasoning; and logical and mathematical tools used in information sciences. Topics include propositional and predicate logic, natural deduction proof system, sets, functions and relations, proof methods in mathematics, mathematical induction, and graph theory.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Introduction to International Studies.
+One (1) course:
+INTL-I 100 Introduction to International Studies
+i
+INTL-I 100 Introduction to International Studies
+Credits
+3
+Prerequisites
+None
+Description
+This introductory, interdisciplinary course exposes students to the various academic approaches essential to international studies and to the various concentrations that comprise the major.
+Fall 2025
+CASE SH
+course
+Summer 2025
+CASE SH
+course
+Spring 2025
+CASE SH
+course
+Close
+Culture in the Digital Age.
+One (1) course:
+INTL-I 305 Advanced Topics in Culture and Politics
+i
+INTL-I 305 Advanced Topics in Culture and Politics
+Credits
+3
+Prerequisites
+None
+Description
+Advanced topics in the study of culture and governance. The focus is on relationships of power and authority, including how governments, markets, and international organizations deploy or use culture, and how people turn to cultural resources to resist attempts to govern them and/or to assert their own political aims.
+Repeatability
+May be repeated with a different topic for a maximum of 12 credit hours.
+Close
+Introduction to International Law and Legal Institutions.
+One (1) course:
+INTL-L 250 Introduction to International Law and Legal Institutions
+i
+INTL-L 250 Introduction to International Law and Legal Institutions
+Credits
+3
+Prerequisites
+None
+Description
+Introduces the central instruments and methodological tools of international law through study of international law cases, major treaties, and key institutions such as the United Nations and the International Criminal Court.
+Close
+Origin and Evolution of International Law.
+One (1) course:
+INTL-L 350 Origins and Evolution of International Law
+i
+INTL-L 350 Origins and Evolution of International Law
+Credits
+3
+Prerequisites
+None
+Description
+Explores the history, central figures, and key arguments in the development of international law; concepts to be discussed include natural law, reason of state, positivism, embedded liberalism, crimes against humanity, and Responsibility to Protect.
+Close
+Cybersecurity Core.
+Diplomacy, Security, Governance.
+One (1) course:
+INTL-I 210 Diplomacy, Security, Governance
+i
+INTL-I 210 Diplomacy, Security, Governance
+Credits
+3
+Prerequisites
+None
+Description
+Examines the development of the modern state and the role of international organizations in maintaining global security and promoting global governance. Addresses issues of political and cultural diplomacy and their effect in international disputes.
+Fall 2025
+CASE SH
+course
+Summer 2025
+CASE SH
+course
+Spring 2025
+CASE SH
+course
+Close
+Analytical Foundations of Security.
+One (1) course:
+INFO-I 230 Analytical Foundations of Security
+i
+INFO-I 230 Analytical Foundations of Security
+Description
+This course will allow students to re-evaluate and conceptualize material learned in discrete courses to consider the topics from the perspective of security. For example, computer system basics such as hardware (CPU, memory, ...) and software are reconsidered from the perspective of how their interactions create vulnerabilities. Vulnerabilities that combine standard hardware and software configurations will be examined, as these illuminate both security and computer networks. Operating systems and file systems are examined from the perspective of access control, permissions and availability of system services, etc.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Introduction to the Mathematics of Cybersecurity.
+One (1) course:
+CSCI-C 231 Introduction to the Mathematics of Cybersecurity
+i
+INFO-I 231 Introduction to the Mathematics of Cybersecurity
+i
+CSCI-C 231 Introduction to the Mathematics of Cybersecurity
+Description
+The goal of this course is for students to be introduced to the basic mathematical tools used in modern cybersecurity. The course covers introductory mathematical material from a number of disparate fields including probability theory, analysis of algorithms, complexity theory, number theory, and group theory.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+INFO-I 231 Introduction to the Mathematics of Cybersecurity
+Description
+Introduces the basic mathematical tools used in modern cybersecurity. Covers mathematical material from a number of disparate fields, including probability theory, analysis of algorithms, complexity theory, number theory, and group theory.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Introduction to International Relations.
+One (1) course:
+POLS-Y 109 Introduction to International Relations
+i
+POLS-Y 109 Introduction to International Relations
+Credits
+3
+Prerequisites
+None
+Description
+Causes of war, nature and attributes of the state, imperialism, international law, national sovereignty, arbitration, adjudication, international organization, major international issues.
+Repeatability
+Credit given for only one of POLS-Y 109 or POLS-Y 219.
+Fall 2025
+CASE SH
+course
+Summer 2025
+CASE SH
+course
+Spring 2025
+CASE SH
+course
+Close
+Informational Infrastructure I.
+One (1) course:
+CSCI-C 200 Introduction to Computers and Programming
+i
+INFO-I 210 Information Infrastructure I
+i
+CSCI-C 200 Introduction to Computers and Programming
+Description
+This course is an introduction, broadly, to algorithmic thinking and, specifically, to programming. It teaches the basics of programming using real world applications in natural, physical and social sciences. Students will develop ability to program by identifying problems in real world and then creating a program that solves the problem.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+INFO-I 210 Information Infrastructure I
+Description
+This course introduces software architectures of information systems and basic concepts and procedures of system and application development. Course topics include PHP programming syntax; procedural programming fundamentals; principles of developing dynamic, database-driven applications for the World Wide Web; relational database concepts; and basic MySQL statements.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Informational Infrastructure II.
+One (1) course:
+CSCI-C 212 Introduction to Software Systems
+i
+INFO-I 211 Information Infrastructure II
+i
+CSCI-C 212 Introduction to Software Systems
+Description
+Design of computer software systems and introduction to programming in the environment of a contemporary operating system. Topics include a modern object-oriented programming language; building and maintaining large projects; and understanding the operating system interface.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+INFO-I 211 Information Infrastructure II
+Description
+The systems architecture of distributed applications. Advanced programming, including an introduction to the programming of graphical systems.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Systems Programming with C and Unix.
+One (1) course:
+CSCI-C 291 System Programming With C and Unix
+i
+CSCI-C 291 System Programming With C and Unix
+Description
+This course provides an introduction to programming in a Unix (Linux) environment using the C language. The key ideas to be discussed are: the Unix shell, file system and basic shell commands; the emacs text editor; and the C programming language.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Ethics and Decision-Making in International Politics.
+One (1) course:
+INTL-I 340 Ethics and Decision-Making in International Politics
+i
+INTL-I 340 Ethics and Decision-Making in International Politics
+Credits
+3
+Prerequisites
+None
+Description
+Addresses the role of ethics and morality in the international system as applied to states, international organizations, nongovernmental organizations, and individuals. Explores dilemmas policymakers face as they weigh alternatives, try to reconcile competing demands, and search for acceptable trade-offs. Focuses on problems such as mass atrocities, forms of slavery, poverty, and the challenges of dealing with illiberal governments.
+Close
+Security for Networked Systems.
+One (1) course:
+CSCI-B 430 Security for Networked Systems
+i
+INFO-I 430 Security for Networked Systems
+i
+CSCI-B 430 Security for Networked Systems
+Description
+This course is an extensive survey of network security. The course materials cover threats to information confidentiality, integrity, and availability in different internet layers, and defense mechanisms that control these threats.  The course also provides a necessary foundation on network security, such as cryptographic, primitives/protocols, authentication, authorization and access control technologies; and hands-on experiences through programming assignments and course projects.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+INFO-I 430 Security for Networked Systems
+Description
+An extensive survey of network security. Covers threats to information confidentiality, integrity, and availability in different Internet layers, and defense mechanisms which control these threats. Also provides a necessary foundation on network security, such as cryptographic primitives/protocols, authentication, authorization, and access control technologies.  Hands-on experiences through programming assignments and course projects.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Systems & Protocol Security & Informational Assurance.
+One (1) course:
+CSCI-B 433 Systems & Protocol Security & Information Assurance
+i
+INFO-I 433 Systems and Protocol Security and Information Assurance
+i
+CSCI-B 433 Systems & Protocol Security & Information Assurance
+Description
+This class covers the fundamentals of computer security by looking at how things can go wrong, and how people can abuse the system. This is a matter of creative cheating; to find loopholes and exploit them. After students learn how to attack the system, it is possible to propose ways to make the system secure. Students will gain a basic overview of existing security problems and be exposed to methods that can be used to secure against such problems. The course should be taken by any one designing, selecting, or using applications in which security or privacy plays a role.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+INFO-I 433 Systems and Protocol Security and Information Assurance
+Description
+Covers the fundamentals of computer security by looking at how things can go wrong, how people can abuse the system, and ways to make the system secure. Students will gain a basic overview of existing security problems, and be introduced to methods for addressing such problems. Should be taken by anyone designing, selecting, or using applications in which security or privacy plays a role.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Cybersecurity, Policy, and Governance.
+One (1) course:
+SGIS-S 401 Cybersecurity, Policy, and Governance
+i
+SGIS-S 401 Cybersecurity, Policy, and Governance
+Credits
+3
+Prerequisites
+None
+Description
+The Internet has created both opportunities for global connection as well as vulnerabilities that pose new challenges for nation-states and governments, who are forced to contend with actors whose identity and rules of behavior are often not known to them. Explore these issues and the current thinking in law, policy, and governance in dealing with them.
+Close
+Capstone.
+At least three (3) credit hours:
+SGIS-X 373 Internship in Global and International Studies
+i
+SGIS-X 373 Internship in Global and International Studies
+Credits
+1–3 credit hours
+Prerequisites
+None
+Description
+Provides academic structure to undergraduate students who wish to engage in a work experience through participation in internships domestically or internationally.
+Repeatability
+May be repeated for a maximum of 6 credit hours.
+Grading
+S/F grading.
+Close
+Other Requirements.
+Intelligence.
+One (1) course:
+ILS-Z 331 Strategic Intelligence
+i
+ILS-Z 351 Moles, Deception, and Counterintelligence
+i
+ILS-Z 331 Strategic Intelligence
+Description
+This class introduces concepts and methods of identifying, collecting, analyzing, and presenting strategic intelligence from perspectives including competitive and strategic military intelligence, globalized crime, government policy, and natural disasters. We examine disruption, networks, systems theory, asymmetric warfare, organizational structure, and information warfare that have impacted modern strategy and strategic intelligence.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+ILS-Z 351 Moles, Deception, and Counterintelligence
+Description
+Counterintelligence involves disrupting adversaries' information flow or disseminating disinformation to make them act contrary to their interests. In this class, students explore concepts and techniques of counterintelligence. Assignments allow students to apply course content to real-world threats with a focus on U.S. perspectives in concise papers designed for busy decision-makers.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+International Diplomacy and Security.
+One (1) course:
+INTL-I 310 Advanced Topics in Diplomacy, Security, Governance
+i
+INTL-I 310 Advanced Topics in Diplomacy, Security, Governance
+Credits
+3
+Prerequisites
+None
+Description
+Advanced topics focusing on the development of the modern state and the role of international organizations in maintaining global security and promoting global governance. Addresses issues of political and cultural diplomacy and their effect in international disputes.
+Repeatability
+May be repeated with a different topic for a maximum of 12 credit hours.
+Close
+Global Issues.
+At least three (3) credit hours:
+SGIS-S 300 Global Issues
+i
+SGIS-S 300 Global Issues
+Credits
+1–3 credit hours
+Prerequisites
+None
+Description
+Study of a variety of global issues related to security, technology, media, law, global careers, global and local community awareness, global languages and policy making.
+Repeatability
+May be repeated with different topics for a maximum of 12 credit hours.
+Close
+Addenda Requirement*.
+Area Studies.
+Two (2) courses:
+Additional courses with program approval
+Mathematical Modeling.
+One (1) of the following:
+Both of the following:
+MATH-D 116 Introduction to Finite Mathematics I
+i
+MATH-D 117 Introduction to Finite Mathematics II
+i
+MATH-M 118 Finite Mathematics
+i
+MATH-V 118 Finite Mathematics with Applications
+i
+MATH-D 116 Introduction to Finite Mathematics I
+Credits
+2
+Prerequisites
+Mastery of two years of high school algebra as indicated by an ALEKS score of 40 or higher; or MATH-M 014, MATH-M 018, or MATH-J 111.
+Description
+MATH-D 116 and MATH-D 117 is a two-course sequence that covers sets, counting, basic probability, including random variables and expected values, linear systems, matrices, linear programming, and applications.
+Repeatability
+Credit given for only one of MATH-A 118, MATH-M 118, MATH-S 118, MATH-V 118; or MATH-D 116 and MATH-D 117.
+Close
+MATH-D 117 Introduction to Finite Mathematics II
+Credits
+2
+Prerequisites
+MATH-D 116 or consent of the department
+Notes
+MATH-D 116 and MATH-D 117 is a two-course sequence
+Description
+Topics for the course are taken from MATH-M 118. Credit for the College of Arts and Sciences Foundations requirement in Mathematical Modeling or the College's N&M Breadth of Inquiry requirement will be given only upon completion of both MATH-D 116 and MATH-D 117 with a passing grade.
+Repeatability
+Credit given for only one of MATH-A 118, MATH-M 118, MATH-S 118, MATH-V 118; or MATH-D 116 and MATH-D 117.
+Fall 2025
+CASE MM
+course
+Summer 2025
+CASE MM
+course
+Spring 2025
+CASE MM
+course
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+MATH-M 118 Finite Mathematics
+Credits
+3
+Prerequisites
+None
+Notes
+R: To be successful, students will demonstrate mastery of two years of high school algebra as indicated by an appropriate ALEKS score or completion of MATH-M 014, MATH-M 018, or MATH-J 111
+Description
+Sets, counting, basic probability, including random variables and expected values. Linear systems, matrices, linear programming, and applications.
+Repeatability
+Credit given for only one of MATH-A 118, MATH-M 118, MATH-S 118, MATH-V 118; or MATH-D 116 and MATH-D 117.
+Fall 2025
+CASE MM
+course
+Summer 2025
+CASE MM
+course
+Spring 2025
+CASE MM
+course
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+MATH-V 118 Finite Mathematics with Applications
+Credits
+3
+Prerequisites
+None
+Notes
+R: To be successful, students will demonstrate mastery of two years of high school algebra as indicated by an appropriate ALEKS score or completion of MATH-M 014, MATH-M 018, or MATH-J 111
+Description
+Sets, counting, basic probability, linear modelling, and other discrete topics. Applications to various areas depending on topic. Possibilities include social and biological sciences and consumer mathematics.
+Repeatability
+Credit given for only one of MATH-A 118, MATH-M 118, MATH-S 118, MATH-V 118; or MATH-D 116 and MATH-D 117.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+Major GPA, Hours, and Minimum Grade Requirements.
+Major GPA.
+A GPA of at least 2.000 for all courses taken in the major—including those where a grade lower than C- is earned—is required.
+Major Minimum Grade.
+Except for the GPA requirement, a grade of C- or higher is required for a course to count toward a requirement in the major.
+Major Upper Division Credit Hours.
+At least 18 credit hours in the major must be completed at the 300–499 level.
+Major Residency.
+At least 18 credit hours in the major must be completed in courses taken through the Indiana University Bloomington campus or an IU-administered or IU co-sponsored Overseas Study program.
+Notes
+* Courses used to fulfill addenda requirements require a grade of C- or higher and do not count toward the Major GPA or Major Hours.
+Major hours and GPA
+Major Area Courses
+Unless otherwise noted below, the following courses are considered in the academic program and will count toward academic program requirements as appropriate:
+Any course contained on the course lists for the academic program requirements at the time the course is taken—as well as any other courses that are deemed functionally equivalent—except for those listed only under Addenda Requirements
+Any course directed to a non-Addenda requirement through an approved exception
+Major requirement exceptions and substitutions
+Exceptions to and substitutions for major requirements may be made with the approval of the unit's Director of Undergraduate Studies, subject to final approval by the College of Arts and Sciences.
+The Bachelor of Science degree requires at least 120 credit hours, to include the following:
+College of Arts and Sciences Credit Hours.
+At least 100 credit hours must come from College of Arts and Sciences disciplines.
+View subject areas
+Upper Division Courses.
+At least 36 credit hours (of the 120) must be at the 300–499 level.
+College Residency.
+Following completion of the 60th credit hour toward degree, at least 36 credit hours of College of Arts and Sciences coursework must be completed through the Indiana University Bloomington campus or an IU-administered or IU co-sponsored Overseas Study program.
+College GPA.
+A
+College grade point average (GPA)
+of at least 2.000 is required.
+CASE Requirements.
+The following
+College of Arts and Sciences Education (CASE) requirements
+must be completed:
+CASE Foundations
+English Composition:
+1 course
+Mathematical Modeling:
+1 course
+CASE Breadth of Inquiry
+Arts and Humanities:
+2 courses
+Natural and Mathematical Sciences:
+2 courses
+Social and Historical Studies:
+2 courses
+CASE Culture Studies
+Diversity in the United States:
+1 course
+Global Civilizations and Cultures:
+1 course
+CASE Critical Approaches:
+1 course
+CASE Foreign Language: Proficiency in a single foreign language through the second semester of the second year of college-level coursework
+CASE Intensive Writing:
+1 course
+CASE Public Oral Communication:
+1 course
+Major.
+Completion of the major as outlined in the Major Requirements section above.
+Most students must also successfully complete the
+Indiana University Bloomington General Education program
+.
+Subject areas
+Any  AAAD course that carries degree credit
+Any  AAST course that carries degree credit
+Any  ABEH course that carries degree credit
+Any  AFRI course that carries degree credit
+Any  AMST course that carries degree credit
+Any  ANTH course that carries degree credit
+Any  ARTH course that carries degree credit
+Any  ASCS course that carries degree credit
+Any  AST course that carries degree credit
+Any  BIOC course that carries degree credit
+Any  BIOL course that carries degree credit
+Any  BIOT course that carries degree credit
+Any  CEUS course that carries degree credit
+Any  CHEM course that carries degree credit
+Any  CJUS course that carries degree credit
+Any  CLAS course that carries degree credit
+Any  CLLC course that carries degree credit
+Any  CMLT course that carries degree credit
+Any  COGS course that carries degree credit
+Any  COLL course that carries degree credit
+Any  EALC course that carries degree credit
+Any  EAS course that carries degree credit
+Any  ECON course that carries degree credit
+Any  ENG course that carries degree credit
+Any  EURO course that carries degree credit
+Any  FOLK course that carries degree credit
+Any  FRIT course that carries degree credit
+Any  GEOG course that carries degree credit
+Any  GER course that carries degree credit
+Any  GLLC course that carries degree credit
+Any  GNDR course that carries degree credit
+Any  HHC course that carries degree credit
+Any  HISP course that carries degree credit
+Any  HIST course that carries degree credit
+Any  HON course that carries degree credit
+Any  HPSC course that carries degree credit
+Any  HUBI course that carries degree credit
+Any  IMP course that carries degree credit
+Any  INST course that carries degree credit
+Any  INTL course that carries degree credit
+Any  JSTU course that carries degree credit
+Any  LAMP course that carries degree credit
+Any  LATS course that carries degree credit
+Any  LING course that carries degree credit
+Any  LTAM course that carries degree credit
+Any  MATH course that carries degree credit
+Any  MELC course that carries degree credit
+Any  MEST course that carries degree credit
+Any  MLS course that carries degree credit
+Any  MSCH course that carries degree credit
+Any  NEUS course that carries degree credit
+Any  OVST course that carries degree credit
+Any  PACE course that carries degree credit
+Any  PHIL course that carries degree credit
+Any  PHYS course that carries degree credit
+Any  POLS course that carries degree credit
+Any  PSY course that carries degree credit
+Any  REEI course that carries degree credit
+Any  REL course that carries degree credit
+Any  RMI course that carries degree credit
+Any  SEAS course that carries degree credit
+Any  SGIS course that carries degree credit
+Any  SLAV course that carries degree credit
+Any  SLHS course that carries degree credit
+Any  SLST course that carries degree credit
+Any  SOAD course that carries degree credit
+Any  SOC course that carries degree credit
+Any  STAT course that carries degree credit
+Any  THTR course that carries degree credit
+Close
+Close

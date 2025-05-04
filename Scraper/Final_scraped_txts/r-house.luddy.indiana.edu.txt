@@ -1,0 +1,46 @@
+[Source URL]: https://r-house.luddy.indiana.edu
+
+Welcome to the R-House Robotics Lab
+About Us
+Human robot Interaction at Indiana University Bloomington's Luddy School of Informatics, Computing, and Engineering.
+Discover our Research...
+The R-House Lab was founded in January 2010. It is directed by Prof.
+Selma Šabanović
+and hosts researchers, students, and visitors interested in studying Human-Robot Interaction (HRI) design and evaluation in the lab and field. Lab members explore the connections between HRI, human social behavior and cognition, and the emerging social meanings and consequences of robots through a variety of methods, including:
+prototyping and in situ evaluation of intelligent interactive technologies
+field studies of robot use in everyday use contexts
+experimental studies of psychological and cognitive aspects of HRI
+interviews, surveys, and mining online data to gauge people’s perceptions and expectations of robots
+The diverse projects in the lab are united by a shared interest in discovering the social mechanisms of HRI that can be implemented in future robot design, as well as in developing a culturally and socially situated understanding of HRI in everyday use and its broader consequences.
+More details on specific projects, including publications, software, and design materials, can be found below!
+Read Our Latest Work
+Cultural Sense-Making in HRI
+People’s expectations, perceptions, and uses of robots are shaped by local cultural meanings and practices. Our cross-cultural research in human-robot interaction studies how perceptions and understandings of robots vary among cultural contexts — in different countries like the US, South Korea, China, Japan, Turkey, or in different organizational cultures.
+Continue reading...
+Our Research Areas
+R-House focuses on certain areas of Human-Robot Interaction to build a better future with robots!
+Socially Assistive Robots in Everyday Use
+Develop a home robot that supports their “ikigai,” or sense of purpose and meaning in life, as they age
+Cultural Studies of Robot Design
+Studies how perceptions and understandings of robots vary among cultural contexts
+Interaction Design and User Perceptions of Robots
+Sound as a modality through which robots can express emotion, or which can affect people’s perceptions of robots
+Group Effects in Human-Robot Interaction
+Examine how human behavior differs when individuals and groups interact with groups of robots
+Robots for Social and Emotional Learning
+Explore the ways Haru can act as a bridge across continents and generations
+Our Lab
+A short introduction to your team members and why their background should inspire potential clients’ confidence.
+Contact Us!
+We are always interested in working with creative, hard-working and motivated researchers and students. If you are interested in joining the lab as a student, researcher, or visiting scholar, or have any questions about the lab or our projects contact:
+Prof. Selma Šabanović at
+selmas@indiana.edu
+We are located in the Luddy Center for Artificial Intelligence (1015 E 11th St, Bloomington, IN 47408), 2nd Floor, Rm. 2001
+Need help?
+Contact
+Cultural Studies of Robot Design
+Socially Assistive Robots in Everyday Use
+Interaction Design and User Perceptions of Robots
+Group Effects in Human-Robot Interaction
+Interested in Joining?
+Are you interested in learning more about our lab? If you are feel free to reach out on our Contact page. We'd love for you to join our lab!

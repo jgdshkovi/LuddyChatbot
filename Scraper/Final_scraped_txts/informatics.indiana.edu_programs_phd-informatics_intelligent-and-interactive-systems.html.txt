@@ -1,0 +1,145 @@
+[Source URL]: https://informatics.indiana.edu/programs/phd-informatics/intelligent-and-interactive-systems.html
+
+Home
+Programs
+Ph.D. in Informatics
+Intelligent and Interactive Systems
+Intelligent and Interactive Systems
+Are you interested in studying interactions
+between people and digital systems and in developing systems that perceive, understand, and interact with people and the environment? The intelligent and interactive systems (IIS) track may be for you. You’ll focus on areas such as:
+IIS shapes tomorrow
+Watch how our program is making a difference
+See IIS in action
+Autonomous robots
+Human-robot interaction
+Wearable and ubiquitous computing
+Music and Computation
+Motion planning and control
+Investigating and building technologies involves understanding relationships between people and computing systems, as well as developing systems that are better able to understand and interact. As an IIS student, you’ll explore theories, develop prototype technologies, and evaluate human responses to and interactions with those technologies.
+Learn about related research
+The R-House Human-Robot Interaction Lab hosts researchers, students, and visitors interested in studying human-robot interaction (HRI) through the design and evaluation of robotic technologies for everyday use. Lab members explore the connections between HRI, human social behavior and cognition, and the emerging social meanings and consequences through a variety of methods.
+Learn about the R-House
+Track guide
+Summary
+Intelligent and Interactive Systems (IIS) is an interdisciplinary field that studies the interactions between humans and digital technologies, and develops intelligent technologies that can interact with humans and their environment. Research and teaching in the field include artificial intelligence, music informatics, computer vision, human-robot interaction, dynamical systems, and cognitive science, among others. Students and faculty explore theories, develop prototype technologies, as well as  evaluating interactions between humans and these technologies.
+Intelligent and interactive technologies are becoming an increasingly important part of people’s daily lives. For instance, robots cooperate with humans, enabling them to perform common tasks, while pervasive wearable devices monitor our health habits and daily activities, and cloud-based systems seek to identify the sights and sounds of our surroundings. Investigating and building these technologies involves both understanding the relationship between people and computing systems, as well as technological advances in making computers better able to understand, perceive, and interact with their environment.
+The Intelligent and Interactive Systems track in Informatics is a multidisciplinary program that approaches information and communication technology from both technological and human perspectives. Graduate students will have the opportunity to explore a diverse range of research topics, including autonomous robots, computer vision, music informatics, culturally-situated technology design, dynamical systems, human-robot interaction, object and activity recognition, social robotics, video and image understanding, and wearable and ubiquitous computing.
+Primary track faculty
+Chris Raphael
+: Track Director
+Music in informatics, artificial intelligence, accompaniment systems, computer generated musical analysis, musical signal processing, modeling of musical interpretation, computer generated musical analysis, data science, machine learning
+Randall Beer
+Cognitive science, computational and theoretical biology. Understanding how coordinated behavior arises from the dynamical interaction of an animal’s nervous system, its body and its environment. Evolution and analysis of dynamical “nervous systems” for model agents neuromechanical modeling of animals, biologically-inspired robotics, and dynamical systems approaches to behavior and cognition.
+David Crandall
+Computer vision, object recognition, 3d reconstruction, image processing, artificial intelligence, data mining, machine learning, social media, wearable computers.
+Selma Šabanovićić
+Human-robot interaction, social robotics, human-centered computing, cross-cultural studies of technology design and use, science and technology studies assistive technology, user-centered design and evaluation.
+Justin Wood
+Bioinformatics and Computational Biology, Artificial Intelligence, Complex Networks and Systems, Intelligent Interactive Systems, Machine Learning, Cognitive Science
+Chen Yu
+Cognitive science, developmental psychology, language learning, embodied social cognition multimodal human-human and human-robot interactions, perception and action, data mining and computational modeling.
+Curriculum
+Required courses
+All courses provided by faculty in the Intelligent and Interactive Systems track, including the I609 Advanced Seminar, are open to and welcome students from other tracks and programs.
+A student must successfully complete ninety (90) credit hours of graduate-level course work. The specific track requirements are listed below.
+Informatics Core Requirements (6 cr.)
+INFO I501 Introduction to Informatics (3 cr.)
+INFO I502 Human-Centered Research Methods in Informatics (3 cr.)
+Seminar Requirements (6 cr.)
+INFO I609 Seminar I in Informatics (3 cr.)
+INFO I709 Seminar II in Informatics (3 cr.)
+NOTE:
+A student must take I609 and/or I709.
+Research Rotation Requirement (6 cr.)
+INFO I790 Informatics Research Rotation (3 cr.)
+NOTE:
+A student must complete two rotations of I790. A third rotation will not count for course credit.
+Theory and Methodology Requirement (12 cr.)
+NOTE:
+These courses must be appropriate for a Ph.D. in Informatics.
+Minor Requirements (9-12 cr.)
+NOTE:
+Typical minors include Cognitive Science, Statistics, Computer Science, and Human-Computer Interaction.
+Electives (12-30 cr.)
+NOTE:
+A student must have all electives approved by the student's advisor and the Director of Informatics Graduate Studies prior to enrolling in the course.
+Thesis Reading and Research (minimum of 21 cr. and maximum of 30 cr.)
+INFO I890 Thesis Readings and Research
+Breadth Requirement
+All IIS track students are required to take both a course that will help them develop their technical skills in the field (e.g. artificial intelligence, computer vision, advanced prototyping), and a course that presents the conceptual and human-oriented aspects of the field (e.g. human-robot interaction, embodied cognition). Either course can be taken as their second seminar. The chosen course should be appropriate for the student’s professional development. In this way students will have the ability to communicate across the multiple disciplines that compose the domain of IIS research.
+Optional courses
+In addition to required courses, faculty in the track offer courses that provide more targeted training is specific areas.
+INFO-I 540 – Human Robot Interaction
+INFO-I 590 – Vision for Intelligent Robotics
+CSCI-B 551 – Elements of Artificial Intelligence
+CSCI-B 554 – Probabilistic Approaches to Artificial Intelligence
+CSCI-B 657 – Introduction to Computer Vision
+CSCI-B 659 – Computer vision for intelligent robotics
+COGS-Q 580 - Introduction To Dynamical Systems In Cognitive Science
+INFO-I 547 - Music Information Processing: Audio
+Additionally, a number of courses taught by other faculty are also relevant to the ISS track:
+COGS-Q 511 – Introduction to Embodied Cognitive Sciences
+COGS-Q 530 – Programming Methods in Cognitive Science
+COGS-Q 550 – Models in Cognitive Science
+COGS-Q 551 – Brain and Cognition
+COGS Q-560 – Experimental Methods in Cognitive Science
+COGS-Q 570 – Behavior-based Robotics
+INFO-I 526 – Applied Machine Learning
+INFO-I 530 – Field Deployments
+INFO-I 534 – Seminar in Human-Computer Interaction
+INFO-I 543 – Interaction Design Methods
+INFO-I 549– Advanced Prototyping
+INFO-I 586 – Artificial Life
+INFO-I 590 – Relational Probabilistic Models
+CSCI-B 552 – Knowledge Based Artificial Intelligence
+CSCI-B 553 – Neural and Genetic Approaches to Artificial Intelligence
+CSCI-B 555 – Introduction to Machine Learning
+CSCI-B 651 – Natural Language Processing
+CSCI-B 659 – Stochastic Optimization for Machine Learning
+CSCI-B 659 – Reinforcement Learning for Artificial Intelligence
+STAT-S 620 – Introduction to Statistical Theory
+STAT-S 657 – Statistical Learning and High-Dimensional Data Analysis
+STAT-S 681 – Statistical Machine Learning
+STAT-S 682 – Introduction to Graphical Models
+STAT-S 710 – Statistical Computing
+Typical minors
+Cognitive Science, Statistics, Computer Science, Human-Computer Interaction.
+Qualifying exam
+Written and oral examinations will be decided by the student’s committee based on his or her research interests. A typical exam can consist of writing a survey paper and two shorter papers each reporting on a project or problem assigned by the committee, or it can consist of an annotated bibliography preceded by an essay that describes the student’s interpretation of the relevant literature and how they situate their own interests and work within it. The written portion of the exam is followed by an oral exam to defend the written submissions.
+Sample dissertation titles
+Since IIS is new, we have so far graduated one doctoral student, Jangwon Lee, in 2018, with a thesis titled “Learning Activities from Human Demonstration Videos” (supervised by Crandall and Šabanović.  Now at ObjectVideo Labs).
+IIS core faculty have supervised Ph.D. students in other tracks who have successfully defended, including:
+Bambach, Sven (2016). Analyzing hands with first-person computer vision. (Computer Science, supervised by Crandall. Now at Nationwide Children’s Hospital.)
+Bennett, Casey (2015). Robotic faces: Exploring dynamical patterns of social interaction between humans and robots. (Informatics, Health Informatics track, supervised by Šabanović. Now at Raiven Healthcare LLC.)
+Chen, Liang (2018). Human-interactive Optical Music Recognition and Music Renotation. (Informatics, Music Informatics track, supervised by Raphael. Now at Google.)
+Duan, Kun (2014). Conditional Random Field Models for Structured Visual Object Recognition. (Computer Science, supervised by Crandall. Now at Snap, Inc.)
+Fraune, Marlena (2018). Examining Effects of Groups and Intergroup Contexts on Human-Robot Interaction. (Cognitive Science and Social Psychology, supervised by Šabanović. Now at New Mexico State University.)
+Gu, Yupeng (2015). Creating Expressive Piano Performance using Statistical Models. (Informatics, Music Informatics track, supervised by Raphael.)
+Han, Yushen (2013). Score-informed Musical Source Separation and Reconstruction. (Informatics, Music Informatics track, supervised by Raphael. Now at Apple.)
+Jin, Rong (2017). Graph-based Rhythm Interpretation in Optical Music Recognition. (Informatics, Music Informatics track, supervised by Raphael. Now at Facebook).
+Johnson, Jeffrey (2018). Selective determinism for autonomous navigation in multi-agent systems. (Computer Science, supervised by Hauser and Crandall. Now at Uber.)
+Korayem, Mohammed (2015). Social and egocentric image classification for scientific and privacy applications. (Computer Science, supervised by Crandall. Now at CareerBuilder, LLC.)
+Lee, Heerin (2017). Collaborative Design for Intelligent Technologies. (Informatics, Computing Culture and Society track, supervised by Šabanović. Now at University of California San Diego).
+Lee, Stefan (2016). Data-driven Computer Vision for Science and the Humanities. (Computer Science, supervised by Crandall. Now at Georgia Tech.)
+Luo, Jingru (2015). Optimal Motion Planning for Manipulation and Legged Locomotion. (Computer Science, supervised by Hauser. Now at Bosch.)
+Xu, Tian (Linger) (2018). Intelligence with Interaction: Understanding coordinated behaviors with developmental computational and robotic approaches. (Computer Science and Cognitive Science, supervised by Yu. Now Postdoc at Indiana University.)
+Zhang, Haipeng (2014). Analyzing the Dynamics Between User-sensed Data and the Real World. (Computer Science, supervised by Crandall. Now at IBM Research.)
+Zhang, Yajia (2015). Knowledge-driven Motion Planning. (Computer Science, supervised by Hauser. Now at Bosch.)
+B.S. in Informatics
+Undergraduate Minors
+Undergraduate Certificates
+4+1 Program
+M.S. Informatics
+M.S. in Human-Computer Interaction
+Accelerated M.S.I.S.
+Ph.D. in Informatics
+Animal Informatics
+Bioinformatics
+Complex Networks and Systems
+Computing, Culture, and Society
+Human-Computer Interaction/Design
+Health Informatics
+Intelligent and Interactive Systems
+Security Informatics
+Virtual Heritage
+Ph.D. Minors

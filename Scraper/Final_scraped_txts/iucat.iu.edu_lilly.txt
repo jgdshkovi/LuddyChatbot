@@ -1,0 +1,17 @@
+[Source URL]: https://iucat.iu.edu/lilly
+
+Welcome to the Indiana University Library Catalog for Lilly
+Use "
+Choose Search Type" to access Advanced Search, Class
+        Reserves, or Browse.
+Use quotation marks to search as a phrase.
+Use "OR", "AND", and "NOT" to create complex boolean logic.
+Truncation and wildcards are not supported - word-stemming is done automatically.
+Access more help at the KB.
+×
+Close this modal
+Select Campus
+Access to this resource may be restricted to users from specific IU campuses.
+Please choose your campus in order to proceed:
+Not affiliated with Indiana University (licensed resources
+          not accessible off-campus)

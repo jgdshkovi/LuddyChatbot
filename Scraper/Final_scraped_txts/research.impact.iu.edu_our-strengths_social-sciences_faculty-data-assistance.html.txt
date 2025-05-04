@@ -1,0 +1,48 @@
+[Source URL]: https://research.impact.iu.edu/our-strengths/social-sciences/faculty-data-assistance.html
+
+Home
+More IU Research
+Stories
+assisting faculty with data science
+assisting faculty with data science
+IU data science students partner with faculty to advance research projects
+As a physicist, Walter Pettus studies the vanishingly small neutrino particle, but he’s had a big problem with it.
+Pettus, an assistant professor of physics in IU Bloomington’s College of Arts and Sciences
+, is a collaborator on Project 8, an 11-institution physics consortium focused on the tricky problem of accurately measuring the mass of the neutrino, the second most abundant particle in the universe. Over the years, the Project 8 experiment has collected a lot of data about the peculiar neutrino, and Pettus oversees that database.
+Only, he says, “it was an accident that I ended up in charge of the database, because I have no background there, most physicists don’t. I could see the system had shortcomings, but I didn’t have the skill set to develop it.”
+IU Bloomington researchers Walter Pettus, Sanya Carley, Joanna Woronkowicz, Todd Haugh, and others worked with master's students in data science to develop and advance their research projects.
+Enter IU Bloomington’s new
+Faculty Assistance in Data Science program
+, established in spring 2021 through the Office of the Vice Provost for Research.
+The program pairs faculty with graduate students pursuing an
+M.S. in Data Science at the Luddy School of Informatics, Computing, and Engineering
+, and it’s expressly designed to help faculty like Pettus, who need a boost of data-science expertise to move their research projects forward.
+Brea Perry
+, professor of sociology and OVPR’s associate vice provost for social sciences, conceived the program after noting that a lot of faculty had a need for expert talent in advanced data analytics, data visualization, and more.
+“Increasingly, there’s a demand among faculty across disciplines to use data analytic tools and technologies to elevate their research productivity or innovation,” Perry said. “At the same time, I learned there was also a strong demand among data-science students on campus for research-based internship experiences. Bringing faculty and students together to address both gaps was a no-brainer!”
+The first round of the new program paired 35 IU Bloomington faculty with teams that included 60 graduate students overall. Pettus credits his student team with addressing numerous problems in the aging database and setting up structures that can be incorporated into a new iteration of the system.
+“The students were great,” he says. “They brought the skill set of understanding database structures that was needed to address the problems. I came away with a lot of valuable knowledge for continuing to design and run my experimental databases.”
+That exchange of knowledge and experience was a highlight of the FADS program pairings, according to data science master’s student Tushar Samantaray.
+"I think the new FADS program was a massive success. Working on the project helped me showcase skills I have and also filled gaps in my knowledge," said Samantaray, who assisted Sanya Carley and
+David Konisky
+, both professors in the O'Neill School of Public and Environmental Affairs.
+Carley noted that she and Konisky had been unsure they could pull off the data needs for the project they were planning—building a public-facing data dashboard of utility disconnections across the country that highlights associated demographics and utility disconnection policies per state and utility region.
+"Our data-gathering needs are immense and complicated," Carley said, "but we had a great experience with our data science team. They were great problem-solvers, always one step, or several, ahead of us in data planning."
+A screenshot of a data visualization from the arts analytics website created by the data science team working with Joanna Woronkowicz
+Economist
+Joanna Woronkowicz
+also had a project in mind that she wasn’t sure how to handle. The faculty director of the
+O’Neill School Arts, Entrepreneurship, and Innovation Lab
+and an expert in arts workers and the economy, Woronkowicz envisioned a website that would visualize data related to arts employment in the United States and make the data publicly accessible to policymakers, planners, and practitioners working in the arts sector.
+“It can be really difficult to reach outside your department or school to find the skills you need, so the FADS program was a unique opportunity,” Woronkowicz said. “The students developed the whole prototype for website, and I’m continuing to work with them. We’re a team now.”
+Students working with Todd Haugh also helped create something that may not have existed without their involvement.
+Haugh, an associate professor of business law and ethics in IU’s Kelley School of Business
+, wanted to create a “proof of concept” model to demonstrate how unethical decision making spreads through an organization in a contagion-like manner.
+“I’m not aware of any other research that demonstrates what these students were able to do,” Haugh said. “They built a model that shows how the risk of unethical decision making increases when an individual connects with an unethical actor. The theory of unethical contagion is out there, but we made it real.”
+For Shaurya Shubham and David Van Anda, the master’s students on Haugh’s team, the FADS program was especially beneficial for the experience it gave them in communicating beyond their data-science discipline.
+“It was a learning experience for me to explain my work to someone outside the field, which is a most important thing,” Shubham said.
+Van Anda, who also works outside of academia in the programming and business analysis areas, agreed.
+“I think it’s really important for data scientists to be able to effectively communicate with people who are not data scientists,” he says. “The FADS program involved a lot of people from different departments with different skills. It’s really impressive that IU was able to put this program together and make it happen. If other schools aren’t doing this already, they should be.”
+The FADS program will accept applications for its second round early in the spring 2022 semester. Interested faculty may
+contact Associate Vice Provost for Social Sciences Brea Perry
+for more information.

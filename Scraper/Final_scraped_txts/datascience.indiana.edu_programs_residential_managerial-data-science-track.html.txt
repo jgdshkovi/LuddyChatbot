@@ -1,0 +1,50 @@
+[Source URL]: https://datascience.indiana.edu/programs/residential/managerial-data-science-track.html
+
+Home
+Programs
+Master of Science — Residential
+Managerial Data Science Track
+Managerial Data Science Track
+This track trains students
+to become data science project and program managers. Leading a data science team requires soft skills, mainly in the areas of communication, general management techniques, and knowledge of a specific business domain.
+This track combines advanced knowledge in database systems and programming languages with strong interpersonal and project management skills.
+We encourage students to have some work experience and technical skills related to data science.
+Data Science Essentials
+If you don’t have a STEM background, consider taking
+Data Science Essentials
+: a self-paced package of online coursework that can help you prepare for the successful completion of the M.S. in Data Science degree.
+Degree requirements
+This track requires a set of courses with 30 credit hours. Students in this track will complete:
+9
+credits – Core MS in Data Science courses
+12
+credits - Information and Library Science courses
+3
+credit hours - Data Science Electives
+6
+credits - Electives
+Review the full list of your degree requirements
+All data science course requirements are listed in the Luddy academic bulletin. To review your specific requirements, choose the bulletin that represents the year you started, or plan to start, your program.
+If you wish to enroll in a course not listed in the academic bulletin, or outside of the Luddy School of Informatics, Computing, and Engineering, please
+contact us
+to request approval.
+2023–24 bulletin
+2022–23 bulletin
+2021–22 bulletin
+Your tomorrow starts now
+Learn how to apply
+Begin your online application
+Bachelor of Science
+Master of Science — Residential
+Applied Data Science Track
+Big Data Systems Track
+Computational and Analytical Track
+Managerial Data Science Track
+Master of Science 4+1 — Residential
+Master of Science 4+1 — Online
+Master of Science — Online
+Graduate Certificate — Online
+Dual M.S. in Data Science and Applied Statistics
+Dual M.S. in Data Science and Statistical Science
+Minor in Data Science
+Doctoral Minor

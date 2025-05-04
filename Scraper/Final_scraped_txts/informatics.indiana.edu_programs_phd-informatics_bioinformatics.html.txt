@@ -1,0 +1,128 @@
+[Source URL]: https://informatics.indiana.edu/programs/phd-informatics/bioinformatics.html
+
+Home
+Programs
+Ph.D. in Informatics
+Bioinformatics
+Bioinformatics
+Are you interested in pursuing answers
+to biological and medical research questions through training in informatics, computer science, life sciences, chemistry, and statistics? The bioinformatics track may be for you. This track focuses on:
+Bioinformatics shapes tomorrow
+Watch how Bioinformatics is making a difference
+See Bioinformatics in action
+Sequence pattern recognition
+Comparative genomics
+Structural genomics
+Fragment assembly in DNA sequencing
+Systems biology
+Models of evolution
+Molecular modeling
+Drug design
+This track will prepare you to become a top academic researcher or accomplished bioinformatics professional, in part through research collaborations with scientists at Indiana University, other institutions and research centers, and businesses.
+Track guide
+Summary
+The Bioinformatics track is for students who wish to train in the interface of informatics, computer science, life sciences, chemistry, and statistics in the pursuit of biological and medical research questions.
+Primary track faculty
+Volker Brendel
+: Track Director
+Computational genomics; plant genomics; social insect genomics.
+Mehmet Dalkilic
+Data Mining
+Matthew Hahn
+Genome-scale studies of organismal function and evolution.
+Roni Khardon
+Professor of Computer Science
+Paul Macklin
+Associate Professor
+Haixu Tang
+Computational mass spectrometry; mobile genetic elements; genome privacy; bacterial genomics and metagenomics.
+Yuzhen Ye
+Computational metagenomics; protein bioinformatics; biological pathway reconstruction/analysis.
+Curriculum
+A student must successfully complete ninety (90) credit hours of graduate-level course work. The specific track requirements are listed below.
+Required courses
+In addition to the Informatics-wide requirements for INFO-I 501 and INFO-I 502 as well as two research rotation INFO-I 609 and/or INFO-I 709s, students in the Bioinformatics Track need to take the two bioinformatics core classes INFO-I 519 and INFO-I 529 and the seminar classes INFO-I 609 and INFO-I 708. All required courses provided by faculty in the Bioinformatics Track, including I609 and I709, are open to students from other tracks and programs.
+Informatics Core Requirements (6 cr.)
+INFO I501 Introduction to Informatics (3 cr.)
+INFO I502 Human-Centered Research Methods in Informatics (3 cr.)
+Bioinformatics Core Requirements (6 cr.)
+INFO I519 Introduction to Bioinformatics (3 cr.)
+INFO I529 Machine Learning in Bioinformatics (3 cr.)
+Seminar Requirements (6 cr.)
+INFO I609 Seminar I in Informatics (3 cr.)
+INFO I709 Seminar II in Informatics (3 cr.)
+NOTE:
+A student must take I609 and/or I709.
+Research Rotation Requirement (6 cr.)
+INFO I790 Informatics Research Rotation (3 cr.)
+NOTE:
+A student must complete two rotations of I790. A third rotation will not count for course credit.
+Theory and Methodology Requirement (12 cr.)
+NOTE:
+These courses must be appropriate for a Ph.D. in Informatics.
+Minor (6-15 cr.)
+NOTE:
+A student must complete an internal or external minor approved by the University Graduate School and the School. If a student selects an individualized minor, prior to taking courses, the University Graduate School must approve the proposed minor course list. There is no typical minor; however, students in the Bioinformatics track often pursue a minor in Biology, Computer Science, or Statistics.
+Electives (12-30 cr.)
+NOTE:
+A student must have all electives approved by the student's advisor and the Director of Informatics Graduate Studies prior to enrolling in the course.
+Thesis Reading and Research (minimum of 21 cr. and a maximum of 30 cr.)
+INFO I890 Thesis Readings and Research
+Optional courses
+In addition to required courses, faculty in the track offer courses that provide more targeted training in specific areas.
+INFO I590 Topics in Informatics: SNP Discovery and Population Genetics
+CSCI B555 Machine Learning
+CSCI B565 Data Mining
+Typical minors
+Biology, Computer Science, or Statistics.
+Qualifying exam
+Written and oral examination topics are selected by the program committee based on subjects covered in the student’s earlier coursework.  Generally, students choose one computational area (from machine learning, data mining, or algorithms) and one biological area (from molecular, structural, or evolutionary biology) to narrow the scope of examination, and then textbooks and literature used in the appropriate courses and specific research areas of the candidate are assigned for study. The typical written examination takes half a day each for the computational and biological components.  In addition, the required breadth examination will similarly cover a student-chosen other area of Informatics, as covered in the candidate’s course work, and evaluated by the candidate’s outside member of their program committee.
+Dissertation proposal and thesis
+The Ph.D. candidate submits a thesis proposal to their thesis committee a couple of weeks before their
+Dissertation Proposal
+meeting. The candidate will give an open presentation about his/her thesis research topic at the meeting, followed by a closed meeting with their committee in which the candidate will answer questions and receive feedback from committee members. A draft of the dissertation thesis should be submitted to the thesis committee one month before the
+Dissertation Defense
+. If the candidate passed the defense, their thesis will need to be revised to incorporate the comments from the committee members.
+Sample coursework
+Students typically take the INFO-I 501/I502 and BIO Track I519/I529 classes as well as the research rotations in their first two semesters.  The required seminar courses and additional credit requirements are covered in years two and three, augmenting the student’s own research (mentored by their advisor).
+Sample dissertation titles
+Clark, Wyatt
+Understanding protein function through statistical inference and evolutionary analysis
+Pejaver, Vikas
+Computational methods for understanding the impact of amino acid substitutions on protein function
+Wang, Mingjie
+Development and Application of Novel Methods for Comparative Metagenomics and Metatranscriptomics
+Xin, Fuxiao
+Methods for predicting functional residues in protein structures and understanding molecular mechanisms of disease
+Yu, Chuan-Yih
+Algorithms for automated identification and quantification of glycans and glycopeptides
+Zhang, Quan
+Functional Annotation of Metagenomes with a focus on Bacterial Immune Systems
+Zhang, Simo
+Computational methods for Improving genome assembly, annotation, and analysis
+Zhang, Xinjun
+ChacacterizingLsequence fe􀀺atures of human pathogenic variations and impact on post-transcriptional regulation
+Zhao, Yongan
+Privacy-preserving sharing and analysis on human genomic data
+Some metrics for Bioinformatics graduates
+Recent graduates have pursued either careers in industry or post-doctoral academic appointments,
+e.g.
+:  Wyatt Clark (Yale University), Yong Li (Dow AgroSciences), Amrita Mohan (OSI Pharmaceuticals), Vikas Pejaver (University of Washington), Fuxiao Xin (GE Global Research), Chuan-Yih Yu (MD Anderson Cancer Center), and Yongan Zhao (Seven Bridges Inc).
+B.S. in Informatics
+Undergraduate Minors
+Undergraduate Certificates
+4+1 Program
+M.S. Informatics
+M.S. in Human-Computer Interaction
+Accelerated M.S.I.S.
+Ph.D. in Informatics
+Animal Informatics
+Bioinformatics
+Complex Networks and Systems
+Computing, Culture, and Society
+Human-Computer Interaction/Design
+Health Informatics
+Intelligent and Interactive Systems
+Security Informatics
+Virtual Heritage
+Ph.D. Minors

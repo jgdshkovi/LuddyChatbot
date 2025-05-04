@@ -1,0 +1,50 @@
+[Source URL]: https://www.hathitrust.org/htrc
+
+Home
+About
+HathiTrust Research Center
+HathiTrust Research Center
+Changes Ahead for HTRC
+HathiTrust will suspend funding for the HathiTrust Research Center (HTRC) at the end of 2026 to allocate resources toward new programs that leverage emerging technologies to enhance our services and collection. Transition planning for services and access is underway.
+Learn More
+Welcome to HathiTrust
+Our Mission & History
+Strategic Vision
+HathiTrust Research Center
+Governance
+Board of Governors
+Program Steering Committee
+Our Team
+What Can You Do With So Many Books?
+The
+HathiTrust Research Center (HTRC)
+enables large-scale analysis of works in the HathiTrust Digital Library (HTDL) to facilitate non-profit research and educational uses of the collection. HTRC, which is co-located at Indiana University and the University of Illinois at Urbana-Champaign, engages in research and development for text analysis of massive digital libraries.
+The Center creates and maintains a suite of tools and services for text-based, data-driven research and engages in cutting-edge research on large-scale data analysis. HTRC makes available the collection for text and data mining purposes, while remaining clearly within the bounds of the fair use rights courts have recognized as applying to text analysis.
+Relationship to HathiTrust
+HathiTrust is a partnership of academic and research institutions, offering a collection of millions of titles digitized from libraries around the world.
+Individual access and preservation are important concerns for HathiTrust. It allows users to search for and build collections of digitized works, and to read those in the public domain.
+The Research Center’s focus is on the aggregate strengths: what can we learn from so many books? Digitization has enabled large-scale questions that we couldn’t ask before, and the Research Center is here to help you ask them while working within the restrictions of intellectual property law.
+HathiTrust Research Center services
+People
+Senior Leadership Team
+John Walsh
+HTRC Director, Indiana University
+J. Stephen Downie
+HTRC Co-Director, University of Illinois
+Yu (Marie) Ma
+HTRC Associate Director for Cyber Infrastructure Operations, Indiana University
+Janet Swatscheno
+HTRC Associate Director for Outreach and Education Services, HathiTrust
+Glen Layne-Worthey
+HTRC Associate Director for Research Support Services, University of Illinois
+HTRC Staff
+Indiana University
+Jennifer Christie, Associate UX Specialist
+Samitha Liyanage, Research Software Engineer
+Adam Schaller, Senior Systems Administrator
+Leena Unnikrishnan, Research Software Engineer
+University of Illinois
+Boris Capitanu, Senior Research Developer
+Ryan Dubnicek, Digital Humanities Specialist
+Deren Kudeki, Visiting Research Programmer
+Top

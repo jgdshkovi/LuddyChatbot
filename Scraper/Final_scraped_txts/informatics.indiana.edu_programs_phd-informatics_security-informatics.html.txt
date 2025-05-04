@@ -1,0 +1,137 @@
+[Source URL]: https://informatics.indiana.edu/programs/phd-informatics/security-informatics.html
+
+Home
+Programs
+Ph.D. in Informatics
+Security Informatics
+Security Informatics
+If you’re interested in going beyond
+technology to consider the social and practical aspects of protecting data, privacy, and other assets, the security informatics track may be for you. In this track, you’ll focus on topics such as:
+Informatics Shapes Tomorrow
+Watch how Security Informatics is making a difference
+See Security Informatics in action
+The economics of security
+User-centered design of security
+Cryptography
+Security modeling
+Threat assessment and analysis
+Network security
+Privacy
+Security and computer forensics
+To better protect today’s computer systems and sensitive data, security professionals must understand the people as well as the technology. That’s why you’ll not only get a technical foundation in designing, implementing, and managing secure information technology systems, you’ll also gain insight into the social, legislative, and economic considerations affecting decisions people and businesses make about their own security.
+Security professionals are in high demand in a wide variety of industries, so you can expect to have abundant career options when you graduate.
+Learn about related research
+Security and Privacy in Informatics, Computing, and Engineering (SPICE) is the branch of informatics that studies and supports the design, evaluation, and implementation of technologies that enable control over information.
+Learn more about SPICE
+Track guide
+Summary
+Information security has profound implications in all aspects of modern life. To better protect today's computer systems and sensitive data, security professionals must understand the people as well as the technology. The Security Informatics track takes a multi-faceted approach to information security that considers the numerous modern technical challenges, and then goes beyond technology to consider the social and practical aspects of protecting data, privacy, and other assets.
+In this program, students receive a technical foundation in designing, implementing, and managing secure information technology systems. Additionally, students gain insight into the social, legislative, and economic considerations that affect the decisions people and businesses make about their own security. Security professionals are in high demand in a wide variety of industries, providing abundant career options for our graduates. The core educational goals for Security Informatics include:
+Develop the mathematical foundation required for Security Informatics.
+Become well versed in the recognition and understanding of seminal work (research, innovation and literature) that constitutes the core of information security.
+Acquire the technical skills to make effective use of current and emerging design applications.
+Understand the socioeconomic ramifications of security and privacy-enhancing technologies.
+Cultivate an understanding of security in practice and how it functions in organizations, as well as in systems and network administration.
+Develop an appreciation for the insights of economics and organizational informatics, to make optimal business decisions as embedded in security technology.
+Develop an interdisciplinary understanding that enables design and implementation that can address social engineering and economics of security.
+Primary track faculty
+Informatics appointments
+L. Jean Camp
+Professor L. Jean Camp, is co-Director of the Center for Security and Privacy in Informatics, Computing, and Engineering. Her research areas include security, social informatics and proactive health informatics. Ph.D. in Engineering and Public Policy.
+Mary Jean Amon
+Assistant Professor, Mary Jean Amon, with advanced degrees in Experimental Psychology and Psychology in Education, has held research roles at Indiana University and the University of Colorado, focusing on user-oriented research to enhance decision-making within complex socio-technological systems, and has published widely in venues like CHI, CSCW, and IEEE Security and Privacy.
+Cici Ling
+Assistant Professor, Cici Ling studies online abusive behavior across platforms using multi-modal, mixed methods to develop mitigation strategies; her work has been recognized in top venues like IEEE S&P and ACM CSCW and featured in outlets such as Wired. She has received honors including the 2023 EECS Rising Star award and the 2022 Meta PhD Fellowship.
+Computer Science appointments
+Esfandiar Haghverdi
+Professor of Computer Science and Adjunct Professor of Mathematics
+Yan Huang
+Assistant Professor, Yan Huang’s research interests include computer security and privacy, applied cryptography, programming languages, data mining and artificial Intelligence. Ph.D. Computer Science.
+Apu Kapadia
+Associate Professor Apu Kapadia, is the Associate director of Cybersecurity Academic Programs.  His research focuses on computer security and privacy issues in the context of social networks and wearable and sensor-enabled computing.  Ph.D. Computer Science.
+Hyungsub Kim
+Assistant Professor, Hyungsub Kim's research focuses on system security with a focus on program analysis and formal methods to address security threats in robotic vehicles, including detecting and verifying patches for logic bugs and developing countermeasures against physical sensor attacks.
+Thai Le
+Assistant Professor, Thai Le earned his Ph.D. from Pennsylvania State University in 2022, his studies focused on Artificial Intelligence and Machine Learning, Natural Language Processing, Security and Privacy, and Security Informatics.
+Xiaojing Liao
+Assistant professor Xiaojing Liao's research interests include data-driven security, web security and privacy, with the specific focus on the investigation of cybercrime and cyber threat intelligence. Ph.D in Computer Engineering.
+Chenghong Wang
+Assistant Professor, Chenhong Wang's research interests are related to system and software security, especially in developing and applying automated program analysis techniques for vulnerability discovery and security analysis in complex software systems (e.g., Linux kernel)
+Luyi Xing
+Assistant professor Luyi Xing's research focuses on the security of a wide range of systems, including mobile OSes, desktop OSes, IoT, Web, Cloud and applications on these systems.  Ph.D. in Security Informatics.
+Hang Zhang
+Assistant Professor, Hang Zhang's research interests are related to system and software security, especially in developing and applying automated program analysis techniques for vulnerability discovery and security analysis in complex software systems (e.g, Linux kernel).
+Curriculum
+Required courses
+All required courses provided by faculty in the Security track, including the I609 Advanced Seminar, are open to students with sufficient background from other tracks and programs.
+A student must successfully complete ninety (90) credit hours of graduate-level course work. The specific track requirements are below.
+Informatics Coure Requirements (6 cr.)
+INFO I501 Introduction to Informatics (3 cr.)
+INFO I502 Human-Centered Research Methods in Informatics (3 cr.)
+Security Core Requirements (6 cr.)
+INFO I520 Security for Networked Systems (3 cr.)
+INFO I533 Systems and Protocol Security and Information Assurance (3 cr.)
+Seminar Requirements (6 cr.)
+INFO I609 Seminar I in Informatics (3 cr.)
+INFO I709 Seminar II in Informatics (3 cr.)
+NOTE:
+A student must take I609 and/or I709.
+Research Rotation Requirement (6 cr.)
+INFO I790 Informatics Research Rotation (3 cr.)
+NOTE:
+A student must complete two rotations of I790. A third roation will not count for course credit.
+Theory and Methodology Requirement (12 cr.)
+NOTE:
+These courses must be appropriate for a Ph.D. in Informatics.
+Minor (6-15 cr.)
+NOTE:
+A student must complete an internal or external minor approved by the University Graduate School and the School. If a student selects an individualized minor, prior to taking courses, the University Graduate School must approve the proposed minor course list. There is no typical minor; however, students in the Security Informatics track have pursued minors in Computer Science, Psychology, Sociology, and Statistics.
+Electives (12-30 cr.)
+NOTE:
+A student must have all electives approved by the student's advisor and the Director of Informatics Graduate Studies prior to enrolling in the course.
+Thesis Reading and Research (minimum 21 cr. maximum 30 cr.)
+INFO I890 Thesis Readings and Research
+Optional courses
+In addition to required courses, faculty in the track offer courses that provide more targeted training is specific areas.
+INFO I521 Human Robot Interaction
+INFO I525 Organizational Informatics and Economics of Security
+INFO I536 Foundational Mathematics of Cybersecurity
+INFO I537 Legal and Social Informatics of Security
+INFO I538 Introduction to Cryptography
+INFO I539 Cryptography Protocols
+INFO I590 Past topics have included: Security and Privacy in the Internet of Things, Advanced Topics in Privacy, and Usable Security
+Typical minors
+Computer Science, Social Informatics, Psychology, Public Management, Complex Systems
+Qualifying exam
+There are three components to the security qualifier for doctoral candidacy. There is a comprehensive written exam. There is production of independent research. There is an oral defense of that independent research.
+The written exam is a 4-hour closed book exam. During the exam the student may not reference any material except what is stored in the student’s head. Students must turn-off and place on the desk any cellphones, or other digital devices. The exam is broken in to four sections. First, there are breadth questions related to security in general that all students should know. Second, there are questions related to specific security courses the students have taken that are most applicable to the student’s area of research, and therefore is expected to have more than basic knowledge. Third, there are questions from a course that is related to the student’s minor. Fourth, and most in-depth, questions relating to the students research area. The advisor usually writes these last questions. The student must pass each of the four sections in order to pass the exam. The student will not discuss the questions on this exam with anyone but faculty at any point during or after the exam. The student will write the student’s answers exam in IU blue-books. On two occasions due to disability concerns the students have been provided stripped-down computers without internet access for the exam.
+The second component is demonstrated research progress in a written form. Often this will take the form of work that has either been accepted in a peer-reviewed event or is judged as equivalent quality by the student’s qualifying committee. In some domains, most obviously theory and cryptography, there is not a requirement for a publishable unit but rather proof of clear research ability and knowledge as illustrated by significant progress.
+The oral exam is a presentation of that publication. It requires the student be able to defend his or her own, and illustrate mastery. Every stage of the research is subject to question.
+Sample dissertation titles
+Debin Liu (2011) Incentives, Behavior and Risk Management.
+Vaibhav Garg (2012) Risk Perceptions of Security and Privacy Risks Online.
+Chris Soghoian (2012) The Spies we Trust: Third Party Service Providers and Law Enforcement Surveillance.
+Kehuan Zhang (2012). Security in Cloud Computing: New Challenges and Solutions.
+Rui Wang (2013). Security and Privacy Hazards of Software-as-a-Service: Analyses and Mitigations over Distributed Functionalities.
+Nathaniel Husted (2014). Analysis Techniques for Exploring Emergent Vulnerabilities and Attacks on Mobile Devices.
+Shirin Nilizadeh (2014). Privacy-Aware Decentralized Architectures for Socially Networked Systems.
+Timothy Kelley (2014). Systemic Effects of Human Factors in Information Security.
+Zheng Dong (2015). Small Communities with Strong Ties (And, Or, Versus) Big Data in Detecting Masquerade Attacks.
+B.S. in Informatics
+Undergraduate Minors
+Undergraduate Certificates
+4+1 Program
+M.S. Informatics
+M.S. in Human-Computer Interaction
+Accelerated M.S.I.S.
+Ph.D. in Informatics
+Animal Informatics
+Bioinformatics
+Complex Networks and Systems
+Computing, Culture, and Society
+Human-Computer Interaction/Design
+Health Informatics
+Intelligent and Interactive Systems
+Security Informatics
+Virtual Heritage
+Ph.D. Minors

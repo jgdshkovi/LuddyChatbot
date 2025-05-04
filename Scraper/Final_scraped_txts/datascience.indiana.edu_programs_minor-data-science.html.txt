@@ -1,0 +1,26 @@
+[Source URL]: https://datascience.indiana.edu/programs/minor-data-science.html
+
+Home
+Programs
+Minor in Data Science
+Minor in Data Science
+Data gives you an edge with any degree
+Data is being generated at an ever-expanding rate, and the need for data scientists who can process, analyze, and interpret data is stronger than ever. A minor in data science will give you the skills to understand data, what can be done with it, and how it affects virtually every aspect of our personal and professional lives.
+With a focus on computation, our data science minor will teach you how to take data in multiple formats and yield insights into relationships within the data while saving the results in various forms, including visualizations. Exposure to data science skills will give you an edge in your career.
+Course requirements
+A minimum of 16 credit hours are required, which may include the following courses:
+CSCI-C200 Introduction to Computers and Programming
+CSCI-C241 Discrete Structures for Computer Science
+CSCI-C343 Data Structures or DSCI-A310 Problem Solving Using Data
+DSCI-D321 Data Representation
+Elective (one course 3-4 cr.)
+Bachelor of Science
+Master of Science — Residential
+Master of Science 4+1 — Residential
+Master of Science 4+1 — Online
+Master of Science — Online
+Graduate Certificate — Online
+Dual M.S. in Data Science and Applied Statistics
+Dual M.S. in Data Science and Statistical Science
+Minor in Data Science
+Doctoral Minor

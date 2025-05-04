@@ -1,0 +1,71 @@
+[Source URL]: https://datascience.indiana.edu/apply/preparatory-resources.html
+
+Home
+How to Apply
+Preparatory Resources
+Preparatory Resources
+Resources
+Sufficient mathematical and programming skills are essential to any budding data scientist, analyst, consultant, or engineer. If you have no experience with programming or need a refresher in topics such as calculus or linear algebra, self-study could be a benefit prior to applying.
+Fortunately, several low-cost certification options are available through open-source courses such as
+Coursera
+,
+Pluralsight
+, and
+edX
+.
+Khan Academy
+,
+Codeacademy
+, and
+Datacamp
+are also excellent free resources that are widely available. Since applicants come from a variety of academic, personal, and professional backgrounds, we’ve compiled a list of preparatory courses/resources that can be exceptionally helpful to those applying or looking for remediation.
+Mathematics
+Linear Algebra
+(Kahn Academy)
+Mathematics for Machine Learning: Linear Algebra
+(Coursera)
+Data Science: Linear Regression
+(edX)
+Data Science Math Skills
+(Coursera)
+Introduction to Discrete Mathematics
+(Coursera)
+Calculus 1
+(Khan Academy)
+Calculus Applied!
+(edX)
+Introduction to Statistics in R
+(Datacamp)
+Programming
+Learn Python 3
+(Codeacademy)
+Python for Everybody
+(Coursera)
+R Programming
+(Coursera)
+Introduction to Computers Science and Programming Using Python
+(edX)
+Programming with R
+(Pluralsight)
+Python for Data Analyst
+(Pluralsight)
+Learn R
+(Codeacademy)
+Introduction to Python
+(Datacamp)
+Supplemental concepts
+Machine Learning Crash Course
+(Google)
+Algorithmic Toolbox
+(Coursera)
+Data Analytics Basics for Everyone
+(edX)
+Database Management Essentials
+(Coursera)
+Our program also offers a text-based, self-guided package called
+Data Science Essentials
+for those who may already have a basic understanding of these concepts. This package includes overviews on Basic Linear Algebra & Calculus, Java, Python, C++, R, and Introduction to SQL and MongoDB. The cost of the package is $150, and you will retain access to the materials for at least one calendar year.
+The above are simply suggestions and by no means absolute. The goal is to
+build foundational skills
+; don’t get caught up in earning every individual specialization or certification out there. It is not expected nor necessary. However, be sure to disclose such achievements on your resume as professional development.
+Preparatory Resources

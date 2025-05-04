@@ -1,0 +1,100 @@
+[Source URL]: https://informatics.indiana.edu/programs/phd-informatics/virtual-heritage.html
+
+Home
+Programs
+Ph.D. in Informatics
+Virtual Heritage
+Virtual Heritage
+Are you interested in bringing the past to life?
+The virtual heritage track allows you to study how information technology can be applied to the traditional goals of cultural heritage professionals: discovery, recording, restoration, analysis, interpretation, and transmission of 3D human creations.
+Virtual Heritage shapes tomorrow
+Watch how Virtual Heritage is making a difference
+See our program in action
+In this track, you’ll receive practical training in the use of 3D tools for analysis of cultural heritage objects and hone your ability to conceptualize and demonstrate how to use these tools to develop new and compelling solutions to important problems faced in fields such as:
+Anthropology
+Archaeology
+Conservation
+Exhibition design
+Egyptology
+Art and architectural history
+You’ll focus on digitization of 3D objects, including digitally restoring objects to their original condition by using best practices of the profession and time-tested principles of art and architectural restoration. You’ll learn how to publish your 3D models on web pages, print them on a 3D printer, and visualize them interactively in a virtual reality environment to make the items more available to researchers.
+Visit the Virtual World Heritage Laboratory
+Track guide
+Summary
+Virtual Heritage is the study of how information technology can be applied in pursuit of the traditional goals of cultural heritage professionals: the discovery, recording, restoration, analysis, interpretation, and transmission of three-dimensional human creations from the small scale of a cylinder seal, vase, or statue to the large scale of a building, settlement, or cultural landscape. The purpose of our program is both to offer students practical training in the use of 3D tools (e.g., PhotoScan, AutoCad, 3D Studio Max, Unity, Zbrush, etc.) and also to develop the student’s ability to conceptualize and demonstrate how these tools can be used to develop new and compelling solutions to important problems faced by professionals in fields such as Anthropology, Archaeology, Conservation, Exhibition Design, Egyptology, as well as Art and Architectural History.
+Track faculty
+Primary
+Gabriele Guidi
+: Track Director
+From 1999 Gabriele Guidi began to do research on 3D imaging technologies applied to Cultural Heritage, leading the digitization of important artworks from Donatello and Leonardo da Vinci. He developed methods for integrating active and passive 3D devices, for 3D equipment characterization and for large-scale 3D digitization in museums.He is now involved in the application of 3D Digitization to cultural heritage, industrial design, mechanical engineering, and art.
+Bernard Frischer
+Theory and practice of Virtual Heritage, use of game engines for historical simulation, virtual archaeoastronomy, application of Virtual Reality and Augmented Reality in museums and on cultural heritage sites, digital reconstruction of the monuments of ancient Rome and other sites of the classical world.
+Affiliated track faculty
+Katy Borner (Victor H. Yngve Professor of Information Science)
+3D collaborative Virtual Environments; data modeling; visualization, computer vision and graphics.
+Michael Chabin (Informatics)
+Use of the game engine Unity for scientific simulations.
+Stacie King (Anthropology)
+Mesoamerican archaeology.
+Judith A. Kirk (Anthropology)
+Museum exhibition design.
+Giles Knox (Art History)
+Renaissance and Baroque art and architectural history.
+Julie Van Voorhis (Art History)
+Classical art and architectural history.
+Steven Vinson (NELC)
+Egyptology.
+Curriculum
+A student must successfully complete ninety (90) credit hours of graduate-level coursework. The specific track requirements are listed below.
+Required courses
+All required courses provided by faculty in Virtual Heritage are open to students from other tracks and programs.
+Informatics Core Requirements (6 cr.)
+INFO I501 Introduction to Informatics (3 cr.)
+INFO I502 Human-Centered Research (3 cr.)
+Virtual Heritage Core Requirements (9 cr.)
+INFO I587 Introduction to Virtual Heritage (3 cr.)
+INFO I588 Advanced Topics in Virtual Heritage (3 cr.)
+INFO I698 Research in Informatics: Virtual Heritage Laboratories (3 cr.)
+Seminar Requirements (6 cr.)
+INFO I609 Seminar I in Informatics (3 cr.)
+INFO I709 Seminar II in Informatics (3 cr.)
+NOTE:
+A student must take I609 and/or I709.
+Research Rotation Requirement (6 cr.)
+INFO I790 Informatics Research Rotation (3cr.)
+NOTE:
+A student must complete two rotations of I790. A third rotation will not count for course credit.
+Theory and Methodology Requirement (12 cr.)
+NOTE:
+These courses must be appropriate for a Ph.D. in Informatics.
+Minor (6-15 cr.)
+NOTE:
+Typical minors include Archaeology, Art History, Anthropology, Egyptology.
+Thesis Reading and Research (minimum of 21 cr. and a maximum of 30 cr.)
+INFO I890 Thesis Readings and Research
+Optional courses
+In addition to required courses, students are encouraged to take the following courses:
+INFO I590  Topics in Informatics Virtual World Design
+CSCI B657 Computer Vision
+Typical minors
+Archaeology, Art History, Anthropology, Egyptology.
+Qualifying exam
+Written and oral examinations decided by program committee based on bibliography from the two introductory courses in Virtual Heritage and specific research interests of candidate. Typical written exam: three papers or one-week take home exam.
+B.S. in Informatics
+Undergraduate Minors
+Undergraduate Certificates
+4+1 Program
+M.S. Informatics
+M.S. in Human-Computer Interaction
+Accelerated M.S.I.S.
+Ph.D. in Informatics
+Animal Informatics
+Bioinformatics
+Complex Networks and Systems
+Computing, Culture, and Society
+Human-Computer Interaction/Design
+Health Informatics
+Intelligent and Interactive Systems
+Security Informatics
+Virtual Heritage
+Ph.D. Minors

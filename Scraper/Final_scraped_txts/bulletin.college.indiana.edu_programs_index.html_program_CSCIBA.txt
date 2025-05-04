@@ -1,0 +1,880 @@
+[Source URL]: https://bulletin.college.indiana.edu/programs/index.html?program=CSCIBA
+
+Department of Computer Science
+Bachelor of Arts in Computer
+Science
+Students on Summer 2024, Fall 2024, or Spring 2025 requirements
+CSCIBA
+The Bachelor of Arts in Computer Science teaches the principles of computation and algorithms and allows students to develop programming and computing skills.  Computer scientists, software engineers, programmers, and other computing professionals are experts on how technology works and how computing can address even the most complicated and intricate problems.
+View Degree Map
+A semester-by-semester path to completing degree and major requirements
+Home
+Majors, Minors + Certificates
+Bachelor of Arts in Computer Science
+Requirements
+Major
+Degree
+The major requires at least 30 credit hours (39 with the Addenda Requirements), including the requirements listed below.
+Core Courses.
+Introduction to Computer Science.
+One (1) course:
+CSCI-C 200 Introduction to Computers and Programming
+i
+CSCI-C 211 Introduction to Computer Science
+i
+CSCI-H 211 Introduction to Computer Science-Honors
+i
+CSCI-C 200 Introduction to Computers and Programming
+Description
+This course is an introduction, broadly, to algorithmic thinking and, specifically, to programming. It teaches the basics of programming using real world applications in natural, physical and social sciences. Students will develop ability to program by identifying problems in real world and then creating a program that solves the problem.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+CSCI-C 211 Introduction to Computer Science
+Description
+A first course in computer science for those intending to take advanced computer science courses. Introduction to programming and to algorithm design and analysis. Using the Scheme programming language, the course covers several programming paradigms. Lecture and laboratory.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+CSCI-H 211 Introduction to Computer Science-Honors
+Description
+Honors version of CSCI-C 211.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Software Systems.
+One (1) course:
+CSCI-C 212 Introduction to Software Systems
+i
+CSCI-H 212 Introduction to Software Systems, Honors
+i
+CSCI-C 212 Introduction to Software Systems
+Description
+Design of computer software systems and introduction to programming in the environment of a contemporary operating system. Topics include a modern object-oriented programming language; building and maintaining large projects; and understanding the operating system interface.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+CSCI-H 212 Introduction to Software Systems, Honors
+Description
+Honors version of C212
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Discrete Structures.
+One (1) course:
+CSCI-C 241 Discrete Structures for Computer Science
+i
+CSCI-H 241 Discrete Structures for Computer Science, Honors
+i
+CSCI-C 241 Discrete Structures for Computer Science
+Description
+Induction and recursive programs, running time, asymptotic notations, combinatorics and discrete probability, trees and lists, the relational data model, graph algorithms, propositional and predicate logic.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+CSCI-H 241 Discrete Structures for Computer Science, Honors
+Description
+Honors version of CSCI-C 241.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Data Structures.
+One (1) course:
+CSCI-C 343 Data Structures
+i
+CSCI-H 343 Data Structures, Honors
+i
+CSCI-C 343 Data Structures
+Description
+Systematic study of data structures encountered in computing problems, structure and use of storage media, methods of representing structured data, and techniques for operating on data structures.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+CSCI-H 343 Data Structures, Honors
+Description
+Honors version of CSCI-C 343.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Advanced Electives.
+15 credit hours:
+Any CSCI-B 300–399
+Any CSCI-B 400–499
+Any CSCI-C 300–399
+Any CSCI-C 400–499
+Any CSCI-H 300–399
+Any CSCI-H 400–499
+Any CSCI-P 300–399
+Any CSCI-P 400–499
+Any CSCI-Y 300–399
+Any CSCI-Y 400–499
+MATH-M 471 Numerical Analysis I
+i
+MATH-M 472 Numerical Analysis II
+i
+INFO-H 494 Design and Development of an Information System
+i
+INFO-H 495 Design and Development of an Information Systems
+i
+INFO-I 494 Design and Implementation of an Information System (Part i)
+i
+INFO-I 495 Design and Development of an Information System
+i
+Expand or hide additional courses that may be applied toward this requirement
+MATH-M 471 Numerical Analysis I
+Credits
+3
+Prerequisites
+MATH-M 301, MATH-M 303, or MATH-S 303; and MATH-M 311 or MATH-S 311; and MATH-M 343 or MATH-S 343
+Notes
+Knowledge of a computer language such as FORTRAN, C, C++, etc., is essential for success in this course. Students with other programming backgrounds should consult the instructor
+Description
+Interpolation and approximation of functions, numerical integration and differentiation, solution of nonlinear equations, acceleration and extrapolation, solution of systems of linear equations, eigenvalue problems, initial and boundary value problems for ordinary differential equations, and computer programs applying these numerical methods.
+Close
+MATH-M 472 Numerical Analysis II
+Credits
+3
+Prerequisites
+MATH-M 301, MATH-M 303, or MATH-S 303; and MATH-M 311 or MATH-S 311; and MATH-M 343 or MATH-S 343
+Notes
+Knowledge of a computer language such as FORTRAN, C, C++, etc., is essential for success in this course. Students with other programming backgrounds should consult the instructor.
+Description
+Interpolation and approximation of functions, numerical integration and differentiation, solution of nonlinear equations, acceleration and extrapolation, solution of s of linear equations, eigenvalue problems, initial and boundary value problems for ordinary differential equations, and computer programs applying these numerical methods.
+Close
+INFO-H 494 Design and Development of an Information System
+Description
+Honors version of INFO-I 494. Students work on capstone projects in supervised teams. They select an appropriate project (preferably based on cognate) and then learn to develop a plan that leads to success. Teamwork, communication, and organizational skills are emphasized in a real-world-style environment.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+INFO-H 495 Design and Development of an Information Systems
+Description
+None
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+INFO-I 494 Design and Implementation of an Information System (Part i)
+Description
+Students work on capstone projects in supervised teams. They select an appropriate project (preferably based on cognate) and then learn to develop a plan that leads to success. Teamwork, communication, and organizational skills are emphasized in a real-world-style environment. Credit not given for both INFO-I 494 and H 494.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+INFO-I 495 Design and Development of an Information System
+Description
+None
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Addenda Requirements*.
+Mathematical Foundations.
+One (1) course:
+MATH-M 118 Finite Mathematics
+i
+MATH-M 211 Calculus I
+i
+MATH-S 118 Honors Finite Mathematics
+i
+MATH-S 211
+MATH-V 118 Finite Mathematics with Applications
+i
+MATH-M 118 Finite Mathematics
+Credits
+3
+Prerequisites
+None
+Notes
+R: To be successful, students will demonstrate mastery of two years of high school algebra as indicated by an appropriate ALEKS score or completion of MATH-M 014, MATH-M 018, or MATH-J 111
+Description
+Sets, counting, basic probability, including random variables and expected values. Linear systems, matrices, linear programming, and applications.
+Repeatability
+Credit given for only one of MATH-A 118, MATH-M 118, MATH-S 118, MATH-V 118; or MATH-D 116 and MATH-D 117.
+Fall 2025
+CASE MM
+course
+Summer 2025
+CASE MM
+course
+Spring 2025
+CASE MM
+course
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+MATH-M 211 Calculus I
+Credits
+4
+Prerequisites
+None
+Notes
+R: To be successful, students will demonstrate mastery of two years of high school algebra, one year of high school geometry, and pre-calculus, and trigonometry as indicated by an appropriate ALEKS score or completion of MATH-M 027
+Description
+Limits, continuity, derivatives, definite and indefinite integrals, applications.
+Repeatability
+A student may receive credit for only one of the following: MATH-J 113, MATH-M 119, MATH-V 119, MATH-M 211, or MATH-S 211.
+Fall 2025
+CASE MM
+course
+Summer 2025
+CASE MM
+course
+Spring 2025
+CASE MM
+course
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+MATH-S 118 Honors Finite Mathematics
+Credits
+3
+Prerequisites
+Hutton Honors College membership
+Notes
+R: To be successful students will demonstrate mastery of two years of high school algebra as indicated by an appropriate ALEKS score or completion of MATH-M 014, MATH-M 018, or MATH-J 111
+Description
+Designed for students of outstanding ability in mathematics. Covers all material of MATH-M 118 and additional topics from statistics and game theory. Computers may be used in this course, but no previous experience is assumed.
+Fall 2025
+CASE MM
+course
+Summer 2025
+CASE MM
+course
+Spring 2025
+CASE MM
+course
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+MATH-V 118 Finite Mathematics with Applications
+Credits
+3
+Prerequisites
+None
+Notes
+R: To be successful, students will demonstrate mastery of two years of high school algebra as indicated by an appropriate ALEKS score or completion of MATH-M 014, MATH-M 018, or MATH-J 111
+Description
+Sets, counting, basic probability, linear modelling, and other discrete topics. Applications to various areas depending on topic. Possibilities include social and biological sciences and consumer mathematics.
+Repeatability
+Credit given for only one of MATH-A 118, MATH-M 118, MATH-S 118, MATH-V 118; or MATH-D 116 and MATH-D 117.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+Mathematical Science Elective.
+One (1) course:
+Additional course from the Mathematical Foundations list
+MATH-M 212 Calculus II
+i
+MATH-M 213
+MATH-M 301 Linear Algebra and Applications
+i
+MATH-M 303 Linear Algebra for Undergraduates
+i
+MATH-M 311 Calculus III
+i
+MATH-M 312 Calculus IV
+i
+MATH-M 343
+MATH-M 371 Elementary Computational Methods
+i
+MATH-M 384 Logic
+i
+MATH-M 391 Introduction to Mathematical Reasoning
+i
+MATH-M 405 Number Theory
+i
+MATH-M 409 Linear Transformations
+i
+MATH-S 212 Honors Calculus II
+i
+MATH-S 311 Honors Course in Calculus III
+i
+MATH-S 312 Honors Course in Calculus IV
+i
+MATH-S 343 Honors Course in Differential Equations
+i
+PHIL-P 250 Introductory Symbolic Logic
+i
+PHIL-P 251 Intermediate Symbolic Logic
+i
+PHIL-P 350 Logic of Sets
+i
+PHIL-P 352 Logic and Philosophy
+i
+Expand or hide additional courses that may be applied toward this requirement
+MATH-M 212 Calculus II
+Credits
+4
+Prerequisites
+MATH-M 211 or MATH-S 211; or consent of department
+Description
+Techniques of integration (by parts, trigonometric substitutions, partial fractions), improper integrals, volume, work, arc length, surface area, infinite series.
+Repeatability
+Credit given for only one of MATH-M 120 or MATH-M 212.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+MATH-M 301 Linear Algebra and Applications
+Credits
+3
+Prerequisites
+MATH-M 212, MATH-M 213, or MATH-S 212; or MATH-M 211 and CSCI-C 241; or MATH-S 211 and CSCI-C 241
+Description
+Solving systems of linear equations, matrix algebra, determinants, vector spaces, eigenvalues and eigenvectors. Selection of advanced topics. Applications throughout. Computer used for theory and applications.
+Repeatability
+Credit given for only one of MATH-M 301 or MATH-M 303.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+MATH-M 303 Linear Algebra for Undergraduates
+Credits
+3
+Prerequisites
+MATH-M 212, MATH-M 213, or MATH-S 212; or MATH-M 211 and CSCI-C 241; or MATH-S 211 and CSCI-C 241
+Description
+Introduction to the theory of real vector spaces. Coordinate s, linear dependence, bases. Linear transformations and matrix calculus. Determinants and rank. Eigenvalues and eigenvectors.
+Repeatability
+Credit given for only one of MATH-M 301, MATH-M 303, or MATH-S 303.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+MATH-M 311 Calculus III
+Credits
+4
+Prerequisites
+MATH-M 212, MATH-M 213, or MATH-S 212
+Description
+Elementary geometry of 2, 3, and n-space; functions of several variables; partial differentiation; minimum and maximum problems; multiple integration.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+MATH-M 312 Calculus IV
+Credits
+3
+Prerequisites
+MATH-M 311 or MATH-S 311
+Description
+Differential calculus of vector-valued functions, transformation of coordinates, change of variables in multiple integrals. Vector integral calculus: line integrals, Green\'s theorem, surface integrals, Stokes\' theorem. Applications.
+Repeatability
+Credit given for only one of MATH-M 312 or MATH-S 312.
+Close
+MATH-M 371 Elementary Computational Methods
+Credits
+3
+Prerequisites
+MATH-M 212, MATH-M 213, or MATH-S 212
+Description
+Interpolation and approximation of functions, solution of equations, numerical integration and differentiation. Errors, convergence, and stability of the procedures. Students write and use programs applying numerical methods.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+MATH-M 384 Logic
+Credits
+3
+Prerequisites
+CSCI-C 241, MATH-M 303, or MATH-S 303
+Description
+Construction and study of formal mathematical languages. Definitions of, and relationships between, the notions of truth and provability of a formal sentence. Proof systems for logical systems such as propositional logic and syllogistic logic. Soundness, completeness, and decidability.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+MATH-M 391 Introduction to Mathematical Reasoning
+Credits
+3
+Prerequisites
+(A) MATH-M 212, MATH-M 213, or MATH-S 212; or CSCI-C 241 and MATH-M 211; or CSCI-C 241 and MATH-S 211; and (B) MATH-M 301, MATH-M 303, or MATH-S 303
+Notes
+Recommended for students with insufficient background for 400-level courses and for students in education
+Description
+Elementary logic, techniques of proof, basic set theory, functions, relations, binary operations, number systems, counting. Bridges the gap between elementary and advanced courses.
+Repeatability
+Not open to students who have received credit for MATH-M 403, MATH-M 413, or MATH-M 420.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+MATH-M 405 Number Theory
+Credits
+3
+Prerequisites
+MATH-M 212, MATH-M 213, or MATH-S 212
+Description
+Numbers and their representation, divisibility and factorization, primes and their distribution, number theoretic functions, congruences, primitive roots, diophantine equations, quadratic residues, sums of squares.
+Close
+MATH-M 409 Linear Transformations
+Credits
+3
+Prerequisites
+MATH-M 301, MATH-M 303, or MATH-S 303
+Description
+The study of linear transformations on a finite dimensional vector space over the complex field. Canonical forms, similarity theory; inner products and diagonalization of normal transformations.
+Close
+MATH-S 212 Honors Calculus II
+Credits
+4
+Prerequisites
+MATH-S 211 or consent of department
+Description
+Includes material of MATH-M 212 and supplemental topics. Designed for students of outstanding ability in mathematics.
+Repeatability
+Credit given for only one of MATH-M 120, MATH-M 212, or MATH-S 212.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+MATH-S 311 Honors Course in Calculus III
+Credits
+4
+Prerequisites
+MATH-S 212 or consent of instructor; and MATH M-301, MATH M-303, or MATH S-303
+Description
+Honors version of MATH-M 311, covering geometry of 2, 3, and n-space; functions of several variables; partial differentiation; minimum and maximum problems; and multiple integration. For students with unusual aptitude and motivation.
+Repeatability
+Credit given for only one of MATH-M 311 or MATH-S 311.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+MATH-S 312 Honors Course in Calculus IV
+Credits
+3
+Prerequisites
+MATH-S 311 or consent of instructor
+Description
+For students with unusual aptitude and motivation.
+Repeatability
+Credit given for only one of MATH-M 312 or MATH-S 312.
+Close
+MATH-S 343 Honors Course in Differential Equations
+Credits
+3
+Prerequisites
+MATH-S 212 or consent of instructor
+Description
+Introduction, with historical examples, first order ordinary differential equations (ODEs) and applications, second order linear ODEs, linear ODEs of higher order, series solutions to linear ODEs, and numerical methods for ODEs. In addition, some theoretical aspects will be studied in detail such as the Picard existence/uniqueness theorem for initial-value problems, convergence of series solutions, and the matrix exponential exp(tA).
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+PHIL-P 250 Introductory Symbolic Logic
+Credits
+3
+Prerequisites
+None
+Description
+Propositional logic and first-order quantificational logic.
+Repeatability
+No credit for PHIL-P 150 if PHIL-P 250 taken first or concurrently.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+PHIL-P 251 Intermediate Symbolic Logic
+Credits
+3
+Prerequisites
+PHIL-P 250 or consent of instructor
+Description
+Identity, definite descriptions, properties of formal theories, elementary set theory.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+PHIL-P 350 Logic of Sets
+Credits
+3
+Prerequisites
+PHIL-P 250 or consent of instructor
+Description
+Elementary operations on sets, relations, functions, orderings, introduction to ordinal and cardinal numbers.
+Close
+PHIL-P 352 Logic and Philosophy
+Credits
+3
+Prerequisites
+PHIL-P 250 or consent of instructor
+Description
+Relation of logic to other areas of philosophy. Selected topics from among the following: logic and ontology; logic and language; logic, reasoning, and belief; intentionality and intentional logic; tense and modal logic; individuation, reference, identity.
+Fall 2025
+CASE AH
+course
+Summer 2025
+CASE AH
+course
+Spring 2025
+CASE AH
+course
+Close
+Additional Elective.
+One (1) course:
+Additional course from the Mathematical Science Elective list
+CSCI-B 403 Introduction to Algorithm Design and Analysis  (This course will count toward the Major Hours and Major GPA requirements)
+i
+ECON-E 370 Statistical Analysis for Business and Economics
+i
+MATH-M 365 Introduction to Probability and Statistics
+i
+STAT-S 320 Introduction to Statistics
+i
+CSCI-B 401 Fundamentals of Computing Theory  (This course will count toward the Major Hours and Major GPA requirements)
+i
+CSCI-P 415 Introduction to Verification  (This course will count toward the Major Hours and Major GPA requirements)
+i
+Expand or hide additional courses that may be applied toward this requirement
+CSCI-B 403 Introduction to Algorithm Design and Analysis
+Description
+Algorithm design methodology. General methods for analysis of algorithms. Analysis of the performance of specific algorithms, such as those for searching and sorting.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+ECON-E 370 Statistical Analysis for Business and Economics
+Credits
+3
+Prerequisites
+MATH-B 110, MATH-M 118 , MATH-S 118, or MATH-V 118
+Notes
+R: ECON-E 252 or ECON-B 252 and MATH-M 119
+Description
+Lectures emphasize the use of basic probability concepts and statistical theory in the estimation and testing of single parameter and multivariate relationships. In computer labs, using Microsoft Excel, each student calculates descriptive statistics, probabilities, and least squares regression coefficients in situations based on current business and economic events.
+Repeatability
+Credit given for only one of ANTH-A 306, CJUS-K 300, ECON-E 370, ECON-S 370, MATH-K 300, MATH-K 310, POLS-Y 395, PSY-K 300, PSY-K 310, SOC-S 371, SPEA-K 300, SPH-Q 381, STAT-K 310, STAT-S 300, STAT-S 301, or STAT-S 303.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+MATH-M 365 Introduction to Probability and Statistics
+Credits
+3
+Prerequisites
+MATH-M 212, MATH-M 213, or MATH-S 212
+Description
+Elementary concepts of probability and statistics. Combinatorics, conditional probability, independence, random variables, discrete and continuous distributions, moments. Statistical inference, point estimation, confidence intervals, test of hypotheses. Applications to social, behavioral, and natural sciences.
+Repeatability
+Credit given for only one of MATH-M 360 or MATH-M 365.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+STAT-S 320 Introduction to Statistics
+Credits
+3
+Prerequisites
+MATH-M 212, MATH-S 212, MATH-M 301, MATH-M 303, or MATH-S 303
+Description
+Basic concepts of data analysis and statistical inference, applied to 1-sample and 2-sample location problems, the analysis of variance, and linear regression. Probability models and statistical methods applied to practical situations using actual data sets from various disciplines.
+Repeatability
+Credit given for only one of STAT-S 320 or STAT-S 350.
+Fall 2025
+CASE NM
+course
+Summer 2025
+CASE NM
+course
+Spring 2025
+CASE NM
+course
+Close
+CSCI-B 401 Fundamentals of Computing Theory
+Description
+Fundamentals of formal language theory, computation models and computability, the limits of computability and feasibility, and program verification.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+CSCI-P 415 Introduction to Verification
+Description
+Tools and techniques for rigorous reasoning about software and digital hardware. Safety, reliability, security, and other design-critical applications. Decision algorithms. Projects involving the use of automated reasoning, such as model checkers, theorem provers, and program transformation.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Major GPA, Hours, and Minimum Grade Requirements.
+Major GPA.
+A GPA of at least 2.000 for all courses taken in the major—including those where a grade lower than C- is earned—is required.
+Major Minimum Grade.
+Except for the GPA requirement, a grade of C- or higher is required for a course to count toward a requirement in the major.
+Major Upper Division Credit Hours.
+At least 18 credit hours in the major must be completed at the 300–499 level.
+Major Residency.
+At least 18 credit hours in the major must be completed in courses taken through the Indiana University Bloomington campus or an IU-administered or IU co-sponsored Overseas Study program.
+College Breadth.
+At least 58 credit hours must be completed in courses from College of Arts and Sciences disciplines outside of the major area.
+Notes
+* Courses used to fulfill addenda requirements require a grade of C- or higher and do not count toward the Major GPA or Major Hours.
+Major hours and GPA
+Major Area Courses
+Unless otherwise noted below, the following courses are considered in the academic program and will count toward academic program requirements as appropriate:
+Any course at the 100–499 level with the
+CSCI
+subject area prefix—as well as any other subject areas that are deemed functionally equivalent
+Any course contained on the course lists for the academic program requirements at the time the course is taken—as well as any other courses that are deemed functionally equivalent—except for those listed only under Addenda Requirements
+Any course directed to a non-Addenda requirement through an approved exception
+Exclusions
+The following courses cannot be applied toward major requirements or the College Breadth requirement:
+CSCI-C 308 System Analysis and Design
+i
+CSCI-C 405
+Any CSCI-A 100–499
+CSCI-C 308 System Analysis and Design
+Description
+The software development life cycle; data flow diagrams; entity relationship modeling; structured design; validation; user interfaces; implementation and testing. A team project will be completed.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Restrictions
+The following restrictions apply to the minimum credit hours required in the major:
+No more than 1 credit hour of either of the following may be counted toward the major:
+CSCI-H 498 Undergraduate Honors Seminar
+i
+CSCI-Y 395 Career Development for Csci Majors
+i
+CSCI-H 498 Undergraduate Honors Seminar
+Description
+A survey of faculty research in computer related fields with different professors discussing their research each week.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+CSCI-Y 395 Career Development for Csci Majors
+Description
+Develop skills and knowledge that enable you to successfully pursue your career search, both at the time of graduation and later as you progress through your career. The course covers techniques and strategies which make your job search more efficient and effective.
+Additional information
+Credit hour, prerequisite, and other information cannot be displayed for this course. If this is a course outside of the College of Arts and Sciences, please see the appropriate school's bulletin for additional information.
+Close
+Restrictions on combining this major with other academic programs
+This program of study cannot be combined with the following:
+[Name unavailable] (CSCIMIN)
+Major requirement exceptions and substitutions
+Exceptions to and substitutions for major requirements may be made with the approval of the unit's Director of Undergraduate Studies, subject to final approval by the College of Arts and Sciences.
+The Bachelor of Arts degree requires at least 120 credit hours, to include the following:
+College of Arts and Sciences Credit Hours.
+At least 100 credit hours must come from College of Arts and Sciences disciplines.
+View subject areas
+Upper Division Courses.
+At least 42 credit hours (of the 120) must be at the 300–499 level.
+College Residency.
+Following completion of the 60th credit hour toward degree, at least 36 credit hours of College of Arts and Sciences coursework must be completed through the Indiana University Bloomington campus or an IU-administered or IU co-sponsored Overseas Study program.
+College GPA.
+A
+College grade point average (GPA)
+of at least 2.000 is required.
+CASE Requirements.
+The following
+College of Arts and Sciences Education (CASE) requirements
+must be completed:
+CASE Foundations
+English Composition:
+1 course
+Mathematical Modeling:
+1 course
+CASE Breadth of Inquiry
+Arts and Humanities:
+4 courses
+Natural and Mathematical Sciences:
+4 courses
+Social and Historical Studies:
+4 courses
+CASE Culture Studies
+Diversity in the United States:
+1 course
+Global Civilizations and Cultures:
+1 course
+CASE Critical Approaches:
+1 course
+CASE Foreign Language: Proficiency in a single foreign language through the second semester of the second year of college-level coursework
+CASE Intensive Writing:
+1 course
+CASE Public Oral Communication:
+1 course
+CASE Sustainability Literacy:
+1 course
+Major.
+Completion of the major as outlined in the Major Requirements section above.
+Most students must also successfully complete the
+Indiana University Bloomington General Education program
+.
+Subject areas
+Any  AAAD course that carries degree credit
+Any  AAST course that carries degree credit
+Any  ABEH course that carries degree credit
+Any  AFRI course that carries degree credit
+Any  AMST course that carries degree credit
+Any  ANTH course that carries degree credit
+Any  ARTH course that carries degree credit
+Any  ASCS course that carries degree credit
+Any  AST course that carries degree credit
+Any  BIOC course that carries degree credit
+Any  BIOL course that carries degree credit
+Any  BIOT course that carries degree credit
+Any  CEUS course that carries degree credit
+Any  CHEM course that carries degree credit
+Any  CJUS course that carries degree credit
+Any  CLAS course that carries degree credit
+Any  CLLC course that carries degree credit
+Any  CMLT course that carries degree credit
+Any  COGS course that carries degree credit
+Any  COLL course that carries degree credit
+Any  EALC course that carries degree credit
+Any  EAS course that carries degree credit
+Any  ECON course that carries degree credit
+Any  ENG course that carries degree credit
+Any  EURO course that carries degree credit
+Any  FOLK course that carries degree credit
+Any  FRIT course that carries degree credit
+Any  GEOG course that carries degree credit
+Any  GER course that carries degree credit
+Any  GLLC course that carries degree credit
+Any  GNDR course that carries degree credit
+Any  HHC course that carries degree credit
+Any  HISP course that carries degree credit
+Any  HIST course that carries degree credit
+Any  HON course that carries degree credit
+Any  HPSC course that carries degree credit
+Any  HUBI course that carries degree credit
+Any  IMP course that carries degree credit
+Any  INST course that carries degree credit
+Any  INTL course that carries degree credit
+Any  JSTU course that carries degree credit
+Any  LAMP course that carries degree credit
+Any  LATS course that carries degree credit
+Any  LING course that carries degree credit
+Any  LTAM course that carries degree credit
+Any  MATH course that carries degree credit
+Any  MELC course that carries degree credit
+Any  MEST course that carries degree credit
+Any  MLS course that carries degree credit
+Any  MSCH course that carries degree credit
+Any  NEUS course that carries degree credit
+Any  OVST course that carries degree credit
+Any  PACE course that carries degree credit
+Any  PHIL course that carries degree credit
+Any  PHYS course that carries degree credit
+Any  POLS course that carries degree credit
+Any  PSY course that carries degree credit
+Any  REEI course that carries degree credit
+Any  REL course that carries degree credit
+Any  RMI course that carries degree credit
+Any  SEAS course that carries degree credit
+Any  SGIS course that carries degree credit
+Any  SLAV course that carries degree credit
+Any  SLHS course that carries degree credit
+Any  SLST course that carries degree credit
+Any  SOAD course that carries degree credit
+Any  SOC course that carries degree credit
+Any  STAT course that carries degree credit
+Any  THTR course that carries degree credit
+Close
+Close

@@ -1,0 +1,14 @@
+[Source URL]: https://kelley.iu.edu/faculty-research/courses/course.cshtml?ID=BUS-K201-136
+
+Home
+Faculty & Research
+Courses
+BUS-K 201 Foundations of Business Information Systems and Decision Making
+16 weeks
+3 credits
+Prerequisite(s)
+:
+None
+The course provides a foundation in business information systems, decision making, and emerging technologies. Students will gain practical experience working with relational databases, spreadsheets, data visualization, and business intelligence tools essential to manage and analyze data effectively in business environments.
+
+Note: Credit not given for both BUS-K 201 and BUS-K 204.

@@ -1,0 +1,140 @@
+[Source URL]: https://informatics.indiana.edu/programs/phd-informatics/human-computer-interaction-design.html
+
+Home
+Programs
+Ph.D. in Informatics
+Human-Computer Interaction/Design
+Human-Computer Interaction/Design
+Human-computer interaction (HCI) has traditionally been the domain of engineering and psychology. In this track, we approach HCI from the perspective of design. That is, we focus on the ways that design and research cooperate to create openings and insights into emerging design domains; how research contributes to design processes and methods; and how design practices can themselves be a form of research.
+In this track, you’ll seek to understand the opportunities and challenges of interactive systems in a way that equally addresses technological possibilities, human needs, and social and cultural contexts and trends. You’ll contribute to the development of design theory, methods, and practice as you conduct research in areas such as:
+Design and theory
+Computer-supported cooperative work
+Social computing
+Ethics, values, and critical computing
+Social impacts of AI/ML
+Usability and evaluation methods
+Augmented, virtual, and mixed reality
+Design pedagogy and learning systems
+Social and organizational views of technology use
+Health and wellness technologies
+Critical and sustainable computing
+Creativity and cognition
+This track is designed to change the way you think. You’ll go beyond using technology to solve a problem, to creating and researching technology experiences that will be functional, intuitive, and even delightful for users. With this track, you’ll learn to think like a design researcher. You’ll refine your personal design philosophy and research skills through coursework that:
+Teaches you the key history, literature, and research approaches of HCI/d
+Introduces you to multiple disciplinary perspectives, research techniques, and design theory concepts
+Enables you to explore the socio-technical complexity of implementing technologies in different cultures and context.
+Track guide
+Summary
+Human-computer interaction design (HCI/d) research is geared toward supporting interventions or understandings that bring about better possible futures, as opposed to primarily describing the past or even the present. An HCI/d researcher might ask: What possible futures are open to us, and how might we pursue them? What is “design thinking” and what methods best support design activities? How might digital systems be developed in service of social justice and sustainability? How can design professions be more participatory and democratic? What makes user experiences aesthetic, and how can designers create them?
+Human computer interaction design opens up possibilities, such as: massive scale collaborative systems; engagement in online communities of interest and practice; new forms of democratic participation in government; and integration of domestic and health technologies. However, these interactive systems can also contribute to serious social problems, such as concerns about privacy and surveillance, sustainability and addiction, and unequal access due to socioeconomic status, disability, and other social issues. HCI/d researchers seek to understand such opportunities and problems in a way that equally attends to their full socio-technical and critical complexity.
+In this track, you’ll seek to understand these opportunities and problems in a way that equally addresses technological possibilities, human needs, and social and cultural context and trends—all in a way that’s oriented toward intervention through design. You’ll contribute to the development of design theory, methods, and practice as you conduct research in areas such as:
+Design theory and practice
+Computer-supported cooperative work
+Social computing
+Ethics, values, and critical computing
+Social impacts of AI/ML
+Usability and evaluation methods
+Design pedagogy and learning systems
+Social and organizational views of technology use
+Health and wellness technologies
+Critical and sustainable computing
+Creativity and cognition
+Primary track faculty
+Colin Gray, PhD Track Chair
+Ethics and criticality, design theory, UX practice, design pedagogy, learning experience (LX) design.
+Elizabeth Kaziunas
+Sociotechnical approaches to information systems, ethnographic and critical design approaches, data work/labor, social impacts of AI/ML.
+Austin Toombs
+Community maintenance, interpersonal relationships, care ethics, identity.
+Eli Blevis
+Sustainable interaction design, visual thinking, photographic foundations of HCI, design theory, transdisciplinary design.
+Erik Stolterman Bergqvist
+Interactivity and interfaces, philosophy and theory of design, design thinking.
+Affiliated track faculty
+Yong Yeol Ahn
+Professor of Informatics and Computing
+Travis Brown
+Senior Executive Assistant Dean of Innovation, Entrepreneurship, and Commercialization
+Jean Camp
+Professor of Informatics
+James Clawson
+Assistant Professor
+Apu Kapadia
+Professor of Computer Science
+Christena Nippert-Eng
+Professor of Informatics
+Selma Sabanovic
+Professor of Informatics
+Patrick Shih
+Associate Professor of Informatics
+Katie Siek
+Professor of Informatics
+David Wild
+Professor of Informatics and Computing
+Justin Wood
+Associate Professor of Informatics
+Curriculum
+Required courses
+All courses provided by faculty in the Human-Computer Interaction Design track, including the I609 and I709 Advanced Seminars, are open to and welcome students from other tracks and programs.
+A student must successfully complete ninety (90) credit hours of graduate-level course-work. The specific track requirements are listed below.
+Informatics Core Requirements (6 cr.)
+INFO I501 Introduction to Informatics
+(3 cr.)
+INFO I502 Human-Centered Research Methods in Informatics
+(3cr.)
+Seminar Requirements (6 cr.)
+INFO I609 Seminar I (3 cr.)
+INFO I709 Seminar II in Informatics (3 cr.)
+NOTE:
+A student must take I609 and/or I709.
+Research and Rotation Requirement (6 cr.)
+INFO I790 Informatics Research Rotation (3 cr.)
+NOTE:
+A student must complete two rotations of I790. A third rotation will not count for course credit.
+Theory and Methodology Requirement (12 cr.)
+NOTE:
+These courses must be appropriate for a Ph.D. in Informatics.
+Minor (6-15 cr.)
+NOTE:
+Typical minors include Inquiry methodology, cognitive science, sociology, intelligent and interactive systems, computing, culture, and society.
+Electives (12-30 cr.)
+NOTE:
+A student must have all electives approved by the student's advisor and the Director of Informatics Graduate Studies prior to enrolling in the course.
+Thesis Reading and Research (minimum of 21 cr. and a maximum of 30 cr.)
+INFO I890 Thesis Readings and Research
+Elective courses
+In addition to required courses, students should take at least 12 elective credits for the doctoral degree.
+Faculty in the HCID track offer courses that provide more targeted training in specific areas. This list is illustrative and not exclusive.
+INFO I530 – Field Deployments
+INFO I541 – Introduction to HCI
+INFO I542 – Foundations of HCI
+INFO I543 – Interaction Design Methods
+INFO I544 – Experience Design
+INFO I549 – Advanced Prototyping
+INFO I512 – Direct Observation and Design
+INFO I561 – Meaning and Form in HCI
+INFO I567 – Design Strategy
+INFO I590 – Topical Courses (e.g., Introduction to Virtual Reality; Product Management; Social Computing; Sustainability in HCI and Design; Visual Design for HCI)
+INFO I604 – HCI Design Theory
+Qualifying exam
+Written and oral examinations will be structured by the student’s committee based on their research interests. A typical exam consists of an extensive annotated bibliography with accompanying critical essay that describes the student’s interpretation of the relevant literature and how they situate their own interests and work within it. The written portion of the exam is followed by an oral exam to defend the written submissions.
+Typical minors
+Inquiry methodology; cognitive science; anthropology; sociology; intelligent and interactive systems; computing, culture, and society.
+B.S. in Informatics
+Undergraduate Minors
+Undergraduate Certificates
+4+1 Program
+M.S. Informatics
+M.S. in Human-Computer Interaction
+Accelerated M.S.I.S.
+Ph.D. in Informatics
+Animal Informatics
+Bioinformatics
+Complex Networks and Systems
+Computing, Culture, and Society
+Human-Computer Interaction/Design
+Health Informatics
+Intelligent and Interactive Systems
+Security Informatics
+Virtual Heritage
+Ph.D. Minors

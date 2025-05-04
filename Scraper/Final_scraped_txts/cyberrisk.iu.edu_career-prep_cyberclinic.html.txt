@@ -1,0 +1,142 @@
+[Source URL]: https://cyberrisk.iu.edu/career-prep/cyberclinic.html
+
+Home
+Career Preparation
+IU Cybersecurity Clinic
+IU Cybersecurity Clinic
+A Global Challenge. A Local Priority.
+Through generous grants from the
+Hewlett Foundation
+and the Indiana Economic Development Corporation, the IU Cybersecurity Clinic was created for the dual purposes of improving local and state cyber hygiene while training the next generation of cybersecurity leaders. The Clinic is the first of its kind to strive to enhance the critical infrastructure security of under-resourced stakeholders across Indiana and the Midwest, focusing on local municipalities, counties, school corporations, and small businesses. The Clinic leverages Indiana University’s strong tradition of cybersecurity leadership to provide a much-needed service to communities across the Hoosier state and beyond.
+The Cybersecurity Clinic provides pro bono cybersecurity assistance to critical public infrastructure and community organizations including non-profits, hospitals, municipalities, local government agencies, and small business.
+The Clinic provides students with on-the-ground, practical experience, further helping develop the requisite skills to excel in the workplace while addressing the cybersecurity workforce shortage.
+The Client Experience
+The IU Cybersecurity Clinic is committed to providing pro bono on-the-ground cybersecurity expertise to support local governments, school corporations, small businesses, and other entities that lack the knowledge, capability, or bandwidth to solve the growing cyber threats they face. IU faculty members and students partner alongside these community entities as cybersecurity consultants, focusing on instilling technical, managerial, and legal cybersecurity best practices. To express interest in partnering with the Clinic, please fill out the survey below or contact
+intiasar@iu.edu
+for more information.
+Client Application
+The Needs We Serve
+The Growing Cyber Threat
+Every day, cybersecurity threats grab news headlines around the world – whether its detailing the latest data breach or the most recent victim of a ransomware attack. While many cybersecurity discussions focus on federal reform efforts, state and local governments face a range of common cybersecurity challenges that point to a need for more robust critical infrastructure protection. Critical infrastructure operators—including municipal governments and small businesses across Indiana—often do not have the knowledge, or the capability, to tackle this challenge on their own. The Clinic is committed to partnering with these entities to improve their cyber resilience and help develop and train technical, managerial, and legal best practices into their organization.
+The Gap in the Cyber Workforce
+While the cybersecurity threat is growing, the workforce to combat it is not keeping pace. Estimates of the growing cybersecurity workforce gap range from two to three million in the next few years. Indiana University has been devoted to training the next generation of cybersecurity leaders through a multitude of efforts, and the Clinic is just one of those opportunities. The Clinic will provide on-the-ground, practical experience to participating students, further helping develop the requisite skills to excel in the workplace and ultimately decreasing the deficiency in the cybersecurity workforce. For other opportunities to strengthen your cybersecurity skills, visit
+www.cybersecurity.iu.edu
+and learn about the leading IU degree programs at all levels in cybersecurity.
+Our Goals & Expertise
+IU has been a national leader in the field of cybersecurity for many years, and the Clinic leverages existing resources and expertise by expanding on our current models. Our goals are to:
+Work with community partners to create realistic cybersecurity solutions and instill best practices from a legal, business, and technical standpoint.
+Develop an array of resources for the community, with each project having tangible takeaways that may be used by other similarly situated organizations.
+Provide students with tangible, hands-on experience to a growing field, ultimately helping them gain access to a growing and largely under-resourced sector.
+Leverage the strong tradition of cybersecurity leadership at Indiana University and foster more community relationships along with more robust cyber resilience in the organizations we serve.
+The Clinic trains 40 students a year and has worked with over 25 clients since 2019 including the following:
+Indiana Dept. of Homeland Security
+Indiana Dept. of Justice
+Indiana Office of Technology
+Monroe County Community School Corporation
+Bloomington IT Department
+The town of Speedway, Indiana
+United Way, Monroe County
+Hoosier Hills Food Pantry
+Bloomington City Clerk
+Indiana Information Sharing and Analysis Center (IN-ISAC)
+The Student Experience
+The Clinic adopts a service-learning model with a classroom and a clinical component. The classroom experience will give students the practical tools and knowledge to be better cybersecurity professionals as well as the necessary background knowledge for their specific projects. The clinical component will involve directly interacting with community partners to understand their needs, assess their current cybersecurity practices, identify gaps, and recommend solutions. To express your interest in the student experience of the Clinic, please fill out the survey below or contact
+intiasar@iu.edu
+for more information.
+Student Application
+Clinic Leadership
+Meet our Cyberclinic Leadership Team
+Contact Us
+To express interest in being a student with the Clinic, please fill out the
+Student Application
+.
+To express interest as a potential client of the Clinic, please fill out the
+Client Application
+.
+To be added to the listserv or get more information about the Clinic, please contact
+intiasar@iu.edu
+.
+Clinic Directors
+Provost Professor Scott J. Shackelford
+Academic Director and Founder
+sjshacke@iu.edu
+Isak Nti Asare
+Executive Director
+intiasar@iu.edu
+Clinic Leadership Team
+S B
+Sid Bose
+Lead Instructor for the Cybersecurity Clinic
+Siddharth “Sid” Bose
+is Partner in Ice Miller’s Data Security and Privacy Practice. As part of Ice Miller’s Data Security and Privacy practice, Sid counsels clients on various data security, privacy, regulatory, compliance and governance issues. Prior to joining Ice Miller, Sid was an IT Performance Specialist for almost 9 years, at a large multi-national company in St. Louis, MO. Sid has also worked as an extern in the Office of General Counsel at one of Missouri’s largest utility companies. Sid received his Bachelor of Science in Computer Engineering from University of Illinois, at Urbana-Champaign, in 2007. He received his Master of Science in Electrical Engineering from Southern Illinois University, at Edwardsville, in 2009. He received his JD,
+cum laude
+, from Saint Louis University School of Law in 2014. If you want to know more, see:
+https://www.icemiller.com/people/siddharth-bose/
+. Sid is the lead instructor for the Clinic.
+R D
+Rachel D. Dockery
+Senior Research Fellow in Cybersecurity and Privacy Law at the Indiana University Maurer School of Law
+Email:
+rdockery@indiana.edu
+Rachel D. Dockery
+is a Senior Research Fellow in Cybersecurity and Privacy Law at the Indiana University Maurer School of Law. She holds a JD from Indiana University Maurer School of Law, an MBA from Sungkyunkwan University Graduate School of Business, and a BA from American University. Her research has been published in the
+American Scholar,
+the
+Seoul National University Journal of Law & Economic Regulation
+, the
+Cornell Journal of Law & Public Policy,
+and the International Association of Privacy Professionals’ (IAPP)
+Privacy Perspectives
+. Rachel also co-authored the “Data Privacy and Security Law” chapter of the
+Oxford Handbook of Cyber Security
+(publication forthcoming). Rachel’s primary research examines data protection, privacy, and ethical challenges arising from data sharing, artificial intelligence, and other emerging technologies. Rachel is a fellow at the IU Center for Applied Cybersecurity Research (CACR) and is a member of the Indiana Bar Association and the IAPP.
+Apu Kapadia
+Professor of Computer Science and Chair of MS in Cybersecurity Risk Management Program
+Website:
+https://luddy.indiana.edu/contact/profile/?Apu_Kapadia
+Isak Nti Asare
+Executive Director of the Cyber Clinic
+Isak Nti Asare
+is the Executive Director of the Cyber Clinic. He is also the Co-director for the Cybersecurity and Global Policy Program, and is a fellow at the Center for Applied Cybersecurity Research (CACR) and a senior associate at Oxford Insights. His work and research are at the intersection of emerging technologies and policy. He has advised national and local governments on the strategic, cultural, and leadership opportunities and challenges from digital transformation especially in matters related to artificial intelligence, fintech, and open data, privacy, and cybersecurity. For example, he co-authored the first city-led AI strategy in the United States, co-authored Mexico's National AI Strategy, co-founded the UK cross-governmental community of practice on AI, and led work on the OECD playbook on ICT procurement. Isak also serves on the Bloomington Board of Public safety which oversees the Police and Fire Departments. Isak has lived in 10 countries and he speaks 5 languages.
+Scott Shackelford
+Provost Professor of Business Law and Ethics at the Indiana University Kelley School of Business
+Cybersecurity Clinic Academic Director and Founder  Executive Director of the Center for Applied Cybersecurity Research
+Executive Director of the Ostrom WorkshopAffiliated Scholar at the Harvard Kennedy School's Belfer Center for Science and International Affairs
+Affiliated Scholar at Stanford's Center for Internet and Society
+Email:
+sjshacke@indiana.edu
+Professor Scott J. Shackelford
+He is Provost Professor of Business Law and Ethics at the Indiana University Kelley School of Business. He serves as the Executive Director of the Center for Applied Cybersecurity Research, as well as the Executive Director of the Ostrom Workshop. He is also an Affiliated Scholar at both the Harvard Kennedy School’s Belfer Center for Science and International Affairs and Stanford’s Center for Internet and Society.  Professor Shackelford is the academic director and founder of the Clinic.
+Professor Shackelford has written more than 100 articles, book chapters, essays, and op-eds for diverse publications. Similarly, Professor Shackelford’s research has been covered by an array of outlets, including
+Politico
+,
+NPR
+,
+CNN
+,
+Forbes
+,
+Time
+, the
+Washington Post
+, and the
+LA Times
+. He is the author of
+The Internet of Things: What Everyone Needs to Know
+(Oxford University Press, 2020),
+Governing New Frontiers in the Information Age: Toward Cyber Peace
+(Cambridge University Press, 2020), and
+Managing Cyber Attacks in International Law, Business, and Relations: In Search of Cyber Peace
+(Cambridge University Press, 2014). He is also the lead editor the first volume dedicated to cyber peace entitled
+Cyber Peace: Charting a Path Toward a Sustainable, Stable, and Secure Cyberspace
+(Cambridge University Press, 2022).
+Both Professor Shackelford’s academic work and teaching have been recognized with numerous awards, including a Harvard University Research Fellowship, a Stanford University Hoover Institution National Fellowship, a Notre Dame Institute for Advanced Study Distinguished Fellowship, the 2014 Indiana University Outstanding Junior Faculty Award, the 2015 Elinor Ostrom Award, and the 2022
+Poets & Quants
+Best 40-Under-40 MBA Professors Award.
+Project Spotlight: IU Students advise Kosovo Government on Country's Cybersecurity Act
+IU students have helped Kosovo fortify itself against cyberharms by advising the Parliament on development of its national cybersecurity legislation.
+Learn more
+Explore out-of-classroom opportunities
+Find other ways to get involved
+IU Cybersecurity Clinic
+clinic-leaders

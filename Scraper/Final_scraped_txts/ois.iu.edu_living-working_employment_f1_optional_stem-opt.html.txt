@@ -1,0 +1,125 @@
+[Source URL]: https://ois.iu.edu/living-working/employment/f1/optional/stem-opt.html
+
+Home
+Student Employment
+Visas & Work Authorization
+F-1 Students
+Optional Practical Training
+STEM OPT Extension
+STEM OPT Extension
+STEM OPT extension
+If you are an F-1 student whose OPT is based on a bachelor’s, master’s, or doctoral degree in a STEM field (as defined by the Department of Homeland Security [DHS]), you may be eligible for an extension of post-completion OPT authorization. U.S. Immigration and Customs Enforcement (ICE) provides a list of qualifying STEM majors on its website.
+Download the list of qualifying STEM majors
+Note: this is a list of all majors in the U.S. that qualify. Not all of these majors are available at IU. Find your major CIP code on your I-20.
+Applying for the STEM OPT extension
+Please note that you may be granted a STEM OPT extension only once per degree level and the second STEM OPT request (even for previous degrees) will need to be for a higher degree level than the first.
+Am I eligible?
+In order to be eligible for this extension, you are required to:
+Be on post-completion OPT and hold an appropriate degree in one of the DHS-approved STEM fields (see list above).
+Be employed in a paying job by, or have a paying job offer from, an employer who is registered with the E-Verify employment verification system. (E-Verify is an Internet-based system operated by DHS in partnership with the Social Security Administration.
+Note
+: E-Verify is not a searchable system, you will need to ask your employer if they are enrolled in E-Verify.)
+Employment relationships such as work for hire, self-employment, employment agencies (unless working as an employee of the agency itself), and owning a business as a sole proprietor are not eligible for STEM extension.
+Have had fewer than 90 days of unemployment during your 12-month period of post-completion OPT.
+Demonstrate that the job is directly related to your STEM field of study.
+Work with your employer to prepare and sign the I-983 Training Plan.
+Ensure that the appropriate USCIS Service Center receives your completed application before the expiration date on your current post-completion OPT card.
+The employer needs to:
+Be enrolled in E-Verify
+Have a Federal Employer Identification Number
+Agree to the
+terms of STEM OPT
+and complete the employer-specific sections of the I-983 Training Plan.
+Am I eligible for a second period of STEM OPT?
+DHS regulations permit two periods of STEM OPT in an individual’s lifetime. You may be eligible for a second period of 24 months of STEM OPT after you complete a second qualifying STEM degree at a higher level. If you are eligible based on these criteria and would like to apply, please call OIS at 812-855-9086, option 2 to set up an appointment with an international student advisor.
+Am I eligible for STEM OPT for a previous STEM degree?
+If you are currently in a degree field (or on Post-Completion OPT from that degree) that is not identified as STEM-eligible, but have previously earned a STEM-eligible degree from an accredited U.S. higher education institution, you may be eligible to apply for a STEM OPT extension under certain conditions:
+Your previous and current degrees will need to have been issued by schools in the U.S. that are currently both accredited and SEVP-certified.
+Your previous degree needs to be conferred within 10 years of the time you submit your application to USCIS.
+Your previous degree is assigned a STEM-eligible code found on the
+STEM Designated Degree Program List
+at the time of application.
+You haven’t already received a STEM OPT extension based on this previous degree.
+Your practical training opportunity is directly related to the previously obtained STEM degree.
+Your employer meets the criteria listed in the "Am I Eligible?" section.
+Please note that you may be granted a STEM OPT extension only once per degree level, and the second STEM OPT request (even for previous degrees) will need to be a higher degree level than the first.
+To discuss a STEM OPT application for a previous degree, please call OIS at 812-855-9086, option 2 to make an appointment with an international student advisor.
+When should I apply and how do I apply?
+We recommend that you begin the application process for the extension three to four months before your current OPT expires. Your application should be submitted no later than 45 days before your current OPT expires, and can be submitted up to 90 days in advance of when your current OPT expires.
+If you file a timely application for an extension, you will be able to continue employment while the extension application is pending with USCIS, until it is approved or denied, or for 180 days—whichever comes first.
+To start the process to apply for the STEM extension, please log in to
+Atlas
+and begin the
+OPT STEM Extension Checklist
+.
+What does it cost to apply?
+We charge a fee for processing your STEM extension application. We will charge your IU Bursar account after we create your new I-20. Make sure you pay attention to your Bursar bill afterward to pay your bill on time.
+You will include the USCIS fee for the Form I-765 with your application.
+During your STEM OPT extension
+STEM OPT reporting requirements
+You are allowed a total of 150 days of unemployment during your 36-month period of OPT.
+Please note:
+For your required reporting, you will use the e-forms located in Atlas under F-1 Practical Training ->
+STEM Extension Reporting
+To maintain your legal F-1 status during STEM OPT, you will be required to use Atlas throughout the extension period to do the following:
+Validate your employment (see deadlines in the “Validation and Evaluations” section below)
+Provide a self-evaluation and a final evaluation (see deadlines in the “Validation and Evaluations” section below)
+Confirm that you are working full-time (at least 21 hours per week) in your STEM field of study
+Report any changes in employer or employment status (within 10 days of change)
+Report any substantial changes to duties described in the I-983 (within 10 days of change)
+Report any changes in address or visa status (within 10 days of change)
+STEM extension validation and evaluations
+Please note:
+For your required validation and evaluations, you will use the e-forms located in Atlas under F-1 Practical Training ->
+STEM Extension Reporting.
+During STEM OPT you will be required complete 3 validations and at least 2 evaluations. You will be required to use Atlas to do the following:
+Regularly submit current information for validation. Due date:
+Every 6 months starting from the start date on the STEM OPT card (6 months, 12 months, 18 months)
+Submit the Self-Evaluation form (signed by student and employer). Due date:
+12 months after the start date on the STEM OPT card
+Submit the Final Evaluation form (signed by student and employer). Due date:
+If changing employers, students are required to submit a final evaluation form within 10 days of the end of employment, and
+24 months after the start date on the STEM OPT card
+STEM extension employment and unemployment issues
+You are allowed a total of 150 days of unemployment during your 36-month period of OPT.
+Please note:
+For your required reporting, you will use the e-forms located in Atlas under F-1 Practical Training ->
+STEM Extension Reporting.
+In order to qualify as STEM-eligible employment:
+The position needs to be directly related to your major field of study
+The position needs to be paid
+The position needs to be for more than 20 hours per week
+The employer has to be registered with the E-Verify system
+The employer has to acknowledge and adhere to requirements published on form I-983 in conjunction with the federal regulation.
+You are required to be employed by the entity that provides the supervised practical training experience.  Employment relationships such as work for hire, self-employment, employment agencies (unless working as an employee of the agency itself), and owning a business as a sole-proprietor do not qualify.
+If you are getting close to your unemployment limit of 150 days, you should begin making plans to:
+Exit the U.S.
+Apply to continue your education at Indiana University
+Apply to transfer to another school in the US
+Change immigration status (if applicable)
+SEVP has informed that they will begin terminating SEVIS record where unemployment exceeds the permitted number of days.
+You are responsible for counting the number of days of unemployment you have accrued while on OPT, so it is important to keep track of start and end dates of each job you have. You should be aware that you may be denied future immigration benefits if USCIS determines that you exceeded the limitations on unemployment.
+Travel outside the U.S. during the STEM extension
+If your STEM extension application is
+pending
+Travel is discouraged if your STEM extension has not been approved.
+If your STEM extension application has been
+approved
+Valid passport
+Valid F-1 visa stamp
+I-20 with travel signature (travel signatures on STEM I-20 are valid only for 6 months)
+Valid STEM EAD
+Job offer letter from employer reported in SEVIS
+Please note that if your F-1 visa stamp is no longer valid, it can be challenging to receive an updated visa stamp while pursuing any post-completion practical training. We encourage you to discuss your plans with an international student advisor at OIS before traveling.
+If your employer has filed an H1-B petition on your behalf, consult with your employer before traveling.
+Finding a Job
+Visas & Work Authorization
+F-1 Students
+On-Campus Employment
+Curricular Practical Training
+Optional Practical Training
+STEM OPT Extension
+J-1 Students
+J-2 Work Authorization
+Severe Economic Hardship
+Apply for a Social Security Number

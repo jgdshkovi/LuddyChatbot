@@ -1,0 +1,52 @@
+[Source URL]: https://omnisoc.iu.edu/internships/
+
+Home
+Internships
+Internships
+Get hands-on cybersecurity experience
+Each summer, OmniSOC hosts an internship program that offers students from our founding member academic institutions
+an opportunity to gain professional experience at a security operations center (SOC). This year, we are delighted to welcome students from Indiana University,
+Northwestern University, Rutgers University, and the University of Nebraska.
+Students from any satellite campuses affiliated with these schools (e.g., University of Nebraska-Lincoln, University of Nebraska-Omaha) are also eligible and encouraged to apply. This program is designed to help interns:
+Become more aware of the many areas of interest within cybersecurity
+Determine where their interests are
+Discover what areas of study they should pursue in the future
+Interact directly with security operations professionals and other diverse groups with diverse skill sets
+As an intern, explore a variety of real-life cybersecurity applications and gain hands-on experience in cybersecurity foundations. Interns will also receive formal and informal shadowing opportunities. This immersive program provides mentoring and guidance by subject matter experts in three components of a security operations center: platform engineering, security engineering, and basic SOC operations. Discussions and explorations will include issues related to cybersecurity activities within a professional SOC environment. Please note that this internship focuses on blue team components of security, rather than red team components.
+Internship goals
+At the completion of the program, students will be able to:
+Understand threats to cybersecurity and mitigation measures
+Use log analysis strategies to detect malicious activity and offer solutions to isolate and mitigate malware
+Design and develop a final project by working with a partner CISO to identify a SOC manager to pitch ideas
+Build a sandbox environment to safely run malware analysis
+Design a rudimentary environment to monitor daily SOC operations
+Test malware in a detonation chamber, etc.
+Explore careers in cybersecurity while completing their education
+2025 Summer Internship (Application Closed)
+We're excited to announce that our 2025 Summer Internship Program will take place from June 18th to July 25th! This six-week paid program will have two segments. Weeks one through three will take place at the OmniSOC in Bloomington, IN. During weeks four through six, interns from the same school will work together on a final project led by each school's security office. Depending on each security office's preference, interns may work at their home campus location or remotely. Interns will work for a maximum of 29 hours per week.
+The 2025 OmniSOC Summer Internship Program application closed on March 2nd, at 11:59 P.M. EST.
+Program Schedule:
+June 18- July 2: In person experience at IU Bloomington
+July 3- July 24th: Applied collaborative project at your member school
+July 25th: Remote final presentation
+Can I participate remotely?
+Selected interns must be able to travel to Bloomington, IN for the first three weeks and—depending on the school—be required to travel to their home campus for the remaining three weeks to work in the security office. Interns may have the possibility to work remotely during the final three weeks.
+Where will I stay in Bloomington
+All interns will be housed together in campus housing. The exact location will be determined closer to the summer and communicated to the interns prior to traveling. For interns from IU Bloomington, staying in campus housing is not required.
+I applied. When will I know if I have been accepted or not?
+After the application closes, OmniSOC works with each participating school's security office to review applications and make selections. Applicants will be contacted regarding their application no later than Friday, March 28.
+What do I need to provide for the application?
+Those applying will be asked to provide a personal statement (1000 word maximum), information on prior relevant coursework, and two references.
+How old must I be to participate in this internship?
+Students must be eighteen years or older to participate in the summer internship program.
+I am in graduate school at one of the participating universities. Can I participate?
+While the OmniSOC internship program is constructed for undergraduate students, graduate students are welcome to apply and may be offered a seat.
+I am an international student with F1 status. Can I participate?
+International students with F1 status are welcome to apply and can participate in the internship program, but will need to obtain Curricular Practical Training (CPT) approval. Students should work closely with their school's international services office prior to attending to ensure the appropriate steps are taken.
+If I am selected, do I need to bring my own equipment?
+Selected interns will be asked to bring their own laptop. Prior to traveling, OmniSOC will share specifics pertaining to applications and specifications needed. OmniSOC may be able to loan equipment, though this is limited and not guaranteed.
+My favorite part about this internship was learning under the guidance of different professionals within OmniSOC…Having access to their expertise and knowing that they have many years of experience within the cybersecurity industry was invaluable during my time at Indiana University and with my home team at Rutgers. I learned a great deal from asking these mentors various questions and getting advice on career goals within the IT field.
+Cassandra Begin | Rutgers | 2019 intern
+The summer internship is for students currently enrolled at Indiana University, University of Nebraska,
+Northwestern University, or Rutgers University.
+Read about the 2023 program

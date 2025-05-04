@@ -1,0 +1,265 @@
+[Source URL]: https://cs.indiana.edu/programs/bs-computer-science/specializations.html
+
+Home
+Programs
+B.S. in Computer Science
+Specializations
+Specializations
+Build your computing skills in a specific area
+All
+B.S. in Computer Science
+students choose one of eight specializations based on their interests and career goals:
+Artificial intelligence
+Data science
+Foundations
+Game development
+Programming languages
+Security
+Software engineering
+Systems
+Artificial intelligence
+Artificial intelligence includes several subfields involving the study of reasoning and learning methods that collect data, analyze it, and make inferences about the real world. AI, machine learning, and data mining provide decision support for physicians, inform recommendations to consumers, aid scientists at complex tasks, and provide intelligent user interfaces and knowledge management systems. Nearly every industry is looking for employees with AI-related skills.
+Sample curriculum
+The artificial intelligence sample curriculum includes the B.S. in Computer Science core courses (C200 or C211, C212, C241, and C343—which we recommend taking in your first three semesters) and courses in this specialization. You’ll also take other courses to fulfill your degree requirements. When you plan your schedule, make sure to see our
+course offerings
+, consult your
+degree requirements
+(including the specialization requirements), and talk with your
+advisor
+.
+Year 1, fall
+Either CSCI-C 200 Introduction to Computers and Programming or CSCI-C 211 Introduction to Computer Science and MATH-M 211 Calculus I
+Year 1, spring
+CSCI-C 212 Introduction to Software Systems
+CSCI-C 241 Discrete Structures for Computer Science
+Year 2, fall
+CSCI-C 343 Data Structures
+STAT-S 350 Introduction to Statistical Inference
+Year 2, spring
+CSCI-B 351 Introduction to Artificial Intelligence
+Year 3, fall
+CSCI-B 365 Introduction to Data Analysis and Mining
+Year 3, spring
+CSCI-B 455 Principles of Machine Learning
+Year 4, fall
+CSCI-B 401 Fundamentals of Computing Theory
+Year 4, spring
+CSCI-B 355 Autonomous Robotics
+Data science
+This specialization focuses on the algorithms, programming, and systems expertise you need in order to effectively acquire, model, store, search, analyze, and mine data—all to ultimately extract knowledge from it.
+Sample curriculum
+The data science sample curriculum includes the B.S. in Computer Science core courses (C200 or C211, C212, C241, and C343—which we recommend taking in your first three semesters) and courses in this specialization. You’ll also take other courses to fulfill your degree requirements. When you plan your schedule, make sure to see our
+course offerings
+, consult your
+degree requirements
+(including the specialization requirements), and talk with your
+advisor
+.
+Year 1, fall
+Either CSCI-C 200 Introduction to Computers and Programming or CSCI-C 211 Introduction to Computer Science and MATH-M 211 Calculus I
+Year 1, spring
+CSCI-C 212 Introduction to Software Systems
+MATH-M 212 Calculus II
+Year 2, fall
+CSCI-C 241 Discrete Structures for Computer Science
+Year 2, spring
+CSCI-C 343 Data Structures
+STAT-S 350 Introduction to Statistical Inference
+Year 3, fall
+CSCI-B 365 Introduction to Data Analysis and Mining
+Year 3, spring
+CSCI-B 455 Principles of Machine Learning
+Year 4, fall
+CSCI-B 461 Database Concepts
+Year 4, spring
+CSCI-B 403 Introduction to Algorithm Design and Analysis
+Foundations
+Learn the fundamentals of computing theory and structure, including algorithm design and analysis, language theory, various computational models, program verification, database concepts, and more. Consider this specialization if you excel at math and are motivated by the pursuit of finding patterns and analyzing things.
+Sample curriculum
+The foundations sample curriculum includes the B.S. in Computer Science core courses (C200 or C211, C212, C241, and C343—which we recommend taking in your first three semesters) and courses in this specialization. You’ll also take other courses to fulfill your degree requirements. When you plan your schedule, make sure to see our
+course offerings
+, consult your
+degree requirements
+(including the specialization requirements), and talk with your
+advisor
+.
+Year 1, fall
+Either CSCI-C 200 Introduction to Computers and Programming or CSCI-C 211 Introduction to Computer Science and MATH-M 211 Calculus I
+Year 1, spring
+CSCI-C 212 Introduction to Software Systems
+MATH-M 212 Calculus II
+Year 2, fall
+CSCI-C 241 Discrete Structures for Computer Science
+CSCI-C 311 Programming Languages
+Year 2, spring
+CSCI-C 343 Data Structures
+Year 3, fall
+CSCI-B 401 Fundamentals of Computing Theory
+Year 3, spring
+CSCI-B 403 Introduction to Algorithm Design and Analysis
+Year 4, fall
+CSCI-B 461 Database Concepts
+Year 4, spring
+CSCI-B 455 Principles of Machine Learning
+Game development
+This specialization is designed for students who want to turn their love of games into a career in game programming and development. You’ll develop essential programming and design skills and gain experience using a variety of tools and game engines, all while learning to work together effectively in a team.
+Sample curriculum
+The game development sample curriculum includes the B.S. in Computer Science core courses (C200 or C211, C212, C241, and C343—which we recommend taking in your first three semesters) and courses in this specialization. You’ll also take other courses to fulfill your degree requirements. When you plan your schedule, make sure to see our
+course offerings
+, consult your
+degree requirements
+(including the specialization requirements), and talk with your
+advisor
+.
+Year 1, fall
+Either CSCI-C 200 Introduction to Computers and Programming or CSCI-C 211 Introduction to Computer Science and MATH-M 211 Calculus I
+Year 1, spring
+CSCI-C 212 Introduction to Software Systems
+CSCI-C 241 Discrete Structures for Computer Science
+MATH-M 212 Calculus II
+Year 2, fall
+CSCI-C 343 Data Structures
+MSCH-C 210 Intro to Games
+CSCI-C 290 (topic: Games and puzzles)
+Year 2, spring
+CSCI-C 292 Introduction to Game Programming
+MSCH-G 300 Game Production I
+Year 3, fall
+CSCI-B 351 Artificial Intelligence
+MSCH-G 310 Game Design I
+Year 3, spring
+CSCI-B 453 Game Development
+Year 4, fall
+CSCI-C 460 Senior Project
+Year 4, spring
+CSCI-C 470 Senior Project
+Programming languages
+This specialization focuses on how to design and implement computer languages—even ones that have yet to be invented. You’ll learn to build interpreters that bring the fundamental principles of computation to life, and also to create compilers that translate programs in high-level languages (for humans) into low-level languages (for machines).
+Sample curriculum
+The programming languages sample curriculum includes the B.S. in Computer Science core courses (C200 or C211, C212, C241, and C343—which we recommend taking in your first three semesters) and courses in this specialization. You’ll also take other courses to fulfill your degree requirements. When you plan your schedule, make sure to see our
+course offerings
+, consult your
+degree requirements
+(including the specialization requirements), and talk with your
+advisor
+.
+Year 1, fall
+Either CSCI-C 200 Introduction to Computers and Programming or CSCI-C 211 Introduction to Computer Science and MATH-M 211 Calculus I
+Year 1, spring
+CSCI-C 212 Introduction to Software Systems
+CSCI-C 241 Discrete Structures for Computer Science
+Year 2, fall
+CSCI-C 343 Data Structures
+Year 2, spring
+CSCI-C 311 Programming Languages
+Year 3, fall
+CSCI-C 291 System Programming with C and Unix
+CSCI-B 401 Fundamentals of Computing Theory
+Year 3, spring
+CSCI-C 335 Computer Structures
+Year 4, fall
+CSCI-P 423 Compilers
+Year 4, spring
+CSCI-P 424 Advanced Functional Programming
+Security
+Computers affect every aspect of our lives. Ensuring that systems are secure and function properly is essential for everything from financial transactions to medical devices to self-driving vehicles. You’ll learn the fundamentals of systems and networking while focusing on the theory, practice, and tools behind securing these systems.
+Sample curriculum
+The security sample curriculum includes the B.S. in Computer Science core courses (C200 or C211, C212, C241, and C343—which we recommend taking in your first three semesters) and courses in this specialization. You’ll also take other courses to fulfill your degree requirements. When you plan your schedule, make sure to see our
+course offerings
+, consult your
+degree requirements
+(including the specialization requirements), and talk with your
+advisor
+.
+Year 1, fall
+Either CSCI-C 200 Introduction to Computers and Programming or CSCI-C 211 Introduction to Computer Science and MATH-M 211 Calculus I
+Year 1, spring
+CSCI-C 212 Introduction to Software Systems
+MATH-M 212 Calculus II
+Year 2, fall
+CSCI-C 241 Discrete Structures for Computer Science
+CSCI-C 291 System Programming with C and Unix
+Year 2, spring
+CSCI-C 343 Data Structures
+CSCI-C 231 Introduction to Mathematics of Cybersecurity
+Year 3, fall
+CSCI-C 335 Computer Structures
+MATH-M 301 Linear Algebra and Applications
+Year 3, spring
+CSCI-P 436 Introduction to Operating Systems
+MATH-M 365 Introduction to Probability and Statistics
+Year 4, fall
+CSCI-B 430 Security for Networked Systems
+CSCI-P 438 Introduction to Computer Networks
+Year 4, spring
+CSCI-B 433 Systems and Protocol Security and Information Assurance
+Software engineering
+Get ready to create software products for different platforms and purposes. This specialization focuses on the essential principles and techniques of software engineering. You’ll learn to effectively design, develop, test, debug, manage, and maintain software, and to work well on teams.
+Sample curriculum
+The software engineering sample curriculum includes the B.S. in Computer Science core courses (C200 or C211, C212, C241, and C343—which we recommend taking in your first three semesters) and courses in this specialization. You’ll also take other courses to fulfill your degree requirements. When you plan your schedule, make sure to see our
+course offerings
+, consult your
+degree requirements
+(including the specialization requirements), and talk with your
+advisor
+.
+Year 1, fall
+Either CSCI-C 200 Introduction to Computers and Programming or CSCI-C 211 Introduction to Computer Science and MATH-M 211 Calculus I
+Year 1, spring
+CSCI-C 212 Introduction to Software Systems
+CSCI-C 241 Discrete Structures for Computer Science
+Year 2, fall
+CSCI-C 343 Data Structures
+Year 2, spring
+CSCI-C 322 Object-Oriented Software Methods
+MATH-M 212 Calculus II
+Year 3, fall
+CSCI-B 461 Database Concepts
+CSCI-C 291 System Programming with C and Unix
+Year 3, spring
+CSCI-C 335 Computer Structures
+Year 4, fall
+CSCI-P 465 Software Engineering for Information Systems I
+CSCI-B 403 Introduction to Algorithm Design and Analysis
+Year 4, spring
+CSCI-P 436 Introduction to Operating Systems
+Systems
+This specialization focuses on machine structure, the internal operation and hardware organization of computers, linking computers into networks, and working in areas such as operating systems and input/output devices. Systems may be a good fit for you if you enjoy building and working with your hands.
+Sample curriculum
+The systems sample curriculum includes the B.S. in Computer Science core courses (C200 or C211, C212, C241, and C343—which we recommend taking in your first three semesters) and courses in this specialization. You’ll also take other courses to fulfill your degree requirements. When you plan your schedule, make sure to see our
+course offerings
+, consult your
+degree requirements
+(including the specialization requirements), and talk with your
+advisor
+.
+Year 1, fall
+Either CSCI-C 200 Introduction to Computers and Programming or CSCI-C 211 Introduction to Computer Science and MATH-M 211 Calculus I
+Year 1, spring
+CSCI-C 212 Introduction to Software Systems
+CSCI-C 241 Discrete Structures for Computer Science
+Year 2, fall
+CSCI-C 343 Data Structures
+CSCI-C 291 System Programming with C and Unix
+Year 2, spring
+CSCI-C 335 Computer Structures
+Year 3, fall
+CSCI-P 436 Introduction to Operating Systems
+Year 3, spring
+CSCI-P 438 Introduction to Computer Networks
+Year 4, fall
+CSCI-B 401 Fundamentals of Computing Theory
+Year 4, spring
+No core or specialization courses needed
+B.S. in Computer Science
+Specializations
+Minor in Computer Science
+Minor in Information Technology
+Accelerated M.S. in Computer Science
+Accelerated M.S. in Secure Computing
+Graduate Certificate in Cybersecurity
+M.S. in Computer Science
+M.S. in Bioinformatics
+Cybersecurity Master's Program (M.S. in Secure Computing)
+Dual M.S. in Secure Computing and M.A. in Russian and East European Studies
+Ph.D. in Computer Science

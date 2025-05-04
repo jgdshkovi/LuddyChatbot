@@ -1,0 +1,29 @@
+[Source URL]: https://medicine.iu.edu/research-centers/computational-biology-bioinformatics/education/genomics-research-training
+
+Home
+Research Centers
+Center for Computational Biology and Bioinformatics
+Education
+Indiana Genomics Research Training Program
+Indiana Genomics Research Training Program for Data Scientists
+The Indiana Genomics Research Training Program for Data Scientists (INGEN4DS) provides support for master’s degree students in data science-related programs to conduct genomics research that will prepare them to use powerful computational and statistical methods to decode the functional information hidden in DNA sequences.
+Apply Now
+Find information about how to apply to the INGEN4DS program. Applications are due October 31st for the January program  and March 30th for the June program.
+Admissions details
+Program brochure
+About the Program
+INGEN4DS provides hands-on training in analyzing large-scale genomics data sets using advanced data science methods and state-of-the-art computing resources.
+Admissions
+Find information about how to apply to the INGEN4DS program.
+Mentors
+INGEN4DS scholars conduct research under the guidance of co-mentor teams consisting of one faculty member conducting genomics-related wet lab research and one computational faculty member using advanced data science techniques.
+Frequently Asked Questions
+Find more information about the INGEN4DS program, eligibility, and application process.
+IN THIS SECTION
+Indiana Genomics Research Training Program
+Expand or hide links nested under the Section nav three section
+About the Program
+Admissions
+Mentors
+FAQs
+Contact

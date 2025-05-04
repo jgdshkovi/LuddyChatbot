@@ -1,0 +1,44 @@
+[Source URL]: https://luddy.indiana.edu/research/research-areas/animal-informatics.html
+
+Home
+Research
+Research Areas
+Animal Informatics
+Animal Informatics
+Designing technology with, for, and about animals
+Animal informatics, including the subfield of animal-computer-interaction, is an applied research program of interest to the pet care industry, captive animal management (e.g. zoos, aquariums, livestock), animal welfare organizations, assistive and therapeutic support animal programs, veterinary medicine, wildlife conservation, and the cognitive, biological, and evolutionary sciences.
+See faculty
+in animal informatics
+Subareas
+Maker applications for animals
+From pets to zoo animals we can now provide unique enrichment opportunities for animals, (such as the dog or rhino "Foobler"), and more appropriate interfaces for service animals, such as nose-friendly light switches, as well as assistive technology for animals themselves, including 3-D replacement limbs.
+Automated quality of life
+Innovative, often sensor-based data capture and analysis can be used to monitor captive animal health and wellness. Whether for livestock, zoos, or more temporary home.
+Wildlife (and poacher) tracking and monitoring
+Whether it's tracking & monitoring the movements of deer in Bloomington; diseased or endangered species in Indiana; or the migration patterns of animals throughout the world living on land, in the ocean, or in the air, these technologies include light-as-a-feather sensor design and data capture, the deployment and analysis of video data from drones, and still-image capture and analysis from social media.
+Animal cognition
+By studying how animals learn and think, we can discover which cognitive abilities are shared across the animal kingdom and which abilities are uniquely human. Moreover, by leveraging insights from animal cognition, we aim to build artificial brains with the same power and flexibility as biological brains.
+Interspecies relationships and education
+Through studying exhibit design; novel approaches to data collection, analysis, and visualization; simulations and immersive experiences; or even the translation of other species' multisensory forms of communication, technological innovation can help us understand animals and improve our interactions with them in remarkable ways.
+Faculty research in Animal Computer Interaction
+Professor of Informatics Christena Nippert-Eng highlights her research, including her search for the fundamental principles of camouflage across species, the face-to-face, and digital realms, and the innovations in ethnographic research she has developed through her work with students observing and designing for gorillas at Lincoln Park Zoo.
+Description of the video:
+Professor of Informatics Christena Nippert-Eng highlights her research, including her search for the fundamental principles of camouflage across species, the face-to-face, and digital realms, and the innovations in ethnographic research she has developed through her work with students observing and designing for gorillas at Lincoln Park Zoo.
+Assistant Professor of Informatics Patrick Shih outlines his work using technology to amplify the capabilities of human-animal interaction, including the improvement of animal-human bonds, using computer vision to better understand animal cognition, triangulating animal migration patterns using social media analysis, captive animal enrichment, and more.
+Description of the video:
+Assistant Professor of Informatics Patrick Shih outlines his work using technology to amplify the capabilities of human-animal interaction, including the improvement of animal-human bonds, using computer vision to better understand animal cognition, triangulating animal migration patterns using social media analysis, captive animal enrichment, and more.
+Associate Professor of Informatics Justin Wood showcases his research on using computational neuroscience and artificial intelligence to reverse engineer how animals develop the ability to perceive and understand the world, which could allow the development of AI that learns using the same methods as newborns.
+Description of the video:
+Associate Professor of Informatics Justin Wood showcases his research on using computational neuroscience and artificial intelligence to reverse engineer how animals develop the ability to perceive and understand the world, which could allow the development of AI that learns using the same methods as newborns.
+Associated centers, groups, and labs
+Center for the Integrative Study of Animal Behavior
+Cognitive Science Program
+R-House Human-Robot Interaction Lab
+Societal Computing Lab
+Wood Lab
+Faculty Directory
+Luddy Faculty Fellows
+Faculty Achievement Awards
+Research Centers and Labs
+Research Areas
+Student Research

@@ -1,0 +1,83 @@
+[Source URL]: https://leading.iu.edu/
+
+Welcome to the IU cybersecurity community
+Indiana University is a leader in cybersecurity through its operational services, applied research, innovative and unique academic programs, research, and workforce development opportunities.
+OmniSOC
+OmniSOC is a shared cybersecurity operations center for higher education and research. OmniSOC quickly identifies suspicious and malicious activities then provides rapid response through human analysis and machine learning to mitigate their effect.
+Monitor and mitigate threats effectively
+Center for Applied Cybersecurity Research
+CACR provides leadership in applied cybersecurity technology, education, and policy by identifying and addressing cybersecurity problems facing public and private communities, while inviting collaboration to foster innovation and creativity. CACR also provides a variety of services, to include assessments, consulting, training, and fractional-FTE virtual security teams.
+Learn about cybersecurity in action
+ResearchSOC
+The Research Security Operations Center is an NSF-funded collaborative security response center that addresses the unique cybersecurity concerns of the research and education community.
+Discover how we can protect your research
+GlobalNOC
+The 24×7×365 Global Network Operations Center manages 20+ state, national, and international networks and serves 300+ universities, government agencies, and affiliated organizations.
+Connect with 24/7 network protection
+Trusted CI
+As the National Science Foundation Cybersecurity Center of Excellence, Trusted CI provides the NSF community with a coherent understanding of cybersecurity’s role in producing trustworthy science.
+Find out how to secure your science data
+REN-ISAC
+The Research and Education Networks Information Sharing and Analysis Center serves over 650 member institutions within the higher education and research community by promoting cybersecurity operational protections and response.
+Benefit from shared security information
+IU cybersecurity serves the university, the state of Indiana, and the nation.
+Academics
+IU provides multiple avenues of study for those interested in cybersecurity.
+Kelley School of Business
+Multiple cybersecurity academic programs
+Space Cybersecurity Professional Badge
+Cybersecurity management certificate
+Undergraduate programs
+Graduate degrees
+Luddy School of Informatics, Computing, and Engineering
+Technology-focused programs
+Undergraduate programs
+Graduate certificates
+Graduate degrees
+Maurer School of Law
+Graduate certificates
+Cybersecurity law and policy
+Privacy law and policy
+Interdisciplinary programs
+Additional degrees offered through IU
+Master's degree in cybersecurity risk management
+Undergraduate degree in cybersecurity and global policy
+Connect with us at upcoming events
+Check back in the fall for more events.
+Watch this overview of IU's leading cybersecurity academic programs and operational services.
+Description of the video:
+Indiana University is a leader in addressing difficult cybersecurity challenges. Home to multiple organizations and initiatives devoted to the safety and security of research and information, IU has the knowledge and experience to keep data safe in an increasingly perilous cyberworld. Our cybersecurity roster includes the Global Network Operations Center, or GlobalNOC, which designs, monitors, and protects some of the world's largest and fastest research and education networks. OmniSOC, or Omni Security Operations Center, a first of its kind, 24/7/365 cybersecurity center for higher education, devoted to reducing the time between threat awareness and threat mitigation. REN-ISAC, The Research and Education Networks Information Sharing and Analysis Center, which shares security information and best practices with more than 620 college and universities. ResearchSOC, which addresses the unique cybersecurity concerns of the research community and keeps the nation's greatest
+scientific endeavors safe. The National Science Foundation Cybersecurity Center of Excellence, or Trusted CI, which helps protect more than $7 billion of NSF-funded research projects. And the Center for Applied Cybersecurity Research, or CACR, which identifies and addresses difficult problems facing public and private communities. Together, with the Naval Surface Warfare Center, Crane Division, CACR also works to develop cybersecurity solutions for difficult environments through the Principals-based Assessment for Cybersecurity Toolkit, or PACT. IU is a leader in cybersecurity academic programs, as well. Three of IU's top-ranked schools -- the Kelley School of Business, the Maurer School of Law, and the Luddy School of Informatics, Computing, and Engineering -- now offer cybersecurity degrees and certificates. IU also offers an interdisciplinary MS program in cybersecurity risk management. Security and Privacy in Informatics, Computing, and Engineering, or SPICE, works to design better systems that balance security, privacy, and usability. And the Ostrom Workshop's Program on Cybersecurity and Internet Governance uses a multidisciplinary, multisector method to develop sustainable models of internet
+governance and an equitable cyber peace. At Indiana University, we work to safeguard some of the nation's greatest assets, research, and intellectual capitol and educate others to do the same.
+Our areas of leadership
+Operations
+IU leads nationally-recognized services addressing the unique needs of research and education.
+GlobalNOC
+has been building and supporting national, international, and regional R&E networks for almost 20 years.
+OmniSOC
+is the shared cybersecurity operations center service for higher education and research.
+Research and Education Networks Information Sharing and Analysis Center
+(REN-ISAC) promotes cybersecurity operational protections and response.
+ResearchSOC
+provides operational cybersecurity services for the nation's greatest research.
+The University Information Security Office
+provides security analysis, development, education, and guidance related to Indiana University's information assets and information technology environment.
+Research
+IU conducts broad scholarly research to investigate emerging trends and issues.
+Luddy School of Informatics, Computing, and Engineering
+explores technology's role in society to help design better systems.
+Big Red 200
+HP Cray Shasta supercomputer supports AI/cybersecurity research.
+Security and Privacy in Informatics, Computing, and Engineering
+(SPICE) studies and supports the design, evaluation, and implementation of technologies that enable control over information.
+Ostrom Workshop
+seeks to build upon the theme of governance to understand and address major societal problems.
+Workforce development
+IU offers development opportunities for students unavailable anywhere else.
+CyberCorps Scholarship for Service
+is training the next generation.
+Cyber ROTC
+provides opportunities for ROTC cadets while growing the military workforce.
+OmniSOC offers learning experiences through
+internships
+and webinars.

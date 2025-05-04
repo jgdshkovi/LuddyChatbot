@@ -1,0 +1,68 @@
+[Source URL]: https://globalnoc.iu.edu/
+
+A proven partner in network operations for research, education, and the greater good
+GlobalNOC provides world-class, carrier-grade support in network monitoring, engineering, and software development. Because we are part of the Research and Education (R&E) community we serve, we truly understand your needs and become an extended part of your own team.
+perfSONAR celebrates 20 years
+April 10, 2025
+GlobalNOC and the global research and education (R&E) community are celebrating a major milestone in high-performance networking and collaboration: the 20th anniversary of perfSONAR.
+Read more >>
+GlobalNOC partners with AIHEC, LPTC
+December 2, 2024
+In an era when digital connectivity is a cornerstone of educational success, Indiana University’s
+GlobalNOC
+is working with the
+American Indian Higher Education Consortium
+to bridge the technological gap for tribal colleges and universities.
+Read more >>
+GlobalNOC partners with KeystoneREN
+June 10, 2024
+Partnership will enhance network performance and reliability and foster collaboration.
+Read more >>
+See more news
+Description of the video:
+[00:00] [VIDEO: A network is represented by 15 small black dots connected to a central red dot in a matrix netted over a map of the United States.]
+[00:01] NARRATOR: managing a network for research education and the public interest isn't easy
+[00:06] [VIDEO: A line illustration of laboratory beaker filled with black dots appears to be boiling over as grey dots spill over its sides until only 16 dots in two vertical lines remain inside. The remaining dots flow from the top of the beaker to form a series of changing rectangular patterns.]
+[00:07] NARRATOR: the work is important the needs are always changing and there's no room for error
+[00:16] [VIDEO: All but one dot falls off the screen, and that dot slides from the lower right to the middle left of the screen and changes colors to red. Three addition red dots appear to be dealt from the first red dot across the middle of the screen. The four dots merge and are stretched into a disc and back to a single dot]
+[00:17] NARRATOR: from responding to trouble tickets and assisting users to fixing problems and planning upgrades you might feel stretched thin
+[00:27] [VIDEO: An exclamation point and question mark appear above the dot before it returns to the 16 -dot network matrix netted over a map of the United States with smaller dots moving through it.]
+[00:25] NARRATOR: and that's before you've even had a chance to think about things like new network technologies or software tools
+[00:33] [VIDEO: As the network grid shrinks into the red dot in the center of the screen, a pulsating ring beats around the dot before six black squares come on to the left side of the screen. The squares turn into black dots as they circle and rotate around the red dot. Then the squares shrink into the red dot before four black arcs appear and move around the dot. The arcs change colors to red and shrink into the center dot.]
+[00:33] NARRATOR: You need help. You talk to some commercial providers, but they don't seem to get it. Scientists, researchers and educators need things to be seamless. You need personalized attention and customized services
+[00:50] [VIDEO: with the red dot in the center, eight black dots with dollar signs spreads vertically across the screen and begin to fall.]
+[00:50] NARRATOR: and you're on a budget. That's where we come in.
+[00:54] [VIDEO: the red dot is transformed into the GlobalNOC logo and becomes part of a global map of dots]
+[00:55] NARRATOR: We're GlobalNOC at Indiana University. Our job is to help local regional and national R E networks run smoothly.
+[01:04] [VIDEO: The map of dots goes away leaving only the red dot with dollar signs on each side]
+[01:05] NARRATOR: We are not a commercial service provider.
+[01:10] [VIDEO: The dollar signs are bounced away and the red dot once again become part of a network of dots growing and moving.]
+[01:10] NARRATOR: We only serve research and education and the public sector. We work as an extension of your team as committed to your organization's success as you are.
+[01:19] [VIDEO: The network of dots goes away, leaving the red dot surrounded by four black dots blinking and rotating around the red dot. The network of 16 dots with the red dot in the center fades in and out over the map of the US.]
+[01:20] NARRATOR: With GlobalNOC, you get the benefit of being part of a collaborative community. We know the challenges you face and we're ready to help.
+[01:29] [VIDEO: A single black dot slides off to the left where a black line appears and moves across the screen connecting dots as it goes, slowly forming a network of dots that will eventually fade into the 16-dot matrix over the map of the US]
+[01:30] NARRATOR: The GlobalNOC has been supporting and building national international and regional R E networks for over 20 years. Our work supports colleges and universities, k-12 schools, government institutions and non-profit agencies from across the US and beyond. Our mission is simple: great networks, great support and great outcomes for scientists, researchers and educators to advance discovery and serve the greater good.
+[02:00] [VIDEO: The 16-dot matrix shrinks into the center red dot which becomes part of a four-quarter budget bar graph. The dot bounces on top of each bar, pushing them out of the picture.]
+[02:00] NARRATOR: We don't answer to shareholders so we can offer flexible customized solutions to meet your needs and budget.
+[02:06] [VIDEO: The red dot returns to the center of the picture where it stretches toward is four pulsating black squares that turn into calmer dots as they move around the circle.]
+[02:07] NARRATOR: There's no slick sales team at the GlobalNOC. We're a team of engineers and developers who speak your language, understand your challenges and genuinely enjoy the work we do.
+[02:20] [VIDEO: The black dots shrink into the red dot that is once again in the center of the 16-dot matrix over the US map.]
+[02:21] NARRATOR: Maybe you need network management software customized for you or someone to answer calls and watch your network for problems.
+[02:20] [VIDEO: The red dot enlarges and bounces to the bottom of the US map, lingers a moment as the map turns and then as the map fades and the other dots and their connecting lines scatter away, the dot is flipped to the upper third of the screen with its shadow appearing at the bottom. A pulsating ring emminates from the red dot.]
+[02:29] NARRATOR: Maybe you're a growing network but daunted by the expense and effort of building your own engineering team; or maybe you want to improve your operations but could use some guidance to figure out what's possible.
+[02:44] [VIDEO: Icons of a telephone and an envelope appear next to the red dot.]
+[02:43] NARRATOR: Reach out to us by phone or email. Let's talk about how GlobalNOC can help your network.
+[02:49] [VIDEO: The icons disappear, and the dot rotates once as it turns into the GlobalNOC logo.]
+[02:51] NARRATOR: We'll keep the network coming so you can focus on your mission in delivering valuable services to your community
+[02:59] [TEXT: “IU University Information Technologies copyright 2020 the Trustees of Indiana University”]
+We're GlobalNOC
+We are a different kind of network operations center. Our mission is to support research and education by enabling fast, secure, and optimized networks for our partners. Learn more about what sets us apart from a typical service provider.
+Learn more about GlobalNOC
+More than a NOC, we’re a partner
+As a mission-driven nonprofit organization focused exclusively on R&E, we are not just another vendor, but a true, long-term partner in your success. Our partner organizations include some of the best national, international, and regional networks in the world.
+Learn more about our partners
+Internet2
+Built and designed based on community input and expressed needs – engineered to ensure maximum performance and availability for big science and research demands while also providing what you need to support the academic enterprise – that’s the Internet2 network.
+Learn more about Internet2
+Our engineers speak your language and build real relationships with you and your team.
+Partner With Us

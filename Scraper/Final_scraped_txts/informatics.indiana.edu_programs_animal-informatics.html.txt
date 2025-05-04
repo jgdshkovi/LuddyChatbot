@@ -1,0 +1,43 @@
+[Source URL]: https://informatics.indiana.edu/programs/animal-informatics.html
+
+Home
+Programs
+Animal Informatics
+Animal Informatics
+Using tech to learn from our friends in nature
+Technology impacts the lives of humans every day, and we can use that same technology to study and improve the lives of animals.
+Animal Informatics is a growing field that focuses on designing technology specifically for animals that can help humans understand how animals interact with their environment with the goal of increasing their quality of life. It’s also about ways in which animal-human interaction can be beneficial to all involved.
+Learn more about the offerings in animal informatics
+Undergraduate Cognate
+For Informatics majors
+Undergraduate Minor
+M.S. in Informatics Track
+Ph.D. in Informatics Track
+Ph.D.  Minor
+Faculty Research
+Explore our courses
+If you’re interested in pursuing animal informatics, here are some of the featured  courses we offer:
+INFO-I216 Humans, Animals, and Artificial Intelligence
+Explore how cognitive abilities are distributed across the animal kingdom, which abilities are uniquely human, and our current progress building artificial intelligence that mimics human intelligence. We will provide a broad overview of the connection between biological and artificial intelligence.
+A description of Humans Animals and AI Course given by ACI faculty Justin Wood.
+Description of the video:
+This is a course description video that just repeats the above information.
+INFO-I411/511 Introduction to Animal-Computer Interaction Methods
+The emerging field of animal-computer interaction explores conceptual and practical aspects of how animals interact with modern technology. This course will introduce cutting-edge ACI methods with a focus on how they are used to enhance animal welfare, enrichment, husbandry, and cognitive research opportunities.
+A description of INFO I411 and I511 - Introduction to ACI Methods given by ACI faculty Chris Martin.
+Description of the video:
+This is a course description video that just repeats the above information.
+INFO-I414/514/609 Seminar on Technology for Animals
+Our seminar in animal-computer interaction will serve as an introduction to ACI with a focus on four emerging areas, including maker applications for animals, automated quality of life data capture and analysis for captive animal health and wellness, wildlife tracking and monitoring, and animal cognition.
+A description of INFO I414, I514, and I609 - Seminar in Animal Computer Interaction given by Chistena Nippert-Eng.
+Description of the video:
+This is a course description video that just repeats the above information.
+Our Faculty
+Christena Nippert-Eng
+Christena Nippert-Eng is a sociologist and Professor of Informatics at IUB. Her scholarly interests include cognition, culture, gender, privacy, time, space, everyday life, ethnography, user-centered design and, most recently, the social behavior of nonhuman animals, especially the rest of the great apes.
+Patrick Shih
+Patrick Shih's research focuses on the study of sociotechnical systems and mechanisms to support health and wellbeing and reduce health disparity of marginalized and underserved populations in rural areas. Specifically, his lab designs, prototypes, and deploys novel personal health informatics devices, interfaces, and platforms to support people with physical, developmental, and mental conditions. He also designs technologies to amplify human and animal capabilities in animal-assisted interventions and to improve animal welfare.
+Justin Wood
+Justin Wood’s research aims to link psychology to artificial intelligence with the goal of reverse-engineering the origins of intelligence to build machines that learn like newborn animals. His ultimate goal is to build end-to-end (pixels-to-actions) artificial agents that mimic cognitive development in newborn animals.
+Christopher Martin
+Christopher Flynn Martin is a research scientist at Indianapolis Zoo and affiliate faculty in the Department of Informatics. He conducts studies on animal cognition at the zoo, and runs a consulting business that builds custom electronics and software to enhance animal enrichment, research, and husbandry practices at zoos around the world.

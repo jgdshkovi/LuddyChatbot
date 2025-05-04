@@ -1,0 +1,51 @@
+[Source URL]: https://news.luddy.indiana.edu/story.html?story=Luddy’s-Radicchi-coauthors-groundbreaking-study
+
+Home
+News
+Luddy’s Radicchi co-authors groundbreaking study
+Luddy School Informatics Professor Filippo Radicchi co-authored a groundbreaking study that could lead to the development of new AI algorithms and new ways to study brain function. They study appeared recently in the prestigious Nature Physics.
+Feb 26, 2025
+Hub icon
+Twitter
+Facebook
+Filippo Radicchi,
+professor of Informatics at
+the Luddy School of Informatics, Computing, and Engineering,
+co-authored a ground-breaking study that could lead to the development of new AI algorithms and new ways to study brain function.
+The study, titled
+“Topology shapes dynamics of higher-order networks,”
+and published in
+Nature Physics
+, proposed a theoretical framework specifically designed for understanding complex higher-order networks. It could lead to breakthroughs in disciplines such as physics, neuroscience, computer science, climate science, finance and more.
+“The new framework is based on a rather unusual perspective and may be a game changer in a multitude of applications,” Radicchi said.
+Specifically, the study offers insights into how topology shapes dynamics, how dynamics learns topology and how topology evolves dynamically.
+The goal is to introduce physicists, mathematicians, computer scientists and network scientists into the emerging field of higher-order topological dynamics, as well as delineate future research challenges.
+Radicchi said complex real systems such as the brain, chemical reactions and neural networks can be conveniently modeled as higher-order networks, which are characterized by multi-body connections denoting the fact that multiple elements of the system simultaneously interact.
+“Theoretical approaches generally used in network science rely on the assumption that only two elements can interact at a time,” Radicchi said. “Thus, they are not able to properly handle higher-order networks.”
+Radicchi said the researchers’ proposed framework is based on the integration of discrete topology and non-linear dynamics, with some of its components imported from the theory of quantum mechanical systems.
+“We show that the framework is powerful for the analysis of processes occurring on higher-order networks such as topological synchronization,pattern formation, and triadic percolation.”
+Radicchi said having the study appear in Nature Physics, an internationally renowned monthly peer-reviewed scientific journal, created high visibility for their work. He said researchers hope the framework is accepted and used not just in network science, “but also in other disciplines that rely on network analysis to study real complex systems.”
+The study was led by Professor Ginestra Bianconi from Queen Mary University of London in collaboration with eight other international researchers.
+”
+Author
+Pete DiPrimio
+Contact Info
+Luddy Director of Marketing and Communications
+luddymco@iu.edu
+Explore media resources
+Filed under:
+Bloomington
+Research
+View all tags
+Plus sign
+Previous article
+High-powered computer server will increase AI innovation and discovery at Luddy School
+Next article
+Luddy Indianapolis Sports Analytics students tackle NFL Big Data Bowl
+More stories
+Luddy Indianapolis alumna Danita Forgey honored with Maynard K Hine Medallion
+Luddy
+December 2
+HCI/d Connect delivers real-world look at potential futures
+Luddy
+February 5

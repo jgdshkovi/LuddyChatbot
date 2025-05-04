@@ -1,0 +1,169 @@
+[Source URL]: https://datascience.indiana.edu/programs/ms-data-science-statistical-science/index.html
+
+Home
+Programs
+Dual M.S. in Data Science and Statistical Science
+Dual M.S. in Data Science and Statistical Science
+Combine statistical science with data science
+This dual degree program awards an M.S. in Statistical Science and an M.S. in Data science. It is recommended for students who have a background in statistics and also want to acquire deep computational skills.
+You’ll earn two degrees in fewer credit hours and less time than it would take to earn them separately.
+Let's stay in touch!
+We want to hear from you! The Luddy School is here to answer any questions you may have, and we’re more than happy to guide you down your path to tomorrow.
+Request more information
+Program overview
+How it works
+You need to apply and be admitted by both the data science and statistics admission committees.
+Combining the degrees means you can graduate with 52 credit hours, instead of the 61 credit hours it would take to earn the degrees separately.
+Academic requirements
+Students need to fulfill the following requirements.
+Data Mining and Search
+(3 credits)
+CSCI-B 551
+CSCI-B 555
+CSCI-B 565
+CSCI-P 556
+ENGR-E 511
+ILS-Z 534
+INFO-I 606
+Data Management and Engineering
+(3 credits)
+CSCI-B 561
+ENGR-E 516
+INFO-I 535
+DSCI-D 532
+Data Visualization and Storytelling
+(3 credits)
+ENGR-E 583
+ENGR-E 584
+INFO-I 590 Data Visualization
+Graduate level Luddy courses
+(12 credits)
+No more than 6 credits from STAT courses
+At most 3 credits of DSCI-D 590 Data Science On-Ramp
+25 credits
+of S610, S611, S621, S622, S631, S632, S690, and S692
+6 credits of one the following domains
+Augmented and Virtual Reality
+INFO-I 590
+Artificial Life in Virtual Reality
+Building Virtual Worlds
+Creating Virtual Assets
+Introduction to Virtual Reality
+Data Security and Privacy
+INFO-I 520
+INFO-I 525
+INFO-I 533
+INFO-I 538
+Economic Data Analytics
+ECON-M 504
+ECON-M 511
+ECON-M 514
+ECON-M 518
+ECON-M 524
+Health and Biomedical Data Science
+INFO-I 507
+INFO-I 519
+INFO-I 529
+Human Robotic Interaction
+CSCI-B 657
+ENGR-E 599 - Autonomous Robotics
+INFO-I 513
+INFO-I 527
+INFO-I 540
+INFO-I 542
+Social Data Science
+ENGR-E 583 (may be counted only once)
+ILS-Z 639
+INFO-I 513
+INFO-I 590 Data Visualization (may be counted only once)
+INFO-I 606 (may be counted only once)
+Degree maps
+Below are several sample degree paths students could take.
+Typical degree map
+The typical path is for students who do not require remedial data science coursework and know from the outset that they want to pursue the dual degree.
+Example only
+Year
+Fall
+Spring
+First
+STAT S610 Introduction to Statistical Computing
+STAT S631 Applied Linear Models
+DS DMS Requirement
+STAT S611 Statistical Computing
+STAT S632 Applied Linear Models II
+DS DME Requirement
+Second
+STAT S621 Fundamentals of Statistical Methods and Theory I
+STAT S690 Statistical Consulting
+DS DVS Requirement
+STAT S622 Fundamentals of Statistical Methods and Theory II
+STAT S692 Internship in Statistical Consulting
+DS Domain 1
+Third
+DS Domain 2
+DS Elective
+DS Elective
+STAT or DS Elective
+STAT or DS Elective
+Degree map for students with weak data science background
+This path is for students who may need bolster their knowledge in data science.
+For example only
+Year
+Fall
+Spring
+First
+STAT S610 Introduction to Statistical Computing
+STAT S631 Applied Linear Models
+DSCI-D 590 Intro to Python Programming
+STAT S611 Statistical Computing
+STAT S632 Applied Linear Models II
+DSCI-D 590 Introduction to NLP for DS
+Second
+STAT S621 Fundamentals of Statistical Methods and Theory I
+STAT S690 Statistical Consulting
+DS DVS Requirement
+STAT S622 Fundamentals of Statistical Methods and Theory II
+STAT S692 Internship in Statistical Consulting
+DS Domain 1
+Third
+DS Domain 2
+DS Elective
+DS Elective
+STAT or DS Elective
+STAT or DS Elective
+Adding data science later
+This path is for students who are already in the statistical science program and later decide to add on the M.S. in data science.
+An example only
+Year
+Fall
+Spring
+First
+STAT S610 Introduction to Statistical Computing
+STAT S631 Applied Linear Models
+STAT S621 Fundamentals of Statistical Methods and Theory I
+STAT S611 Statistical Computing
+STAT S632 Applied Linear Models II
+STAT S622 Fundamentals of Statistical Methods and Theory II
+Second
+STAT S690 Statistical Consulting
+DS DMS Requirement
+DS Domain 1
+STAT S692 Internship in Statistical Consulting
+DS DME Requirement
+DS Domain 2
+Third
+DS DVS Requirement
+DS Elective
+STAT or DS Elective
+DS Elective
+STAT or DS Elective
+Bachelor of Science
+Master of Science — Residential
+Master of Science 4+1 — Residential
+Master of Science 4+1 — Online
+Master of Science — Online
+Graduate Certificate — Online
+Dual M.S. in Data Science and Applied Statistics
+Dual M.S. in Data Science and Statistical Science
+Minor in Data Science
+Doctoral Minor

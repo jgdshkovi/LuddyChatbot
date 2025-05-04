@@ -1,0 +1,39 @@
+[Source URL]: https://omnisoc.iu.edu/
+
+Cybersecurity for research and higher education
+With two decades of experience from the
+GlobalNOC
+behind it, OmniSOC is the shared security operations center (SOC) for higher education and research. OmniSOC rapidly delivers only critical, actionable, high-quality alerts 24/7, allowing cybersecurity staff to focus on what’s important—at substantial cost savings—from a trusted leader in the higher education cybersecurity community.
+OmniSOC operates collaboratively across
+member institutions
+, reducing the time from first awareness of a cybersecurity threat anywhere to mitigation everywhere for our members in
+higher education, regional R&E networks, and research facilities
+.
+OmniSOC counters cybersecurity threats by:
+Collecting cybersecurity data from partners
+Integrating this data with other threat intelligence
+Conducting proactive threat hunting
+Monitoring, triaging, and analyzing security events
+Learn more about our services
+OmniSOC is...
+Higher education’s only collaborative multi-state institution security operations center
+The only collaborative SOC supporting National Science Foundation (NSF) research
+The only SOC with a multi-state institution data sharing agreement for researchers
+Founded by five Big Ten Academic Alliance schools and located at IU, OmniSOC also provides cybersecurity for the nation’s greatest research through the
+ResearchSOC
+, the NSF Research Security Operations Center. OmniSOC (including ResearchSOC) has adopted the
+Trusted CI Framework
+for our own security program, and advise members in its use upon request.
+OmniSOC is a proud member of the
+Indiana University Cybersecurity Community
+.
+Who we serve
+Our members include higher education and research institutions of all sizes, both public and private. Learn how we help organizations like yours.
+Small colleges and universities
+Research and education networks
+Research facilities and projects
+Large colleges and universities
+We went with OmniSOC because they understand Higher Ed. They understand what research is. They understand who students are. Security in higher education is just different.
+Mark Herron, CISO at Case Western Reserve University
+Ready to get started?
+Contact us today!

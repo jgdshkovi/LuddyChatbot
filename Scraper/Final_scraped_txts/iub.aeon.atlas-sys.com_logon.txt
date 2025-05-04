@@ -1,0 +1,15 @@
+[Source URL]: https://iub.aeon.atlas-sys.com/logon
+
+A
+Lilly Library Request System Account
+is required to use materials or order digital reproductions from the collections.
+Please select your affiliation below. All first time users will be directed to a registration form to create a request account.
+IU Users
+IU users include current students, faculty, and staff with an active IU userID.
+Login or Register
+Non-IU Users
+All other users who do not have an active IU userID.
+Login or Register
+For assistance, please contact us at
+liblilly@indiana.edu
+.

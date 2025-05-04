@@ -1,0 +1,44 @@
+[Source URL]: https://documentation.events.iu.edu/
+
+Upgrade Notice
+On
+Wednesday, May 21, 2025
+, Livewhale Events Calendar will be upgraded to the latest version of
+2.19.0
+. Publisher interface will be
+unavailable between 10:00 am and noon
+. For a full list of bug fixes and features see
+release notes
+. Send an email to
+events@iu.edu
+for any further questions or assistance.
+Events Calendar
+The LiveWhale events calendar system is a centralized tool to manage events on both the local (group) and global (campus) levels.
+All official Indiana University departments, schools, and programs are encouraged to use the calendar.
+During the transition process, you can sign up for
+training sessions
+and watch recorded
+Infoshare
+.
+On this site, you will find documentation for the following functions:
+Managing group calendar
+Tagging events
+Managing events
+Storyteller
+LiveWhale Storyteller
+is a new product built on the LiveWhale content management platform. It is a web-based application that allows you to create stories, features, profiles easily.
+The current
+IU Newsroom
+is built on this application.
+Read more details.
+Request a calendar
+If your group/department would like a calendar,
+complete the request form
+.
+For any questions about the LiveWhale calendar, or if you need calendar support, contact
+events@iu.edu
+.
+Get updates
+If you are a calendar user and would like to receive updates for the new calendar system,
+subscribe to the calendar update list
+.

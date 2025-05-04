@@ -1,0 +1,65 @@
+[Source URL]: https://i101.luddy.indiana.edu/
+
+About the course
+INFO I101 Introduction to Informatics and Computing
+is an exciting class that gives students a hands-on approach to understanding and using technology. This course teaches basic concepts in the field of Informatics and Computing. It focuses on subjects that will prepare students for more advanced coursework with the
+Luddy School of Informatics, Computing, and Engineering
+.
+Specific lecture topics taught include problem solving techniques, information theory, career panels, and research areas within the School. A lab component teaches basic technology skills in the areas of web design, media computation, and a basic introduction to programming.
+Lecture and laboratory work together to prepare students by providing a basic foundation and general knowledge within the realm of informatics and computer science.
+INFO I101
+also counts as a
+General Education (GenEd) Natural and Mathematical Sciences Requirement
+.
+Course Objectives
+Technology Awareness
+Students will have a general understanding of technology: they will recognize and be critical of technology and how it exists in their lives.
+Problem Solving
+Students will have the ability to evaluate, process, and create solutions to real world problems from computational, design, and sociotechnical perspectives.
+Teamwork
+Students will have the ability to understand how to use effective communication skills and work within a group.
+Inclusive Excellence
+Students will be able to describe inclusive excellence in computing and provide an example of an underrepresented innovator who contributed to computing.
+Skills gained
+Social Awareness
+The ability to identify, evaluate, and critique the impact of technology on society/culture, over time, and into the future.
+Basic Data Proficiency
+The ability to understand and transform data into meaning and actionable information and knowledge.
+Abstract Thinking
+The ability to apply critical and logical thinking to solve real world problems.
+Practical Applications
+The ability to use and apply computational tools to solve real world problems.
+Technology Fundamentals
+The ability to identify and explain different parts of technology (key terms, basic theories, etc.).
+Problem Deconstruction
+The ability to evaluate the nature of a given problem.
+Semester Project
+Students will work in teams to complete a semester project showcasing skills and concepts from both lecture and lab, focused on highlighting an underrepresented innovator in technology. Increasing representation in technology, and STEM more broadly, is important for creating a robust workforce that can solve the problems of people from all backgrounds, experiences, and places. With informatics' focus on the social impact that computing can have and the ways in which society impacts computing, we are interested in contributing to making technology an inclusive space for all who want to participate.
+Course Prerequisites
+None!
+There are no prerequisites for the course! An interest in learning about technology (and how we interact with it) is all that you need.
+Course Materials
+You will need a computer that can connect to the internet to use Canvas and the software (available through the university) that will be used in the course. If you do not have a computer there are lab computers available in the Student Technology Centers around campus.
+We highly recommend taking advantage of free storage services offered by IU for your assignments in the course. (And outside of the course!)
+Cloud Storage
+Google@IU
+Google at IU provides all faculty, staff, and students with access to Google Apps such as Docs, Drive, Sites, Sheets and other Google Apps. Use your Google@IU Drive to keep your files safe and secure. This also keeps version history of your files.
+OneDrive@IU
+OneDrive at IU provides all faculty, staff, and students with access to file storage. Use your OneDrive@IU Drive to keep your files safe and secure. This also keeps version history of your files.
+Cloud Storage Connector
+Authorize your Google@IU and OneDrive@IU accounts and they will be accessible as drives when you login to any UITS STC computer. (Like the ones in your lab!) This makes saving and accessing your work super easy around campus and at home!
+Joining the Course
+We recommend that you get registered as soon as possible.
+Students will only be added to the course if there are physical spots left in the lab/lecture selected. Physical space is based on fire code and other Indiana University policy.
+Waitlist
+If there is a waitlist for the course, we must wait for the waitlist to run at the end of the first week of classes. After that Saturday, students may process an
+eAdd/Drop
+to add the course. We only approve eAdd requests through the second week of class; it is the student's responsibility to make arrangements for completing work right away.
+Joining the course late
+If you add the course late, checkout the
+course schedule
+right away and
+follow up with your Lab Instructor
+if you have any questions. It is
+your
+responsibility to do this! If an assignment is not past due at the time you enroll you will not receive an extension.

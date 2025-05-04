@@ -1,0 +1,128 @@
+[Source URL]: https://datascience.indiana.edu/programs/bs-data-science/index.html
+
+Home
+Programs
+Bachelor of Science
+Bachelor of Science
+Bachelor's Degree in Data Science
+Talk to a recruiter
+Estimate tuition
+Apply now
+Contact us
+To learn more about the program.
+dsugs@iu.edu
+Our Bachelor of Science (B.S.) in Data Science degree gives students the skills, tools, and experiences to make intelligent, data-driven decisions and draw conveyable meaning from data sets, positioning them for data science careers in nearly every industry imaginable.
+Our daily lives generate more data than ever before. Earning a bachelor’s degree in data science provides the mathematical, programming, and analytical skills needed to create and improve the data systems of many types of organizations.
+Data scientists change the world. Whether it’s developing policies in response to climate change, helping local governments prepare for natural disasters, transforming businesses through improved logistics, feeding the hungry, preventing car accidents or crime, or changing the way sports teams scout players, majoring in data science qualifies students for a multitude of interesting career paths.
+Let's stay in touch
+Complete this form to learn more about data science at IU.
+Luddy Undergraduate Marketing Campaign
+Name
+*
+First
+Last
+Email
+*
+Expected High School Graduation Year
+*
+2025
+2026
+2027
+2028
+2029
+Interested Major
+Any
+Cybersecurity and Global Policy
+Computer Science
+Data Science
+Informatics
+Intelligent Systems Engineering
+UTM Campaign
+UTM Source
+UTM Medium
+UTM Content
+UTM Term
+Stream
+B.S. in Data Science career outcomes
+Companies in every industry, such as tech, finance, healthcare, the service industry, and more, seek to create, use, or design data systems while making the most of their collected data to improve and grow. The skills you learn in the B.S. in Data Science program can be applied in many fields to roles such as data scientist, data manager, researcher, or developer.
+Luddy students in 2019-20 were hired by more than 400 companies and organizations in sectors such as privacy and security, machine learning, statistical analysis, consulting, and more.
+Explore the
+career prep services at the Luddy School of Informatics, Computing, and Engineering
+.
+From big data to cloud computing, from astronomy to sports, data science is the foundation of our data-driven future, and the demand for trained data scientists has never been higher.
+Data Science major specializations
+The broad, blended bachelor of data science curriculum offers
+degree specializations
+that help you build a skillset that matches your interests and is attractive to employers in this rapidly growing field. Our five degree tracks each open a range of in-demand career opportunities, refining your talents in an area of your interest and giving you an advantage in your future career path.
+Along with choosing a data science specialization, adding a
+Luddy minor
+, such as a minor in statistics, IT, virtual reality, or computer science, can add value to your bachelor’s degree.
+Foundational Data Science
+Choose to specialize in foundational data science to thoroughly understand the fundamental concepts of data science, from data analysis to the principles of machine learning, database concepts, algorithm design, statistical theory, and more.
+Data Systems
+If you’re interested in the design, implementation, and study of data systems, you might be interested in the data systems specialization. Embedded systems, cloud computing, distributed systems, and big data applications are just some of the areas of focus for data science majors specializing in data systems.
+Network and Applied Data Science
+If you specialize your data science major in network and applied data science, you’ll learn the fundamentals of network science and data visualization, and apply your knowledge to a variety of areas such as big data, data mining, analytics, biology, and more.
+Data Science Design
+Data science requires a bridge between people and technology. This specialization gives you the tools to explore the human-technology interface including design, visualization, collaborative technologies.
+Biological and Health Science
+A new data-centric perspective of health has arisen: (1) people should own their health data (2) all data, from bio-molecular to electronic health records should be integrated to produce better outcomes, drive down cost, and make healthcare equitable. Students in the biological and health science track learn how to combine data with the natural sciences to improve healthcare outcomes and our understanding of the world.
+Data Science research opportunities
+Opportunities to join faculty and other students on real research projects add experience to your resume, opening career opportunities before you graduate. Luddy’s
+data science research programs
+conduct boundary-pushing work at more than five research centers, including the Center for Bioinformatics Research and the Cyberinfrastructure for Network Science Center.
+Explore the Luddy Living Learning Center
+The
+Luddy Living Learning Center
+(LLC) is a living space designed to connect first-year, tech-loving Luddy students of different disciplines and various interests.
+Explore the LLC’s high-tech makerspaces
+and opportunities for trips and guest speakers.
+Luddy student organizations
+Several student organizations enrich the IU Bloomington campus, from clubs for future entrepreneurs to clubs discussing ethics in tech.
+Explore Luddy’s student organizations
+for one that interests you, like the
+Data Science Club
+.
+Data Science degree requirements
+Luddy’s B.S. in Data Science curriculum takes an interdisciplinary approach to data science, ensuring students have essential programming knowledge, can conduct both quantitative and qualitative analysis, and can successfully communicate complex ideas in classroom and professional environments.
+Full degree requirements, including specialization courses and honors options, can be found in the IU Academic bulletin representing the year you entered IU.
+View example degree map
+Requirement in earlier academic bulletins
+2024-25 bulletin
+2023–24 bulletin
+2022-23 bulletin
+Related programs
+Luddy’s data science program is a collaborative effort with the College of Arts and Science and the O’Neill School of Public and Environmental Affairs. Along with the B.S. in Data Science, Luddy offers minors, certificates, and graduate data science degrees.
+Data Science Minor
+Available for any Luddy major, expanding your skills to include the ability to interpret and analyze data can give you a marketable advantage over others in the job market.
+On-Campus M.S. in Data Science
+Future and current data science professionals can refine their skills and gain hands-on project experience by earning a Master of Science in Data Science.
+Online M.S. in Data Science
+Designed for today’s world and the lives of busy professionals.
+Data Science Graduate Certificate
+Learn the essentials of data science, data analytics, cloud computing, and more in only two semesters with the flexible graduate certificate program.
+Advising and student resources
+Whether you’re already a data science undergraduate student or you are an undeclared major at IU, Luddy advisors are here to help you chart your path to tomorrow. Our advisors will help you understand data science degree requirements, learn about unique academic opportunities, and meet your personal goals.
+Talk to your advisor
+Undergraduate scholarships and aid
+Whether you’re directly admitted to the Luddy School of Informatics, Computing, and Engineering or you’re applying as an exploratory IU undergraduate student, you can manage the cost of tuition and fees through federal financial aid or scholarships. Review information about
+tuition cost and financial aid, and explore scholarships for new Luddy students
+.
+Estimate tuition
+Take the next step to earning a B.S. in Data Science
+With our Bachelor of Science in Data Science degree, graduates are equipped with the creative and technical skills they need to succeed in all domains of data science, not only their specialization. If you’re interested in starting your data science career,
+request information about the B.S. in Data Science
+and
+learn how to apply to IU Bloomington
+.
+Begin your application to the data science program
+Bachelor of Science
+Master of Science — Residential
+Master of Science 4+1 — Residential
+Master of Science 4+1 — Online
+Master of Science — Online
+Graduate Certificate — Online
+Dual M.S. in Data Science and Applied Statistics
+Dual M.S. in Data Science and Statistical Science
+Minor in Data Science
+Doctoral Minor

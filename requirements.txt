@@ -1,0 +1,10 @@
+langchain
+faiss-cpu
+sentence-transformers
+groq
+langchain-community
+cohere
+scikit-learn
+
+fastapi
+uvicorn

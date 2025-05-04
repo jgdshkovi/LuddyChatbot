@@ -1,0 +1,47 @@
+[Source URL]: https://informatics.indiana.edu/apply/portfolio-guidelines.html
+
+Home
+How to Apply
+Portfolio Guidelines
+Portfolio Guidelines
+MS and Ph.D. Human Computer Interaction Design programs
+Applying to the Human Computer Interaction MS and the Informatics Ph.D. Human Computer Interaction Design programs requires the submission of a portfolio. Your portfolio should show your best work. You do not need to show design work, if that is not your best work. An applicant with a software engineering background might submit a system; one with a literature background might submit a critical essay; one with a business background might submit a business plan. Focus on quality, rather than quantity.
+Have questions?
+If you have questions about preparing or submitting your portfolio, email us at
+GoLuddy@iu.edu
+.
+General Portfolio Guidelines
+You will upload your portfolio in Liaison WebAdmit's Quadrant 4 in the "Other" Document Type Upload area. Your portfolio must be on 8.5 inches by 11.0 inches and can be in portrait or landscape mode. Accepted file types are .doc, .docx, .pdf, .rtf, .txt, .jpg, .jpeg, .png. The file cannot exceed 15MB.
+On the first page of your portfolio or document with a link to your portfolio, you must include your last name and first name along with the following statement:
+"I certify that the work included in this portfolio is my own original work. Work included which was conducted as a part of a team or other group is indicated and attributed as such - the other team members are named and a true description of my role in the project is included."
+You must sign this statement to certify the originality and proper attribution. In the event that any work you provided in your portfolio is improperly represented in terms of authorship, your application will be dismissed without review.
+If your portfolio is longer than 10 pages, you must include a table of contents as the second page, and you may do so even if your portfolio is shorter.
+Optionally, if you prefer to submit your portfolio as a Web site, you must still submit an 8.5x11 PDF file with the signed certification of originality statement (#2 above) and then also include the URL to your online portfolio. Please be advised that the online portfolio must be live and working when the admissions committee reviews it, and dead links or non-working sites will result in immediate disqualification.
+Do not password protect your portfolio. Protected documents will not be sent with your application.
+Review uploaded documents. The uploading process may have altered your formatting. Please review your portfolio before submitting your application.
+The admissions committee will NOT download any software in order to view or access your portfolio. The admissions committee will not enter a username, password, and/or email address to view or access your portfolio.
+Once you have submitted your application, you will not be able to add more documents and you will NOT be able to replace existing document uploads with new versions or delete uploaded documents. Therefore, before submitting your application, be sure your entire application including your portfolio is in final form.
+Portfolio ideas
+Below are a few ideas that illustrate the kinds of things you may wish to include in your portfolio. This list is not exhaustive or limited to the following:
+Capstone and/or thesis work
+Design components, including personas, wireframes, UX reports, journey maps, etc.
+Design competition entries
+Ethnographic work and/or contextual inquiry
+Interaction designs
+Photography
+Professional work of any sort
+Published papers, articles, or essays from any field in any form (academic, newspaper, technical writing, etc.)
+Unpublished writing samples (creative writing, school papers, etc.)
+Prototypes, sketches, and models
+Lab reports
+Study designs
+Samples of program code
+Samples of engineering experience
+Strategic design plans
+Evidence of entrepreneurial experience
+Undergraduate course work
+Web site designs
+Ready to apply?
+Learn more about the application process
+Graduate Application
+Funding Opportunities

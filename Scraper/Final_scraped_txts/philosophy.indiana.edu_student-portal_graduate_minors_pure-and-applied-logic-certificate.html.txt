@@ -1,0 +1,39 @@
+[Source URL]: https://philosophy.indiana.edu/student-portal/graduate/minors/pure-and-applied-logic-certificate.html
+
+Undergraduate
+Graduate
+Philosophy Ph.D.
+Philosophy Ph.D. Minors
+Philosophy M.A.
+Funding
+Forms
+Courses
+Home
+Student Portal
+Graduate
+Philosophy Ph.D. Minors
+Ph.D. Minor and Certificate in Pure and Applied Logic
+Ph.D. Minor and Certificate in Pure and Applied Logic
+Ph.D. Minor and Graduate Area Certificate in Pure and Applied Logic
+Logic minor
+Students interested in either the Logic minor or the Logic certificate programs should contact the Philosophy department’s Director of Graduate Studies.
+Philosophy Ph.D. students may minor in Logic, provided that (1) no courses are double-counted for major and minor; (2) at least three of the minor courses are taken outside the Department of Philosophy; and (3) the courses constituting the minor are approved by the Philosophy logic area committee.
+Students are required to pass, with a grade of B or better, four logic courses from those classified below as basic, core or specialized. Unless a student can demonstrate adequate knowledge of logic at the level of P505 (Logical Theory I) or B510 (Introduction to Applied Logic), at least one of the four courses must be a basic course. In addition, at least one of the courses must be a core course. A minimum of two of the four courses must be taken outside the student’s major department. For the Logic minor, it is not necessary to complete a specialized course.
+Logic certificate
+Students are required to pass six logic courses from those classified below as basic, core or specialized. At least one should be a basic course (unless equivalent competence is demonstrated), two should be core Courses, and one a specialized course.
+A minimum of three of the six qualifying courses must be taken outside the student’s major department. In addition, active participation for at least one semester in the weekly logic seminar is required.
+Basic, core, and specialized courses
+Basic courses
+Basic courses introduce students to the fundamentals of modern logic: syntax and semantics of first-order languages, proof systems, completeness and undecidability for first-order logic, and the incompleteness phenomena. P505, P506, and B510 are basic courses.
+Core courses
+Core courses provide in-depth treatment of the main subfields of logic, including computation theory, model theory, set theory and undecidability. These generally presuppose a basic course. B501, M583, M584, and M682 are core courses.
+Specialized courses
+Specialized courses are offered on either a regular or an occasional basis. These have included L542 (Semantics), P550 (Modal Logic), P551 (Philosophy and Foundations of Mathematics), P552 (Philosophy of Logic), B502 (Complexity Theory), B522 (Programming Language Foundations).
+In addition, graduate seminars in logic can, with the approval of the program director, count as specialized courses. These have included P750 (Seminar in Logical Theory), P751 (Seminar in Logic) and X755 (Special Topics in the Philosophy of Science), when taught with appropriate content.
+Related program
+Logic, Language, and Computation in Cognitive Science
+The Cognitive Science Program offers a special certificate program in applied logic. Students successfully completing the program obtain a certification indicating mastery of this area of study.
+Use your Graduate Academic Bulletin
+Students pursuing a graduate degree in Philosophy should use the University Graduate School Academic Bulletin.
+Official requirements for our degrees can be found by clicking on the Bulletin below:
+2024-25: Philosophy University Graduate School Academic Bulletin

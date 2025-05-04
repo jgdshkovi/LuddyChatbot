@@ -1,0 +1,179 @@
+[Source URL]: https://research.iu.edu/funding-proposals/proposals/index.html
+
+Home
+Funding & Proposal Support
+Proposal Preparation Tools
+Proposal Preparation Tools
+Aids for preparing proposals
+Writing a grant proposal can be complicated, but there are many useful online tools and resources, at IU and elsewhere, available to offer you grant-writing support.
+Explore the
+Proposal Development Services Resource Portal
+for an extensive, curated collection of guiding documents, links, and templates designed to provide researchers with the tools and resources they need to plan, write and develop strong, competitive grant proposals.
+Proposal writing guides and evaluation resources
+Online guides and articles
+Indiana University's PDS Narrative newsletter archives—Brief articles about proposal development, with links to more information and resources.
+On the Art of Writing Proposals
+—A free, downloadable booklet with suggestions for Liberal Arts and Humanities proposals, published by the Social Science Research Council.
+Grants basics
+and
+Grant Writing Tips Sheets
+by the National Institutes of Health.
+A Guide for Proposal Writing
+—A resource for beginners by the National Science Foundation.
+Proposal Writing Short Course
+—A self-paced online class by the Foundation Center that introduces key components of a proposal to a foundation.
+Quick guide: Submitting an applicable NIH grant requiring sIRB
+Visit the
+Proposal Development Services Resource Portal
+hosted on Confluence to access more resources on writing & rhetoric curated by the Proposal Development Services (PDS) team at IU-Bloomington.
+Evaluation resources
+Evaluation Consulting for Proposals (ECP) pilot program
+– The IU Center for Evaluation, Policy, and Research ECP program supports IU faculty submitting proposals for external funding. CEPR's team of evaluation experts can provide you with a thorough and thoughtful evaluation plan and/or research services—tailored to your project and the funder’s requirements. They have extensive experience partnering on successful applications to federal agencies such as the NSF, NIH, DoD, Department of Education, and private funders such as the Robert Wood Johnson Foundation and Arnold Ventures. ECP is available to IU researchers at no cost as part of this pilot program.
+Center for Evaluation, Policy, and Research
+—CEPR provides rigorous, high-quality evaluation expertise and services within and across multiple sectors to diverse agencies, organizations, businesses, and individuals for both internal (Indiana University) and external clients at the local, state, regional, national and international levels. CEPR can provide services ranging from consultation, training, technical assistance, capacity-building, benchmarking and progress-monitoring to conducting comprehensive large-scale evaluation to determine impact and effectiveness of a grant or program using diverse methodologies, including quantitative (with expertise in conducting randomized controlled trials in real-world settings), qualitative, and mixed-methods.
+Online Evaluation Resource Library
+—Developed for professionals seeking to design, conduct, document, or review project evaluations. Created by the National Science Foundation’s Division of Research, Evaluation and Communication, Directorate for Education and Human Resources.
+Survey research resources
+Survey Research Design Consultant Core (SRDCC) pilot program
+– The IU Center for Survey Research SRDCC program provides faculty with assistance in developing research designs and pilot data collection for surveys, focus groups, interviews, medical specimen and environmental sample collection, and other approaches in support of external funding applications. CSR's expert methodologists, technologists, and study directors can provide consultation in areas including questionnaire review and pilot testing, sampling/recruitment methods, programming/IT development, data collection, and post-survey data processing. They have extensive experience partnering on successful applications to NIH, NSF, DoD, USDA and private foundations. Support is provided at no cost to IU faculty as part of this pilot program.
+Center for Survey Research
+– CSR is a research center of IU Research, a service core of the Indiana CTSI, and a founding member of the Association of Academic Survey Research Organizations (AASRO). Since 1982, CSR has partnered with world-class researchers to conduct thousands of research projects that advance knowledge and humankind. CSR's expert services include research design, sampling, data collection instrument design, database and data collection instrument programming (using REDCap, Qualtrics, HTML, Javascript, and SQL), data collection (using web, mail, telephone, and in-person methods with biological specimen/environmental sample collection capabilities as well as interview and focus group capacities), forms scanning, coding, and weighting.
+Data management services and tools
+Indiana University Libraries Data Services and Resources
+The
+IU Libraries
+provide assistance to researchers working with data in all stages of the research life cycle, including support for data management and preservation. Available services include GIS (Geographical Information Systems) Services, Science Data Management, and Statistical Data Services.
+Indiana University Guidance on National Science Foundation (NSF) Data Management Plans
+A
+guide to writing the data management plan
+required for NSF proposals.
+IU cyberinfrastructure facilities and information for proposals and data management plans
+The Research Technologies division
+of UITS and the Pervasive Technology Institute provide templates, guides, and other information to use when preparing elements of grant proposals in which the value of IU's advanced cyberinfrastructure facilities is particularly helpful:
+Project description body text
+Data management plans (NSF)
+NIH Public Access Policy
+Facilities statements
+NIH Data Sharing Management Plan Guidance
+NIH's Policy for Data Management and Sharing, released in October 2020, becomes effective January 25, 2023. It requires submission of a Data Management and Sharing Plan at the time of proposal. It also requires release of the data and is applicable whether access is open or controlled, and is to be made "no later than the time of an associated publication, or the end of the award/support period, whichever comes first." After its effective date, awards will include the approved DMS Plan in the Terms and Conditions as part of IU's compliance obligations.
+Learn more about the NIH Data Management and Sharing Policy
+.
+Online tools, software, and campus workspaces for collaborative research
+Tools/software available through Indiana University
+IU Video Bridge—No-cost virtual rooms (also known as bridges) for faculty, staff, and guests to meet online.
+Zoom
+—A web collaboration tool that supports high-quality audio and videoconferencing for up to 100 participants as well as other features, including mobile screen-sharing, polling, co-annotation, breakout rooms, recordings, and more.
+Microsoft Project
+—Available through IUWare, this project management software is designed to assist with plan development, assigning resources to tasks, tracking progress, managing the budget, and analyzing workloads.
+Technology Tool Finder: Collaboration
+—View IU-supported technologies for communication, collaboration, storage, and more.
+Third-party tools and software for collaborative research
+Basecamp
+—File sharing, sequential and simultaneous editing, and task management.
+Dropbox
+—File sharing, sequential editing, and syncing files.
+Evernote
+—Sequential and simultaneous editing, file editing on web platform, task management.
+Microsoft Teams
+—Live videoconferencing, collaboration, one-on-one chat, and file sharing.
+Google Drive
+—File sharing, sequential and simultaneous editing on web platform, file syncing, virtual meetings via Hangout.
+Collaborative workspaces
+The Indiana University Bloomington campus has many spaces available for collaborative groups. Learn more about
+rooms with videoconferencing capabilities
+, technology-enabled learning spaces, and
+collaboration rooms at IU Bloomington's Wells Library
+. Remember to ask your school or department about available rooms as well.
+Explore the Research Facilities Database
+At IU Bloomington, you can find the tools you need to accomplish your work through a
+searchable campus database
+intended to leverage and share the strengths of campus research facilities and equipment with the research community.
+Organizational data about Indiana University and the IU Foundation
+Some sponsor guidelines may ask you to provide financial and other organizational data about Indiana University or the IU Foundation
+Institutional Information commonly requested for federal proposals
+University Information Technology Services facilities
+Indiana University
+Accreditation Statement
+Budget Report
+Campus Leadership
+Financial Report
+Institutional Research (IR)
+, demographics for specific IU campuses
+IU Fact Book
+Non-Discrimination/Equal Opportunity/Affirmative Action (University Policy UA-01)
+Tax Status Documentation
+(Accessible 04/20/21)
+Trustees List
+Indiana University Foundation
+Board of Directors List
+Financial Information
+IUF IRS 501(c) 3 Documentation
+IUF Articles of Incorporation
+(Accessible 02/18/19)
+W-9 Form - Request for Taxpayer Identification Number and Certification
+Sample letters, budget templates, and forms
+Project proposal cover page
+All Campuses
+(Accessible 01/10/24)
+SF424
+This is a standard form required for use as a cover sheet for submission of pre-applications and applications and related information
+SF424—General
+(Accessible 01/16/24)
+SF424—NIH (All Campuses Except IUI)
+SF424—NIH (IUI Only)
+Read more about the SF424 at
+Grants.gov
+Subcontractor letters of support
+From IU to the Prime Contractor or Recipient - All Campuses
+(Accessible 01/22/24)
+Subrecipient Commitment Form
+(Revised 10/24)
+Sample budgets
+Below are several different budget templates to assist with a variety of submission types. These templates help provide a standard format and assist with calculations.
+Please note: the NIH template is required for all direct and pass-through National Institute of Health (NIH) proposals requiring an R&R budget and the NSF template is required for all direct and pass-through National Science Foundation (NSF) proposals.
+Internal Budget: Monthly Non-Federal
+Internal Budget: Two Year Non-Federal
+Internal Budget: Three Year with CS Non-Federal
+Internal Budget: Five Year Federal (NSF)
+Internal Budget: Five Year NIH Multi-Project
+Internal Budget: Five Year USDA
+Internal Budget: Five Year Federal On and Off Campus Split
+Internal Budget: Seven Year NIH R&R
+Internal Budget: Seven Year Other Federal
+U.S. Department of Veterans Affairs
+Veterans Affairs Intergovernmental Personnel Agreements
+Veterans Affairs Joint Appointment Memorandum of Understanding (MOU)
+Frequently used application guides and forms
+DOE: Department of Energy
+Grants Policy and Guidance
+Grants & Contracts Support
+EPA: Environmental Protection Agency
+Key Grant Resources
+NEH: National Endowment for the Humanities
+Grant Opportunities, Application Guidelines and Resources for Managing Your Grant
+NIH: National Institutes of Health
+How to Apply - Application Guide
+Writing Your Application
+NSF: National Science Foundation
+Proposal and Award Policies and Procedures Guide (PAPPG)
+Preparing Proposals
+Federal agency forms
+DOE: Department of Education Grant Application and Other Forms
+NIH: National Institutes of Health Forms Library
+Sample documents for NIH proposals from IU:
+NIH Human Subjects Education Documentation Form
+(Accessible 02/18/19)
+NIH Policy on Model Organisms: IU Template Statement
+(Accessible 02/18/19)
+RDS Request Form
+Funding Search Tools
+Proposal Preparation Tools
+Institutional Information
+Budgets
+Subawards
+Other Support
+Primary Proposal Assignment Groups
+Workshops & Events
+Proposal Routing & Submission
+About RDS Teams
+Indiana Clinical and Translational Sciences Institute (CTSI)

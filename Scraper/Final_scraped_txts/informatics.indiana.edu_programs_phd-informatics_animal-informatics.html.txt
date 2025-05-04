@@ -1,0 +1,164 @@
+[Source URL]: https://informatics.indiana.edu/programs/phd-informatics/animal-informatics.html
+
+Home
+Programs
+Ph.D. in Informatics
+Animal Informatics
+Animal Informatics
+Animal informatics is about using technology
+to improve our understanding of how nonhuman animals think and live, to promote their health and well-being, and to advance the mutually beneficial ways in which we interact with them. The animal informatics track in the informatics Ph.D. will prepare graduates for a career in academia; local, state, federal, and global wildlife conservation and management; research laboratories; animal-centered nonprofits such as shelters and sanctuaries; assistive and therapeutic programs; zoos and aquariums; livestock care and management; and the commercial pet industry.
+We focus on five main areas of interest:
+Maker applications for animals
+Automated quality of life data capture and analysis
+Wildlife (and poacher) tracking and monitoring
+Animal cognition
+Interspecies relationships and education
+Interested in a Ph.D. minor in ACI?
+Learn about our options
+Animal Informatics at Luddy
+Animal informatics is improving the lives and our understanding of animals every day.
+
+Find out more about Animal Informatics at the Luddy School.
+Track guide
+Summary
+The animal informatics track, which includes the growing field of animal-computer interaction, will allow students or professionals working in the commercial pet industries, captive animal management (e.g., zoos, aquariums, livestock), animal welfare organizations, assistive and therapeutic support animal programs, veterinary medicine, wildlife conservation, and the cognitive, biological, and evolutionary sciences to break new ground in this pioneering area.
+A total of 90 credit hours are needed to earn a Ph.D. in informatics. Students in the animal informatics track must complete all of the required credits and coursework for the Informatics Ph.D., including the I501 and I502 seminars, the Animal Informatics seminars, I609 and I709, two research rotations (I790) and their chosen PhD minor. The following is sample mapping of how all requirements might be met.
+Primary track faculty
+Christena Nippert-Eng
+- Track Director
+Christena Nippert-Eng is a sociologist and Professor of Informatics at IUB. Her scholarly interests include cognition, culture, gender, privacy, time, space, everyday life, ethnography, user-centered design and, most recently, the social behavior of nonhuman animals, especially the rest of the great apes.
+Patrick Shih
+- Track Director
+Patrick Shih's research focuses on the study of sociotechnical systems and mechanisms to support health and wellbeing and reduce health disparity of marginalized and underserved populations in rural areas. Specifically, his lab designs, prototypes, and deploys novel personal health informatics devices, interfaces, and platforms to support people with physical, developmental, and mental conditions. He also designs technologies to amplify human and animal capabilities in animal-assisted interventions and to improve animal welfare.
+Justin Wood
+Justin Wood’s research aims to link psychology to artificial intelligence with the goal of reverse-engineering the origins of intelligence to build machines that learn like newborn animals. His ultimate goal is to build end-to-end (pixels-to-actions) artificial agents that mimic cognitive development in newborn animals.
+Christopher Martin
+Christopher Flynn Martin is a research scientist at Indianapolis Zoo and affiliate faculty in the Department of Informatics. He conducts studies on animal cognition at the zoo, and runs a consulting business that builds custom electronics and software to enhance animal enrichment, research, and husbandry practices at zoos around the world.
+Faculty research in ACI
+Professor of Informatics, Christina Nipper-Eng talks about her research in Animal Computer Informatics at the Luddy School.
+Description of the video:
+Professor of Informatics, Christina Nipper-Eng talks about research in Animal Computer Informatics at the Luddy School.
+Assistant Professor of Informatics, Patrick Shih talks about his research in Animal Computer Informatics at the Luddy School.
+Description of the video:
+Assistant Professor of Informatics, Patrick Shih talks about his research in Animal Computer Informatics at the Luddy School.
+Professor of Informatics, Justin Woood talks about his research in Animal Computer Informatics at the Luddy School.
+Description of the video:
+Professor of Informatics, Justin Woood talks about his research in Animal Computer Informatics at the Luddy School.
+First year
+Fall
+*
+I511 ACI Methods
+(3 cr)
+*
+I514 Seminar in ACI
+(3 cr)
+I501 Introduction to Informatics (3 cr)
+*For Fall 2020, you can register for this course under I400/I590.
+Spring
+I590 Prototyping with Arduino Tools (3 cr)
+I699 Independent Study (3 cr)
+I502 Human-Centered Research Methods (3 cr)
+Second year
+Fall
+I609/709 Seminar in Animals and/as Technology (3 cr)
+Minor 1 (3 cr)
+I790 Research Rotation 1 (3 cr)
+Spring
+I512 Direct Observation and Design
+(3 cr)
+I513 Usable Artificial Intelligence (3 cr)
+I790 Research Rotation 2 (3 cr)
+Third year
+Fall
+Minor 2 (3 cr)
+Elective (3 cr)
+Elective (3 cr)
+Spring
+Minor 3 (3 cr)
+Elective (3 cr)
+Elective (3 cr)
+Possible electives
+Qualitative Methods and Design
+INFO I527 Mobile and Pervasive Design OR CSCI P535 Pervasive Computing
+INFO I530 Field Deployments
+INFO I440/I540: Human-Robot Interaction
+INFO I543 Interaction Design Methods
+INFO I544 Experience Design
+INFO I590 Environmental Policy and Health Design
+INFO I590 Technology Entrepreneurship
+INFO I604 Human-Computer Interaction Design Theory
+INFO I709 Animal and/as Technology
+IoT Systems and Physical Fabrication
+INFO I400/I590 Makerspace: Design and Fabrication
+INFO I440/I540 Human-Robot Interaction
+INFO I527 Mobile and Pervasive Design OR CSCI P535 Pervasive Computing
+INFO I549 Advanced Prototyping
+CSCI P442 Digital Systems OR ENGR E314/E514 Embedded Systems
+ENGR E537 Rapid Prototyping for Engineers
+Mobile App Development
+INFO I400 Cross-platform Mobile Programming
+INFO I527 Mobile and Pervasive Design OR CSCI P535 Pervasive Computing
+Virtual Reality Platform
+INFO I304/I590 Intro to Virtual Reality
+INFO I442/I590 Creating Virtual Assets
+INFO I443/I590 Building Virtual Worlds
+INFO I444/I590 Artificial Life in VR
+CSCI B453 Game Development
+Data Analytics
+INFO I422/I590 Data Visualization
+INFO I526/CSCI P556 Applied Machine Learning
+INFO I601 Introduction to Complex Systems
+INFO I606 Network Science
+CSCI B555 Machine Learning
+CSCI B565 Data Mining
+ENGR E434/E534 Big Data Applications
+ENGR E484/E584 Scientific Visualization
+ENGR E511 Machine Learning for Signal Processing
+ENGR E533 Deep Learning Systems
+GEOG G588 Applied Spatial Statistics
+Artificial Intelligence and Cognition
+INFO I440/I540 Human-Robot Interaction
+CSCI B551 Elements of AI
+CSCI B657 Computer Vision
+BIOL L453 Sensory Ecology
+BIOL Z460 Animal Behavior
+Geospatial Information System
+GEOG G336/G535 Environmental Remote Sensing
+GEOG G436/G536 Advanced Remote Sensing
+GEOG G438/G538 Geographic Information Systems
+GEOG G439/G539 Advanced Geographic Information Systems
+GEOG G478/G578 Global Change, Food and Farming Systems
+GEOG G439/G639 GIS ∓ Environmental Analysis
+Website and Database Design
+INFO I435/I535 Management, Access, and Use of Big and Complex Data
+ILS Z511 Database Design
+ILS Z515 Information Architecture
+ILS Z517 Web Programming
+ILS Z532 Information Architecture for the Web
+ILS Z556 Systems Analysis & Design
+Technology Entrepreneurship
+INFO I436/I566 Technology Innovation
+INFO I438/I568 Technology Entrepreneurship
+Likely minors for Animal Informatics PhD students
+Animal Informatics Ph.D. students are encouraged to complete a Ph.D. minor that complements their major studies and fills in any gaps in their animal-, technology-, methods-, or field site-related training, such as (but not limited to):
+Animal Behavior, Anthropology, Cognitive Science, Computer Science, Human Dimensions of Global Environmental Change, Environmental Science, Geography, Human Evolutionary Studies, Bioinformatics, Complex Networks and Systems, Human-Computer Interaction, Information Science, Intelligent Systems Engineering, Bioengineering, Computer Engineering, Cyber- Physical Systems, Security Informatics, Global Studies, Human Rights, Computational Linguistics, Inquiry Methodology, Neural Science, Pure and Applied Logic, Psychological and Brain Sciences, Nonprofit Management, Public Management, Regional Economic Development, Urban Affairs, Scientific Computing, Social Science Research Methods, Statistical Science, Sustainable Energy Science, Vision Science, Environmental Health Science, Life Sciences, and, especially for those planning to work in the conservation sphere, minors in various languages and area studies. The Individualized Minor is also an option but note that it must be proposed and approved prior to beginning coursework.
+Animal Informatics as a dual major
+This track may be a good choice for Ph.D. students considering dual majors in programs such as anthropology, cognitive science, environmental science, and evolution, ecology and behavior. Dual majors require intensive planning and advising. Students should work closely with advisors in any majors under consideration to be sure this option will work within a given timeframe.
+B.S. in Informatics
+Undergraduate Minors
+Undergraduate Certificates
+4+1 Program
+M.S. Informatics
+M.S. in Human-Computer Interaction
+Accelerated M.S.I.S.
+Ph.D. in Informatics
+Animal Informatics
+Bioinformatics
+Complex Networks and Systems
+Computing, Culture, and Society
+Human-Computer Interaction/Design
+Health Informatics
+Intelligent and Interactive Systems
+Security Informatics
+Virtual Heritage
+Ph.D. Minors

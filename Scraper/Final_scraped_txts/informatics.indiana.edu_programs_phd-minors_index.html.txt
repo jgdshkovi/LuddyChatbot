@@ -1,0 +1,136 @@
+[Source URL]: https://informatics.indiana.edu/programs/phd-minors/index.html
+
+Home
+Academics
+Graduate Programs
+Ph.D. Minors
+Ph.D. Minors
+Explore Luddy's Ph.D. minors
+All Luddy School of Informatics, Computing, and Engineering doctoral students are required to complete either a minor within the school or an approved minor outside the school. Internal and external minors should be appropriate to the student's research as determined by the student's advisory committee.
+External minors are available to students outside of the Luddy School, while internal minors are for Luddy students.
+For more information about the bioinformatics minor, contact the Luddy Graduate Student Office at
+gradvise@iu.edu
+.
+Animal Computer Informatics (External and Internal)
+Our Ph.D. minor in Animal-Computer Interaction will supplement the training of students engaged in animal-centered work across a variety of major subject areas, providing an overview of the emerging field of animal-computer interaction as well as training in the technical and project-related skills that support an individual student’s interests.
+For more information,
+visit the ACI webpage
+.
+Bioengineering (External and Internal)
+Doctoral students in other departments may complete a minor within the Department of Intelligent Systems Engineering by satisfying the following requirements:
+A minor in bioengineering requires 9 credit hours.
+E504 is required (3 cr.)
+Choose two courses listed as a computer engineering track course at the 500 level or above to equal 6 credit hours. These can include E535, E540, E541, and E599 courses relevant to bioengineering.
+Other courses not listed may be counted toward the minor with consultation of both the department chair and advisor.
+Bioinformatics (12cr.) (External and Internal)
+The core curriculum consists of graduate-level courses in bioinformatics. Students may select electives based on personal interests from a broad list of courses in biology, chemistry, computer science, information science, statistics, and medical and molecular genetics. The graduate bioinformatics courses in the Luddy School of Informatics, Computing, and Engineering assume a minimal knowledge of molecular, structural, and genome biology. That level of understanding could be gained by the equivalent of at least six (6) undergraduate credit hours in molecular biology, genetics, biochemistry, or evolution. However, undergraduate credits do not count towards a Ph.D. degree unless specifically listed in the University Graduate Bulletin without the notation "Not for graduate credit."
+Complex Networks & Systems (9 cr.) (External and Internal)
+A minor in complex systems requires nine credit hours. Both I-609 and I-709 are required. The student may choose among the following courses to obtain the degree:
+INFO-I 609 Advanced Ph.D. Seminar in Complex Systems (3 cr.) (Required)
+INFO-I 709 Advanced Ph.D. Seminar in Complex Systems II (3 cr.) (Required)
+INFO-I 585 Biologically inspired Computing (3 cr.)
+INFO-I 601 Introduction to Complex Systems (3 cr.)
+INFO-I 606 Network Science (3 cr.)
+INFO-I 590 / COGS-Q 700 Modeling Evolutionary and Adaptive Systems (3 cr.)
+COGS-Q 580 Introduction to Dynamical Systems (3 cr.)
+In consultation with both the complex systems track director and the student's advisor, additional classes can be counted toward the degree.
+Computer Engineering (External and Internal)
+Doctoral students in other departments may complete a minor within the Department of Intelligent Systems Engineering by satisfying the following requirements:
+A minor in computer engineering requires 9 credit hours.
+E501 is required (3 cr.)
+Choose two courses listed as a computer engineering track course at the 500 level or above to equal 6 credit hours. These can include E510, E512, E513, E514, E517, E518, E621 and E599 courses relevant to computer engineering.
+Other courses not listed may be counted toward the minor with consultation of both the department chair and advisor.
+Computer Science (9 cr.) (External and Internal)
+Ph.D. Minor in Computer Science (External)
+Doctoral students in other departments may complete a minor in computer science by satisfying one of the following two options:
+Three computer science courses totaling at least 9 credit hours, selected from the following: A595, B403, P423, P436, P438, B441, P442, B443, or any course at the 500 level or above except for A5xx courses.
+A593, A594, and any two courses totaling 6 credit hours or more from the list: A595, A596, B403, P423, P436, P438, B441, P442, B443, or any course at the 500 level or above except for A5xx courses.
+Ph.D. Minor in Computer Science (Internal)
+An internal minor in computer science consists of at least 9 computer science credits at the 500 level or above, except for A5xx courses or independent studies. The courses must be in an area other than the student’s specialization. The area and the courses must be approved by the student’s advisory committee.
+Cyber-Physical Systems (External and Internal)
+Doctoral students in other departments may complete a minor within the Department of Intelligent Systems Engineering by satisfying the following requirements:
+A minor in cyber-physical systems requires 9 credit hours.
+E502 is required (3 cr.)
+Choose two courses listed as a computer engineering track course at the 500 level or above to equal 6 credit hours. These can include E512, E513, E514, E522, E523, E525, E526, E537, E622, E623 and E599 topics course relevant to cyber-physical systems.
+Other courses not listed may be counted toward the minor with consultation of both the department chair and advisor.
+Data Science (12 cr.) (External and Internal)
+The Data Science Program welcomes doctoral students from all disciplines to consider a minor in data science.
+It’s one of the fastest growing areas of research and touches an ever-expanding range of disciplines, including education, business, public health, sociology, political science, environmental science, the humanities, and many more.
+Learning to analyze, visualize, and report on large amounts of data can help shape the world, and can broaden the knowledge and experience of any doctoral candidate.
+For more information about the Data Science Ph. D. minor check out the
+Data Science website
+.
+Human-Computer Interaction (12 cr.) (External and Internal)
+The human-computer interaction (HCI) minor requires 12 credit hours. Students must take at least one 3-credit hour introductory HCI graduate course from the following list:
+INFO-I541 Introduction to HCI/D (3 cr.)
+INFO-I542 Foundations of HCI (3 cr.)
+ILS-Z515 Information Architecture (3 cr.)
+Additionally, students must take nine (9) credits from one or more departments outside of the student's home department.
+The student's HCI advisor and the Director of Graduate Studies must approve all topical seminar classes. A minimum of B (3.0) is required in each course that counts toward the minor.
+Informatics (9 cr.) (External for non-Informatics students only)
+A minor in informatics requires nine credit hours. The required nine credit hours refer to any three graduate courses suitable for the student's research, decided by the student's advisor (in the student's department) and the Informatics Director of Graduate Studies. Typically, these three graduate courses will include I-501 and two other approved Informatics courses available in the Informatics Ph.D. program.
+Information Science (12 cr.) (External)
+ILS Doctoral Minor
+The Department of Information and Library Science welcomes doctoral students from all disciplines to consider a minor in information science. Areas of concentrated study include human-computer interaction, information visualization, information retrieval, scholarly communication, computer-mediated communication, information literacy, school media management, knowledge organization, and social informatics. The ILS minor is offered in accordance with the regulations of the University Graduate School. Students take a minimum of 12 hours of graduate credit for the minor. Inquiries should be addressed to the Director of the ILS doctoral program.
+Your 12 credit hours of coursework are selected through agreement with an ILS faculty member who also becomes the minor field representative on your doctoral advisory committee.
+The Department of Information and Library Science ranks among the top graduate and professional programs in this field. The programs prepare professionals to evaluate, organize, search, and manage information effectively. ILS combines theory building with systems building, and you may explore the social, cognitive, and technical forces which shape the ways in which information is created, managed, and used in contemporary life. Research opportunities for doctoral students are varied and challenging.
+Please send inquiries to
+Pnina Fichman
+, Ph.D. Program Director for Information Science.
+Molecular and Nanoscale Engineering (External and Internal)
+Doctoral students in other departments may complete a minor within the Department of Intelligent Systems Engineering by satisfying the following requirements:
+A minor in molecular and nanoscale engineering requires 9 credit hours.
+E505 is required (3 cr.)
+Choose two courses listed as a computer engineering track course at the 500 level or above to equal 6 credit hours. These can include E537, E551, and E599 courses relevant to molecular and nanoscale engineering.
+Other courses not listed may be counted toward the minor with consultation of both the department chair and advisor.
+Neuroengineering (External and Internal)
+Doctoral students in other departments may complete a minor within the Department of Intelligent Systems Engineering by satisfying the following requirements:
+A minor in neuroengineering requires 9 credit hours.
+E506 is required (3 cr.)
+Choose two courses listed as a computer engineering track course at the 500 level or above to equal 6 credit hours. These can include E535 and E599 courses relevant to neuroengineering.
+Other courses not listed may be counted toward the minor with consultation of both the department chair and advisor.
+Security Informatics (9 cr.) (External and Internal)
+A minor in security informatics requires 9 credit hours, selected among the following courses:
+INFO-I 533 Protocol Analysis and Design (3 cr.)
+INFO-I 537 Social Information Security (3 cr.)
+INFO-I 599 Malware (3 cr.)
+INFO-I 536 Cryptography (3 cr.)
+INFO-I 525 Economics of Security (3 cr.)
+In consultation with both the security informatics track director and advisor, CS-649 (Networking Security) and CS-649 (Trusted Computing) may be substituted for any two of the courses.
+Social Informatics (12 cr.) (External and Internal)
+The Ph.D. Minor in Social Informatics (SI) at Indiana University consists of four courses (12 credits) from two or more departments, usually selected from a list of courses as described below. Please note that a student minoring in SI cannot include classes from his or her home department in the minor. Students who complete the Ph.D. minor in SI at Indiana University must demonstrate proficiency in a set of courses that examine the design, uses, consequences and/or policies of information and communications technologies (ICT) use in social, cultural, or institutional contexts. The SI Ph.D. minor emphasizes theoretical and methodological issues, as well as substantive issues.
+Social Informatics (SI) refers to the interdisciplinary study of the design, uses, and consequences of ICT that takes into account their interaction with institutional and cultural contexts. Social Informatics research examines the roles of technologies in social and organizational change, and the social shaping of ICT. SI research and SI courses are organized within diverse fields, including information systems, telecommunications, journalism, information science, and political science. One key goal of the field is to shape ICTs and policies relevant to them to enhance human communication and lead to more acceptable technological developments at organizational and social levels.
+Ph.D. Individualized Minor (12 cr. or more in two or more programs) (External and Internal Minor administered by the University Graduate School)
+In addition to the minors that the Luddy School of Informatics, Computing, and Engineering offers, the University Graduate School offers an individualized minor which requires a minimum of 12 credits. The University Graduate School must approve an individualized minor prior to enrolling in any courses that are to fulfill the individualized minor requirements.
+The student must complete the Request for Individualized Minor form at One.IU.edu prior to taking any courses. Then, the University Graduate School must approve the individualized minor, the requirements (i.e. minimum accepted grades), and the examination procedure (if any). The name of the individualized minor cannot be a name of a minor that already exists.
+NOTE: Upon approval of the Individualized Minor form, the student is eligible to take the approved courses. If a student wants to “substitute” a course with a non-approved course, the student will need to submit a substitution request prior to taking the course. Therefore, in the “Coursework used to satisfy the minor” section of the Request for Individualized Minor form, the student should include additional possible courses to fulfill the individualized minor requirement.
+The student needs to provide a rationale for taking the courses indicated. The courses should form a package leading to a goal relevant to the student’s research.
+The student must have the individualized minor approved by their advisor, the student’s track director, the Informatics Director of Graduate Studies, and the University Graduate School prior to taking these classes.
+External Minors
+Some appropriate external minors include biology, chemistry, physics, cognitive science, history and philosophy of science, information science, law, sociology, and learning sciences. In all cases, the number of hours to be included in the minor is consistent with the requirements of the unit granting the minor.
+Review your degree requirements
+If your start year isn’t listed here, you can
+find an earlier bulletin
+.
+2020-21 bulletin
+2019-20 bulletin
+2018-19 bulletin
+2017-18 bulletin
+See more Luddy School course listings
+Find courses
+Undergraduate Programs
+Graduate Programs
+Doctoral Programs
+Ph.D. Minors
+Master's Programs
+Certificates
+LIS Specialist
+Training Grants
+Graduate Handbooks
+Accelerated and 4+1 Programs
+Departments
+Courses
+Advising & Tutoring
+Academic Opportunities
+Luddy ALIGN
+International Student Support

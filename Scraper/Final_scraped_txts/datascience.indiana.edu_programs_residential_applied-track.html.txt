@@ -1,0 +1,101 @@
+[Source URL]: https://datascience.indiana.edu/programs/residential/applied-track.html
+
+Home
+Programs
+Master of Science — Residential
+Applied Data Science Track
+Applied Data Science Track
+Become the data expert employers are looking for
+Curating, cleaning, and examining data. Using data to spot knowledge gaps, predict outcomes, and identify opportunities. Working across disciplines and sharing valuable insights with project stakeholders.
+These are the hallmark skills of a today’s data professional—and you can expect to master each of them through from the residential M.S. in Data Science applied data science track.
+Data Science Essentials
+If you don’t have a STEM background, consider taking
+Data Science Essentials
+: a self-paced package of online coursework that can help you prepare for the successful completion of the M.S. in Data Science degree.
+Academic background and degree requirements
+The Applied Data Science Track focuses on foundational data science methods and is most suitable for students with computer science, statistics, or mathematics background.
+You’ll be required to take:
+12
+core credits
+6
+domain credits
+3
+credits towards a capstone project
+9
+electives
+Customize your experience based on your goals
+In addition to completing your core requirements and a capstone project, you’ll choose to focus on one of
+six different domain areas
+and complete two courses within that specific domain:
+Augmented and Virtual Reality
+Data security and privacy
+Economic Data Analytics
+Health and Biomedical
+Human robot interaction
+Social data science
+A broad range of
+elective courses
+provide further opportunity to customize your degree.
+Augmentedand Virtual Reality
+INFO-I 590 Topic in Informatics
+Topic: Artificial Life in Virtual Reality
+Topic: Building Virtual Worlds
+Topic: Creating Virtual Assets
+Topic: Introduction to Virtual Reality
+Data Security and Privacy
+INFO-I 520 Security for Networked Systems
+INFO-I 525 Organizational Informatics and Economics of Security
+INFO-I 533 Systems and Protocol Security and Information Assurance
+INFO-I 538 Introduction to Cryptography
+Economic Data Analytics
+ECON-M 504 Econometrics I
+ECON-M 511 Microeconomic Theory II
+ECON-M 514 Econometrics II
+ECON-M 518 Econometrics: Big Data
+ECON-M 524 Financial Econometrics
+Health and Biomedical Data Science
+INFO-I 507 Introduction to Health Informatics
+INFO-I 519 Introduction to Bioinformatics
+INFO-I 529 Machine Learning in Bioinformatics
+Human Robotic Interaction
+CSCI-B 657 Computer Vision
+ENGR-E 599 Topics in Intelligent Systems Engineering
+Topic: Autonomous Robotics
+INFO-I 513 Usable Artificial Intelligence
+INFO-I 527 Mobile and Pervasive Design
+INFO-I 540 Human Robot Interaction
+INFO-I 542 Foundations of HCI
+Social Data Science
+ENGR-E 583 Information Visualization (may be counted only once)
+ILS-Z 604 Topics in Library and Information Science
+Topic: Music Data Mining
+ILS-Z 639 Social Media Mining
+INFO-I 513 Usable ArtificialIntelligence
+INFO-I 590 Topics in Informatics
+Topic: Data Visualization (may be counted only once)
+INFO-I 606 Network Science (may be counted only once)
+Review the full list of your degree requirements
+All data science course requirements are listed in the Luddy academic bulletin. To review your specific requirements, choose the bulletin that represents the year you started, or plan to start, your program.
+If you wish to enroll in a course not listed in the academic bulletin, or outside of the Luddy School of Informatics, Computing, and Engineering, please
+contact us
+to request approval.
+2023–24 bulletin
+2022–23 bulletin
+2021–22 bulletin
+Your tomorrow starts now
+Learn how to apply
+Begin your online application
+Bachelor of Science
+Master of Science — Residential
+Applied Data Science Track
+Big Data Systems Track
+Computational and Analytical Track
+Managerial Data Science Track
+Master of Science 4+1 — Residential
+Master of Science 4+1 — Online
+Master of Science — Online
+Graduate Certificate — Online
+Dual M.S. in Data Science and Applied Statistics
+Dual M.S. in Data Science and Statistical Science
+Minor in Data Science
+Doctoral Minor

@@ -1,0 +1,116 @@
+[Source URL]: https://informatics.indiana.edu/programs/minors.html
+
+Home
+Programs
+Undergraduate Minors
+Undergraduate Minors
+Enhance your degree with an informatics-related minor
+No matter your major, consider developing your technology skills with a minor in the Department of Informatics. Technology affects almost every discipline, so having a good technical background will help you in whatever field you’re studying. Our minors can help you develop the tech skills you want and need.
+With the exception of the information technology minor, our minors are open to Luddy students and to students outside the school (with approval from your school’s recorder if you’re not a Luddy student).
+We offer six minors to complement your major.
+Minor in animal-computer interaction
+The ways animals use and benefit from technology are the focus of our minor in animal-computer interaction. Students can learn how technology can improve the lives and health of animals in the wild, in zoos, on farms, in shelters, or in our homes. This minor will teach you how to put cutting-edge technology to use for core areas of research on animal cognition, wildlife and poacher tracking and monitoring, maker applications for animals, and more.
+This minor requires five courses
+:
+ABEH-A 101 Introduction to Animal Behavior
+INFO-I 216 Human, Animals, and Artificial Intelligence
+INFO-I 411 Animal-Computer Interaction Methods
+INFO-I 414 Seminar in Animal-Computer Interaction
+A selective from a list in the Luddy academic bulletin
+Visit the complete degree requirements in
+Luddy's academic bulletin
+.
+If you are an informatics major, this minor fulfills the requirement for the animal-computer interaction cognate.
+Learn more about the
+animal-computer interaction minor
+.
+Minor in human-centered computing
+People develop and change technology, which in turn changes people. With this minor, you’ll have a chance to explore:
+The role of design in the creation of new technology
+Human-computer interaction
+Multimedia technology
+Legal, ethical, and organizational implications of technology
+Learn more about the classes required for this minor in
+Luddy's academic bulletin
+.
+If you’re an informatics major, this minor fulfills the requirements for the human-centered computing cognate.
+Minor in human-computer interaction/design
+With a focus on conceptual knowledge and hands-on experience in human-computer interaction/design, this minor will give students an opportunity to build a skillset that will allow them to build on majors in the social sciences, humanities, and business. Students aren’t required to know how to program before entering the minor, but they will learn how to design and develop technology with the user in mind.
+Explore this minor by taking one of the required courses:
+INFO-I 245 Interaction Design Thinking
+INFO-I 246 Use and Usability
+INFO-I 345 Interaction Design Research
+INFO-I 346 Prototyping and Evaluation
+Visit the
+Luddy academic bulletin
+for detailed requirements.
+Minor in informatics
+Having a working knowledge of the application of technology (a.k.a. informatics) will come in handy in no matter what career you pursue. You can choose from a long list of informatics courses that will let you tailor this minor to your own career goals and interests.
+Students must take a minimum of 17 credit hours, including INFO-I101 Introduction to Informatics. Learn more about the requirements in the
+Luddy academic bulletin
+.
+Looking for something more in depth than a minor? Explore our
+certificate in informatics
+.
+Minor in security informatics
+Learn the basics of programming and study the challenges of cybersecurity with this minor. You’ll get a good background in information security techniques while you learn about the effects that cybersecurity—and the tactics used to subvert it—have on humanity.
+Students must complete 16 credit hours for this minor, including:
+CSCI-C 291 System Programming with C and Unix
+INFO-I 130 Introduction to Cybersecurity
+INFO-I 230 Analytical Foundation of Security
+INFO-I 231/CSCI-C 231 Introduction to the Mathematics of Cybersecurity
+INFO-I 430/CSCI-B 430 Security for Networked Systems
+INFO-I 433/CSCI-B 433 Systems & Protocol Security & Information Assurance
+Visit the
+Luddy academic bulletin
+for more details.
+If you’re an informatics major, this minor fulfills the requirements for the security cognate.
+Minor in virtual reality
+Virtual Reality (VR) is a powerful technology for creating simulated experiences. These experiences can range from highly realistic (visiting a museum) to abstract (visualizing molecular phenomena). VR can also be used to create augmented realities in which digital objects appear to mix with the real world. VR technology is now used in a diverse array of fields, including education, research, medicine, law enforcement training, digital heritage, diversity and inclusion training, and more. VR is also widely used in the current generation of artificial intelligence research, allowing researchers to embody artificial agents in life-like physical environments.
+This 15-credit minor will teach students how to make VR applications and enter a rapidly growing marketplace focused on building immersive experiences. The minor requires five courses:
+INFO-I 304 Introduction to Virtual Reality
+INFO-I 442 Creating Virtual Assets
+INFO-I 443 Building Virtual Worlds
+INFO-I 444 Artificial Life in VR
+A selective from a list in the Luddy academic bulletin
+Visit the complete degree requirements in
+Luddy's academic bulletin
+.
+If you are an informatics major, this minor fulfills the requirement for the virtual reality cognate.
+Minor in web design and development
+Designing, building, and deploying front-end technology, such as websites, web apps, mobile apps, wearable devices, and more, are a central component of just about every field. A minor in web design and development will equip students with an intersection of skills in interface design, data, programming, web and app development, user experience design, and digital graphic design.
+Students are required to complete 16 credit hours for this minor, including:
+INFO-I360 – Web Design (required)
+One of the following courses:
+INFO-I210 – Information Infrastructure I
+CSCI-C200 or H200: Introduction to Computers and Programming
+CSCI-C211 or H211: Introduction to Computer Science
+CSCI-A201: Introduction to Programming I
+COGS-Q260: Programming for the Cognitive and Information Sciences
+Plus three elective classes.
+Visit the
+Luddy academic bulletin
+for more details.
+Review your degree requirements
+All informatics undergraduate degree requirements are listed in the Luddy academic bulletin. To review your specific requirements, choose the bulletin that represents the year you entered IU.
+If your start year isn’t listed here, you can
+find an earlier bulletin
+.
+2024-25 bulletin
+2023–24 bulletin
+2022-23 bulletin
+Find requirements in earlier bulletins
+Talk to an advisor
+Looking for more information about getting an undergraduate certificate or minoring in an area of informatics? You’ll want to talk to one of our advisors who specialize in working with pre-Luddy and non-Luddy majors.
+Find an advisor
+Luddy School majors should speak to their advisor about adding a minor or certificate to their degree.
+Find your advisor
+B.S. in Informatics
+Undergraduate Minors
+Undergraduate Certificates
+4+1 Program
+M.S. Informatics
+M.S. in Human-Computer Interaction
+Accelerated M.S.I.S.
+Ph.D. in Informatics
+Ph.D. Minors

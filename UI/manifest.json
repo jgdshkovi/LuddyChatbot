@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Luddy Chatbot",
+  "version": "1.0",
+  "description": "Chatbot visible only on https://luddy.indiana.edu/",
+  "permissions": ["storage", "scripting"],
+  "host_permissions": ["https://luddy.indiana.edu/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://luddy.indiana.edu/*"],
+      "js": ["inject.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["dist/index.js", "dist/assets/*"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

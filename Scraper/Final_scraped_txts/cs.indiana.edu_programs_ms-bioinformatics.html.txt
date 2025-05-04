@@ -1,0 +1,72 @@
+[Source URL]: https://cs.indiana.edu/programs/ms-bioinformatics.html
+
+Home
+Programs
+M.S. in Bioinformatics
+M.S. in Bioinformatics
+Apply computer science to biological data
+Let's stay in touch!
+Data is driving advances in all areas of biology, agriculture, and biotechnology, as well as applications like personalized medicine. In the two-year Master of Science in Bioinformatics, you will learn to model, analyze, and manage massive amounts of biological data.
+Also known as computational biology, bioinformatics is a fast-growing field. Our interdisciplinary program emphasizes computation and informatics but also integrates knowledge from biology, statistics, and related areas. You will be part of a tight-knit program, study in one of the nation’s top technology schools and biology departments, and have access to leading-edge resources like the
+Big Red 200 supercomputer
+.
+Start a bioinformatics career or earn a Ph.D.
+About half of our graduates are hired by companies or by research hospitals such as the Mayo Clinic and Cincinnati Children’s Hospital Medical Center. The other half enter Ph.D. programs. One program you can consider: IU’s
+Ph.D. in Informatics
+, which offers a track in bioinformatics.
+Learn about career preparation and services
+How to apply
+Cost and financial aid
+Funding opportunities
+A wide-ranging, flexible program
+First-year curriculum
+INFO-I 519 Introduction to Bioinformatics in the fall
+INFO-I 529 Machine Learning in Bioinformatics in the spring
+Electives—fill out your schedule each semester with your choice of courses in areas like biology, data mining, cancer genomics, machine learning, modeling, statistics, or data science
+Summer
+This is an ideal time for an internship.
+Second-year curriculum
+A yearlong, 6 credit hour capstone research project, giving you valuable experience in a topic such as analysis of next-generation sequencing data, epigenomics, metagenomics, glycomics, evolutionary and comparative genomics, or disease networks
+More electives
+Learn about research in the Department of Computer Science
+Prerequisites
+M.S. in Bioinformatics students are expected—but not required—to have at least introductory knowledge of both biology and informatics, including:
+Approximately 6 credit hours of undergraduate coursework in biology, covering molecular biology, genetics, and evolution
+Approximately 6 credit hours of undergraduate coursework in computer science or informatics, covering programming, discrete structures, and data structures
+If you haven’t completed these prerequisites, you will be required to take one or two appropriate 500-level background classes.
+International students
+Many of our graduate students, as well as our faculty, in computer science come to Bloomington from outside the United States. Indiana University draws students from around the globe for other programs of study. The university, our department, and the Luddy School of Informatics, Computing, and Engineering offer many types of support for you and our global community.
+Learn about international student support
+Learn about careers
+Review your degree requirements
+Degree requirements for the M.S. in Bioinformatics are listed in the Luddy academic bulletin. To review your specific requirements, choose the bulletin that represents the year you started, or plan to start, your program.
+If your start year is not listed here, you can
+find an earlier bulletin
+.
+2024–25 bulletin
+2023–24 bulletin
+2022-23 bulletin
+Current student resources
+Student portal
+Handbooks, forms, and more helpful resources.
+Courses
+See what courses we are offering and when.
+Advising
+For guidance and assistance, contact Volker Brendel, the program director, at
+vbrendel@iu.edu
+or the Luddy Graduate Studies Office at
+gradvise@iu.edu
+.
+Take the next step
+Apply now
+B.S. in Computer Science
+Minor in Computer Science
+Minor in Information Technology
+Accelerated M.S. in Computer Science
+Accelerated M.S. in Secure Computing
+Graduate Certificate in Cybersecurity
+M.S. in Computer Science
+M.S. in Bioinformatics
+Cybersecurity Master's Program (M.S. in Secure Computing)
+Dual M.S. in Secure Computing and M.A. in Russian and East European Studies
+Ph.D. in Computer Science

@@ -1,0 +1,105 @@
+[Source URL]: https://kelley.iu.edu/programs/executive-degree-programs/online-certificates/cybersecurity-management/index.html
+
+Home
+Programs
+Online Master's Degrees & Certificates
+Graduate Certificates
+Cybersecurity Management
+Business Analytics
+Business Management
+Cybersecurity Management
+Student Resources
+Gain skills in cybersecurity risk management best practices to better protect your company with the Cybersecurity Management Graduate Certificate
+The Cybersecurity Management Graduate Certificate is designed to meet the needs of early- and mid-career professionals who want to set themselves apart with a grounding in cybersecurity risk management best practices. Beyond providing an overview of concepts in a particular area of cybersecurity, the curriculum has been designed to offer in-depth coverage of the three arenas recruiters have told us they want to see in cybersecurity professionals:
+Cybersecurity literacy
+IT risk management
+Global cybersecurity law and policy
+Although cybersecurity has been a subject of interest for companies since the late 1990s, it is an increasingly important part of nearly every aspect of business decision-making from due diligence in mergers and acquisitions to supply chain security and enterprise risk management. Managers who understand the multifaceted nature of cyber threats and what they can do to mitigate the risk are at a competitive advantage.
+Apply
+Request more info
+Upcoming dates
+Fall 2025 term application deadline:
+June 15
+Program start date:
+August 18
+4
+online courses
+12
+credit hours
+$13,740
+total tuition
+Upcoming terms for academic year 2025–26
+Fall 2025
+August 18 to November 6
+Application deadline: June 15
+Winter 2025
+November 10 to February 19
+Application deadline: September 1
+Spring 2026
+February 23 to May 14
+Application deadline: December 1
+Course curriculum
+To earn the certificate, you will complete three required courses and a fourth course selected from the electives.
+Core courses
+S579: Information Systems Security
+S579: Information Systems Security (3 credit hours)
+This course is designed to give students an overview of Information systems security. We will cover 7 of the 10 domains of knowledge prescribed by (ISC)2 for Information Systems Security Professionals. The course will focus on how IT systems can be secured rather than how they can be compromised.
+S560:  IT Risk Management
+T560: IT Risk Management (3 credit hours)
+This class covers technology and how to leverage a company’s investment in its technology to achieve its business and IT strategy. We will do this by (1) analyzing the value that IT delivers, (2) the risks that IT manages, and (3) the cost of providing service to the business.
+L578: Cybersecurity Law and Policy
+L578: Cybersecurity Law and Policy (3 credit hours)
+Recent cyber-attacks have highlighted the importance of cybersecurity. Organizations need professionals at all levels—not just in the IT department—who understand the technical, legal and business aspects of cybersecurity risk management, as well as how to safeguard privacy and intellectual property. This new course takes an interdisciplinary, global approach to introduce students to cybersecurity risk management. Course content includes U.S., comparative, and international law related to managing cyber-attacks along with connected hot topics such as Internet governance, blockchain, Internet of Things, privacy, and cybersecurity codes of conduct. The primary aim of the course is to provide students with a basic working knowledge of cybersecurity law and policy, focusing on the United States but put in a global perspective.
+Electives
+C522: Information Technology (3 credit hours)
+Study of information systems management issues including skill and talent management; IT costs, budgets, value, and chargeback systems; priority setting and financial justification of IT investments; project management; runaway projects and underperforming vendors; security risks and crises; emerging technology policies; communications with other senior executives; vendor management; infrastructure standardization; support for innovation; and risk management.
+K533: Enterprise Data Management (3 credit hours)
+Understand and utilize unsupervised models including principal components analysis, cluster analysis, and market basket analysis. Understand business intelligence-related concepts:
+The notion of a corporate information factory,
+Dashboards and scorecards which support businesses,
+Different types of problems related to data quality as well as a methodology for maintaining data quality, and
+An overview of a variety of software tools which are employed in the development of a data warehouse: ETL (extraction, transformation, and loading) and analytic tools.
+Recognize some of the key issues for managerial consideration:
+Selecting the appropriate metric for the analysis at hand,
+Identifying the risks associated with implementing informational systems as well as how to mitigate them, and
+Issues related to data governance.
+L548: Managing Intellectual Property in a Global Environment (3 credit hours)
+When businesses unwisely share their core technology, they risk losing it. Despite this fact, there is currently no single regulatory scheme which provides international protection for proprietary information. Further, while most countries offer some degree of legal protection for creative products, processes, and services, the rigor of this protection varies throughout the world. This course is designed to acquaint global business managers with the legal and practical issues involved in the protection of intellectual property. It introduces students to the basic types of intellectual property (patents, copyrights, trademarks and trade secrets) and the key differences in how they are protected around the world. Ultimately, upon completion of this course, students will better understand how to protect their company’s intellectual property when doing business in the global environment.
+Admission requirements
+Part 1: Kelley School application
+Fill out the
+online application
+first.
+Part 2: Indiana University application
+After you complete the Kelley application, you’ll receive an email with instructions on how to apply through the Graduate CAS Application. During this stage, you will upload the following materials to complete your application:
+Resume
+Provide a copy of your resume, summarizing your professional experiences and accomplishments.
+Personal statement
+Tell us what you want to achieve in this program in 500 words or less.
+Letter of recommendation
+Ask someone familiar with your professional career to write a letter of recommendation for you. Provide the contact information of your recommender within the application. An email prompt will be sent to their email address, allowing them to fill out a form and upload the letter. If you need alternative arrangements, please contact
+keep@iu.edu
+.
+Undergraduate transcripts
+Provide copies of your transcripts from the undergraduate institutions you attended. Your transcripts can be uploaded into the Part 2 Application.
+Questions? Contact us.
+Our admissions team is here to help you navigate the admissions process. Contact Kelley Executive Education Programs directly to start the conversation at
+keep@iu.edu
+.
+Structure and credits
+Indiana University has been a leader in cybersecurity research and education for more than 20 years and is today a world-leading research institution in the creation and dissemination of cybersecurity best practices, which are in-demand by both the public and private sectors. With its status as a NSA/DHS certified Center of Academic Excellence (CAE) in both Information Assurance Research and Information Assurance Education, the university is home to nationally ranked, cutting-edge cybersecurity research and educational programs in fields including cryptography, systems security, enterprise risk management, and cybersecurity law and policy.
+Your Cybersecurity Management Certificate will:
+Total 12 credit hours
+Be completed over 12 months
+Be completed fully online
+Not require GMAT/GRE scores
+A bachelor's degree is required. No prior training in technology, business, or law is required.
+Transfer your certificate credits to an online degree program.
+Earning a professional certificate is a low-risk way for you to explore a field of business, and decide if you want to continue developing your expertise in that area.
+In many cases, your certificate credits can be applied directly to a relevant MS program.
+In particular, students who complete courses in the Cybersecurity Management Certificate program may be able to transfer those credits toward the
+MS in Cybersecurity Risk Management
+.
+Please contact
+cyberinq@iu.edu
+for more information on how to transfer.

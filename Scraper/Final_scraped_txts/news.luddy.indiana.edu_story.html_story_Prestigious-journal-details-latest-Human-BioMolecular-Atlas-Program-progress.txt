@@ -1,0 +1,66 @@
+[Source URL]: https://news.luddy.indiana.edu/story.html?story=Prestigious-journal-details-latest-Human-BioMolecular-Atlas-Program-progress
+
+Home
+News
+Prestigious journal details latest Human BioMolecular Atlas Program progress
+The Human BioMolecular Atlas Program, led by Luddy School Distinguished Professor Katy Börner, continues to deliver world-wide impact in research that could lead to breakthroughs in aging and disease. It was featured in a new “Resource” paper in the prestigious journal, Nature Methods.
+Intelligent Systems Engineering Information and Library Science-Bloomington
+Mar 26, 2025
+Hub icon
+Twitter
+Facebook
+Latest research on the Human Reference Atlas, a multi-scale, three-dimensional framework that describes the multi-scale structure of the human body.
+Cutting-edge research on the Human Reference Atlas within the NIH-funded
+Human BioMolecular Atlas Program
+was featured in a new “Resource” paper in the prestigious journal,
+Nature Methods.
+The paper,
+“Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas construction and usage,”
+detailed the newest version of the Human Reference Atlas and its multi-scale, three-dimensional Common Coordinate Framework, an effort led by
+Katy Börner
+, Victor H. Yngve Professor of Engineering and Information Science, and Distinguished Professor of Engineering and Information Science at the
+Luddy School of Informatics, Computing, and Engineering
+.
+Börner, principal investigator of the IU Mapping Component within HUBMAP and director of the
+Cyberinfrastructure for Network Science Center (CNS)
+, is the lead author of this multi-consortium effort. More than 270 authors contributed to the paper. Several are from the Luddy School, including
+Andreas Bueckle
+, CNS research lead and Intelligent Systems Engineering faculty, as well as
+Bruce W. Herr II
+, CNS technical director and ISE staff.
+The atlas describes the multiscale structure of the human body, from organs and tissues to cells, genes and biomarkers. It characterizes changes that occur from aging, disease and more. It covers 4,449 unique anatomical structures, 1,195 cell types and 2,089 biomarkers.
+Börner called the paper, and the new research behind it, a “major team effort.” She said it “takes a village of bold interdisciplinary innovators” to map the human body at single-cell resolution. She said it took more than 50 different algorithms, harmonized with thousands of datasets, “to arrive at a multiscale atlas that is more than the sum of parts.”
+Bueckle said building the HRA offers interdisciplinary opportunities for all career stages. He said he enjoyed “harmonizing and visualizing datasets from the whole-body to subcellular structures within a 3D common coordinate framework and virtual reality.”
+Experts from 26 consortia were recognized for contributing to the atlas construction. Support came from the
+National Institutes of Health
+, the
+Chan Zuckerberg Initiative
+, and the
+Human Cell Atlas.
+Nature Methods is a monthly, peer-reviewed scientific journal that covers new scientific techniques.
+Media relations
+Indiana University
+Pete DiPrimio
+Writer/Editor
+P:
+(812) 855-1341
+E:
+pdiprimi@iu.edu
+Explore media resources
+Filed under:
+Bloomington
+Intelligent Systems Engineering
+Information and Library Science-Bloomington
+View all tags
+Plus sign
+Previous article
+Luddy School raises the bar as iConference 2025 host
+Next article
+Luddy’s Gray co-authors book on ethical design
+More stories
+Luddy School team thrives at Defend the Republic Drone Competition
+Luddy
+December 3
+Luddy Indianapolis Sports Analytics students tackle NFL Big Data Bowl
+Luddy
+March 4

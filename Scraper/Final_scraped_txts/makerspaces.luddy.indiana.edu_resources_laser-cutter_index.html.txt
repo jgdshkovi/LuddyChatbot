@@ -1,0 +1,128 @@
+[Source URL]: https://makerspaces.luddy.indiana.edu/resources/laser-cutter/index.html
+
+Home
+About
+Luddy Hall & Facilities
+Makerspaces
+Makerspaces
+Research. Design. Innovate.
+Nicole Miller
+Director of 3D Fabrication and Design Inquiry Labs
+Contact Nicole
+The 3D Fabrication and Design Inquiry Labs at Luddy empower you to learn, collaborate, and create through hands-on fabrication.
+With options in several Luddy facilities, we give you access to many types of machines and tools. Don’t know how to use the equipment? We offer training and guides to teach you.
+Researching the future
+We provide a robust lab infrastructure that allows both traditional and digital fabrication. The 3D Fabrication and Design Inquiry Labs at Luddy provide hands-on production and learning by enabling innovation and interdisciplinary research for all students, faculty, and staff at Indiana University.
+Nicole Miller
+leads the 3D Fabrication and Design Inquiry Labs. If you have any questions, email
+makehelp@iu.edu
+.
+Explore our Makerspaces
+Protolab I: Open access lab
+This open, collaborative makerspace in Myles Brand Hall E120 can also be used by Luddy’s partners at Indiana University and in the community. It houses a medium-format laser cutter, 3D printers, a vinyl cutter, hand and power tools, a library of hardware and software platforms, equipment for building and testing electronics, and machines for integrating electronics into soft materials.
+Make a reservation
+Location
+Protolab I is located on the main floor of Myles Brand Hall in room E120. Use this interactive view to walk through a virtual tour of our Protolab facility.
+Hours
+Protolab I observes all IU holidays. Usual operation hours may be affected during IU finals week.
+Current and available hours
+Available Resources
+Machines:
+Laser Cutter
+:
+Trotec Speedy 360
+3D Printer
+:
+Prusa FDM PLA
+Ultimaker FDM PLA
+Formlabs SLA Resin
+Vinyl Cutter
+:
+Roland CAMM-1 GS-24
+Fabrication Materials:
+Laser Cutter:
+1/8"
+Birch Plywood
+*
+1/8"
+Acrylic
+*
+3D Printer:
+FDM PLA Only
+SLA resin
+*Purchasable
+Luddy Fab Lab: Curricular Lab
+The Luddy Fabrication Lab is where ISE students spend most of their time working on research projects. The Fabrication Lab is located on the top floor of Luddy Hall in room 4010, and is used as a curricular teaching space. For classes utilizing the space, students learn about the principles of design and how to utilize fabrication tools. This lab is home to a large format laser cutter, ten FDM 3D printers, and a variety of hand and power tools.
+Location
+Luddy Fabrication Lab is located in Luddy Hall in room 4010.
+Hours
+The Luddy Fabrication Lab observes all IU holidays.
+Usual operation hours may be affected during finals week at IU.
+If you're interested in requesting a fabrication job, contact us at
+makehelp@indiana.edu
+for details.
+Innovative Lab: Teter Living Learning Center
+The Luddy LLC Innovative Lab is a makerspace located in Teter Quadrangle. Members of the Luddy LLC have 24/7 exclusive access to this space, which makes it excellent for personal projects. All materials in this space are paid for by the LLC so there are no material costs for LLC members.
+The Innovative Lab has a total of 5 FDM 3D printers and a laser cutter for prototyping and projects. There are also a large number of hand tools available for use such as a Dremel and Oscillating Tool.
+Location
+The Luddy LLC Innovative Lab is located on the main floor of Teter Quadrangle.
+Hours
+The Luddy LLC Innovative Lab observes all IU holidays. Usual operation hours may be affected during finals week at IU.
+Available Resources
+Machines:
+Laser Cutter
+:
+Trotec Speedy 100
+3D Printer
+:
+Prusa MK4 x 6
+Vinyl Cutter
+:
+Roland CAMM-1 GS-24
+Fabrication Materials:
+Laser Cutter:
+1/8" Birch Plywood
+1/8" Acrylic
+1/4" Birch Plywood
+1/4" Acrylic
+3D Printer:
+FDM: PLA
+Luddy Workshop
+The Luddy Workshop is our shop for traditional analog fabrication located in Luddy Hall. This space is run as an internal job shop instead of an open access lab. If you are Luddy faculty or staff interested in utilizing this space's equipment for research purposes please contact us at
+makehelp@indiana.edu
+.
+If you're interested in requesting a fabrication job, submit a request via our online form.
+Luddy Workshop: Job Request
+Location
+Protolab II is located on the lower level of Luddy Hall in room 0101.
+Hours
+Protolab II observes all IU holidays. Usual operation hours may be affected during finals week at IU.
+Available Resources
+CNC Technology:
+CNC Shark Router
+Tormach PCNC 440
+Woodworking Machines:
+SawStop Table Saw
+Circular Saw
+Drill Press
+Band Saw
+Training and Safety
+For advanced full use of Protolab l Makerspace please enroll in the
+Luddy Makerspace Training
+.  Once you have completed the training please make a
+reservation
+to reserve equipment and time in Protolab 1 Makerspace.
+NOTE:
+Our laser engravers always require technician assistance and oversight.
+Makerspace impact and reach
+The Luddy Makerspace Club
+The Luddy Makerspace Club is all about encouraging creativity and cooperation through programming, digital design, and fabrication.
+BeInvolved
+Instagram
+Slack
+Plan a Visit
+Luddy Strategic Plan
+Leadership
+Luddy Hall & Facilities
+Makerspaces
+Meet Fred Luddy

@@ -1,0 +1,39 @@
+[Source URL]: https://researchsoc.iu.edu/
+
+Home
+Services
+ResearchSOC
+ResearchSOC
+Cybersecurity for the nation’s greatest research
+ResearchSOC, formerly a standalone service for National Science Foundation (NSF) large facilities, is now a service offering from OmniSOC that includes a package of technologies, training, and personnel specifically designed to meet the cybersecurity needs of NSF research facilities.
+Along with OmniSOC’s
+core 24/7 security operations center services
+, ResearchSOC can deploy decoy computers, or honeypots, on a facility’s network to trap attackers and provide increased threat intelligence. ResearchSOC uses STINGAR (Sharing Threat Intelligence for Network Gatekeeping with Automated Response) developed by Duke University.
+Projects from OmniSOC's large research facility members
+Clockwise from left: A GAMMA terrestrial radar instrument operated at Slumgullion landslide in Colorado (Credit:
+UNAVCO
+); Reflection Nebula GGD 27 captured by Gemini South telescope in Chile (Credit:
+Gemini Observatory/AURA
+); side view of NOAA Ship Ronald H. Brown (Credit:
+NOAA/Wade Blake
+)
+ResearchSOC also provides a dedicated, trained cybersecurity analyst to act as project liaison. Our liaisons provide focused project management, technical expertise, and metrics reporting to help ensure a facility’s data.
+For research facilities that face challenges meeting their cybersecurity goals due to personnel shortages, budget constraints, or lack of time and expertise, engaging a ResearchSOC virtual security team can provide a cost-effective, rapid-implementation method to address key cybersecurity needs. Learn more about
+virtual cybersecurity services
+.
+Why ResearchSOC?
+We keep project PIs and IT leads in control.
+We empower projects to quickly detect and respond to incidents.
+We provide operational resources, expertise, and technology so IT staff can focus.
+We help projects meet regulatory & compliance requirements.
+We address nearly 20% of CUI requirements in one program.
+We leverage the Trusted CI Framework to align with the needs of science.
+Partner with us
+ResearchSOC offers outreach and training research project teams and the higher education community. We’re always working with the larger cybersecurity research community to improve information security. If your research facility or project faces cybersecurity challenges, we might be a good fit.
+Include ResearchSOC in your next proposal
+ResearchSOC
+Research Proposal Support
+OmniSOC Core Services
+Hosted SIEM
+Virtual Cybersecurity Services
+Vulnerability Scanning

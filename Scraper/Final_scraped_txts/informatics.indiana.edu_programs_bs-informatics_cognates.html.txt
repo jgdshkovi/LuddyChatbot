@@ -1,0 +1,457 @@
+[Source URL]: https://informatics.indiana.edu/programs/bs-informatics/cognates.html
+
+Home
+Programs
+B.S. in Informatics
+Cognates
+Cognates
+Focus your studies with a cognate
+As you work toward your bachelor’s degree, you’ll choose a cognate—an area of interest to apply your informatics skills and knowledge. By combining problem-solving and critical-thinking skills with the knowledge of how to develop new tech tools in your cognate area, you’ll give yourself an edge in the job market.
+Cognates can be in any field of study offered at IU–if a cognate plan is not already created for your area of interest, you may work with an advisor to develop your own "Individualized Cognate."
+Some of your courses may fulfill requirements toward a minor in another field or your general education requirements.
+You may choose your cognate in your first semester, you may select an established cognate later in your academic year.
+Choose your cognate
+Animal-Computer Interaction
+Learning and understanding how animals interact and benefit from technology is at the core of our cognate in Animal-Computer Interaction. Students will learn the technical skills needed to incorporate maker, data science, artificial intelligence, and virtual and augmented reality technologies into fields focused on the behaviors, cognition, and well-being of animals, such as wildlife biology and conservation, the commercial pet industry, service animals, and scientific research into animal behavior and cognition.
+This cognate requires five courses:
+ABEH-A 101 Introduction to Animal Behavior
+INFO-I 216 Human, Animals, and Artificial Intelligence
+INFO-I 411 Animal-Computer Interaction Methods
+INFO-I 414 Seminar in Animal-Computer Interaction.
+A selective from a list in the
+Luddy academic bulletin
+.
+Planning for the future
+From commercial pet care to captive animal management, animal welfare organizations, assistive and therapeutic animal support programs, veterinary medicine, and more, there are a variety of career paths that demand the technical skills that can be found in the field of ACI.
+The animal-computer interaction cognate also prepares you for the
+4+1 program
+that allows you to graduate with a master’s degree in just one additional year.
+Learn more about the
+animal-computer interaction cognate
+.
+Biology
+Build a solid foundation in the life sciences with the biology cognate. You’ll learn about the evolution of organisms, the structure and function of DNA and RNA, and molecular biology. Through lab experiments, you’ll be introduced to aspects of cell biology, genetics, and evolutionary biology.
+Planning for the future
+The biology cognate prepares you for a career and advanced education, depending on your career goals and pursuits. If you’re interested in graduate school, you should consider further studies in
+bioinformatics
+.
+What classes do I have to take?
+Students select one of three options: foundations; molecular, genomics, and bio-technology; and microbiology. Please see the bulletin for course offerings. (Make sure to view the bulletin for which you plan to graduate).
+Business
+Are you interested in working in private industry, starting your own business, or pursuing a graduate business degree? Learn the fundamentals of business—marketing, finance, operations, and management—and how information technology affects today’s business at all levels.
+Business cognate students take:
+BUS-A 200 Foundations of Accounting
+OR
+BUS-A 201 Introduction to Financial Accounting
+OR
+BUS-A 202 Introduction to Managerial Accounting
+BUS-K 201 The Computer in Business (minimum grade of C required)
+Students will select additional courses based on two options: business and society or business, data, and technology.
+Planning for the future
+The business cognate prepares you to anticipate how changes in technology will offer new opportunities for businesses in every industry. If you’re interested in graduate school, you should consider the
+M.S.I.S.
+,
+M.B.A.
+, or further study in
+informatics
+.
+Chemistry
+If you’re interested in clinical research, health care, or pharmaceuticals, technology will be integral to your work. This cognate introduces you to the fundamentals of chemistry. You’ll learn about organic and inorganic substances, and various elementary forms of matter. You’ll explore different types of chemistry and understand chemical properties, reactions, and other concepts.
+To complete this cognate, students take:
+CHEM-C 117 Principles of Chemistry and Biochemistry I
+CHEM-C 341 Organic Chemistry I Lectures
+CHEM-C 342 Organic Chemistry II Lectures
+Six additional credits from a list of options outlined in the
+bulletin
+Planning for the future
+The chemistry cognate prepares you for a career and advanced education, depending on your career goals and pursuits.
+Cognitive science
+Cognitive science explores how people learn, how they perceive, and how they process information, all of which are intimately connected with how we use technology in day-to-day life. With this cognate, you’ll develop a deeper appreciation of the interaction between humans and computers—and what we can teach each other.
+Students must take the following courses:
+COGS-Q 240 Philosophical Foundations of the Cognitive and Information Sciences
+COGS-Q 260 Programming for the Cognitive and Information Sciences
+COGS-Q 320 Computation in the Cognitive and Information Sciences
+COGS-Q 370 Experiments and Models in Cognition
+One additional selective from a list outlined in the
+bulletin
+Planning for the future
+Career applications for cognitive science are virtually limitless, from telecommunications and education to artificial intelligence. If you’re interested in graduate school, you should consider further studies in
+human-computer interaction design
+or in an
+informatics Ph.D. track
+such as complex networks and systems or computing, culture, and society.
+Computer science
+If you’re passionate about how technology can fuel scientific, cultural, and artistic discovery or want to be able to build the tools that make these discoveries possible, the computer science cognate will show you the way. You’ll gain a deeper technical understanding of fundamental aspects of computer science, including network design, cybersecurity, and data and search.
+To complete the computer science cognate, students must take:
+CSCI-C 200 Introduction to Computers and Programming
+OR
+CSCI-C 211 Introduction to Computer Science
+CSCI-C 212 Introduction to Software Systems
+CSCI-C 241 Discrete Structures for Computer Science
+Additional courses as outlined in the
+bulletin
+Planning for the future
+Depending on your focus, this cognate will provide you with the skills to take on a variety of IT jobs, from product and application development to user experience and web development. If you’re interested in graduate school, consider further studies in either
+computer science
+or
+informatics
+.
+Economics
+On local and global scales, the effect of technology on capital markets, governments, and business is profound. If you’re interested in learning the workings of the economy, capital market, globalization, monetary systems, industry, commerce, and more, this cognate may be for you. You’ll gain a framework for understanding, anticipating, and taking advantage of the way governments and markets use technology to facilitate and regulate trade.
+Students must take the following courses to complete the economics cognate:
+MATH-M 119 Brief Survey of Calculus I
+OR
+MATH-M 211 Calculus I
+ECON-E 201 Introduction to Microeconomics
+ECON-E 202 Introduction to Macroeconomics
+ECON-E 321 Intermediate Microeconomic Theory
+An additional course in either economics and game theory, quantitative, or general economics
+Planning for the future
+If you’re interested in graduate school, consider further studies in
+economics
+,
+business
+, or
+informatics
+.
+Fine arts
+Digital art and design are important aspects of all things creative. If you plan to work as a professional artist after graduation, you’ll need to understand the digital tools available as well as the fundamentals of design, composition, and color. With the fine arts cognate, you’ll learn about visual communications and the tools used to create in the traditional and digital worlds. You can choose from two options:
+Computer art
+focuses on using technology as a tool for artistic expression. You’ll learn skills for creating your own art and 3D graphics, and for enhancing drawings, scans, photos, and other illustrations. You’ll use interactive multimedia to express ideas and to capture a game, storyboard, or online environment you envision.
+Graphic design
+focuses on using technology to create visual designs, from logos, books, and posters to websites. You’ll learn the principles of design, typography, style, text and graphic placement, and production. You’ll use design and other tools to solve problems, improve an online experience and produce a variety of digital elements and visual communications.
+Planning for the future
+The fine arts cognate prepares you for a wide variety of careers, including graphic designer, art director, game designer, 3D programmer, web designer, and digital animator. If you’re interested in graduate school, consider further studies in
+human-computer interaction design
+.
+Geography
+With this cognate, you’ll get an overview of geography as a science and learn about various techniques such as remote sensing theory and digital image processing in environmental applications. You’ll study geographical information systems (GIS) and learn how to analyze and interpret geographic data.
+To complete this cognate, students must:
+Select one course from the following:
+GEOG-G 107 Physical Systems of the Environment
+GEOG-G 109 Weather and Climate
+GEOG-G 110 Human Geography in a Changing World
+GEOG-G 120 Regions of the World
+Select four courses from the following:
+GEOG-G 237 Mapping our World: From Mercator to Mashups
+GEOG-G 250 Computing in the Geospatial Sciences
+GEOG-G 336 Environmental Remote Sensing
+GEOG-G 338 Geographic Information Science
+GEOG-G 436 Advanced Remote Sensing: Digital Image Processing
+GEOG-G 438 Advanced Geographic Information Science
+GEOG-G 488 Applied Spatial Statistics
+Planning for the future
+If you’re interested in graduate school, consider further studies in
+informatics
+or
+geography
+.
+Human-centered computing
+Interested in how humans and computers interact, and the resulting implications of these interactions? You’ll explore various topics, including how information is organized and delivered and how both humans and computers must adapt their behaviors. You’ll learn to think about and solve issues that arise when humans and computers interact.
+Students must take five courses from the following options:
+CSCI-A 216 Digital Multimedia Concepts and Technologies
+INFO-I 303 Organizational Informatics
+INFO-I 310 Multimedia Arts and Technology
+INFO-I 330 Legal and Social Informatics of Security
+INFO-I 341 Prototyping for Arduino Tools
+INFO-I 360 Web Design
+INFO-I 370 Methods for HCC
+INFO-I 399 Current Topics in Informatics (approved topic)
+INFO-I 400 Topics in Informatics (approved topic)
+INFO-I 407 Intro to Health Informatics
+INFO-I 436 Technology Innovation
+INFO-I 437 Design Strategy
+INFO-I 438 Technology Entrepreneurship
+INFO-I 440 Human Robot Interaction
+INFO-I 441 Interaction Design Practice
+INFO-I 453 Computer and Information Ethics
+INFO-I 469 Collective Intelligence
+INFO-I 487 Introduction to Virtual Heritage
+INFO-I 488 Advanced Topics in Virtual Heritage
+Planning for the future
+The human-centered computing cognate prepares you for a career in web design, digital media production, content production, software engineering, information security, or robotics. If you’re interested in graduate school, consider further studies in
+human-computer interaction design
+;
+secure computing
+; computing, culture, and society; or
+information science
+.
+HCI/d
+Understanding how users interact with computers and designing technology in a way that is useful are critical skills for students as they begin their career. Our cognate in Human-Computer Interaction/design provides a focal point for informatics majors to ensure they build their skillset and gain mastery of the concepts and theories that are the foundation of HCI/d. It focuses on the terminology, thinking, research, methods, and technologies of the UX/UI industry.
+Students must complete the following courses:
+INFO-I 245 Interaction Design Thinking
+INFO-I 246 Use and Usability
+INFO-I 345 Interaction Design Research
+INFO-I 346 Prototyping and Evaluation
+An additional course from the options outlined in the bulletin
+Planning for the future
+Students will graduate with a specific skillset that will set them apart in one of the fastest growing fields in technology. With conceptual knowledge and hands-on experience in HCI/d, graduates will enter their career ready to make an impact in any technology field that requires creativity, design leaders, and critical thinking skills.
+Individualized
+Are you in search of a cognate we don’t offer?
+If you’re interested in applying information technology to a new domain or taking a more interdisciplinary approach to addressing a particular problem or issue, consider applying for an individualized cognate. An individualized cognate can include one or more departments.
+Requirements
+You’ll typically take one or two foundational courses in your chosen area followed by advanced coursework with a specific focus. Your proposed cognate should be located near the intersection of technology and a particular discipline or issue.
+The requirements for an individualized cognate are:
+At least five courses, totaling a minimum of 15 credit hours
+At least 9 credit hours at the 300/400 level
+Approval from the director of undergraduate studies
+Proposing your cognate
+You must submit a proposal for your individualized cognate. Your proposal must include:
+A list of courses
+An explanation of why you chose this particular set of courses
+A rationale for the cognate, such as:
+Why the study of this discipline or issue is important
+How this cognate can enhance your informatics degree
+How informatics can contribute to this discipline or issue
+You’re encouraged to create a preliminary proposal draft and review it with your academic advisor before submitting a final version to your advisor for review by the director of undergraduate studies.
+Linguistics
+The human voice is as powerful as a keyboard when it comes to inputting and sharing data. Get an introduction to the science of human languages with a focus on language acquisition and converting speech to data with the linguistics cognate.
+To complete this cognate, students must complete the following courses:
+LING-L 203 Introduction to Linguistic Analysis
+LING-L 306 Phonetics
+Three additional courses as outlined in the
+bulletin
+Planning for the future
+This cognate prepares you for a career in data analysis, voice interface design, and computational language. If you’re interested in graduate school, consider further studies in
+informatics
+and
+linguistics
+.
+Mathematics
+Math helps you identify and analyze patterns, see relationships, solve problems, and a lot more. Advanced math is essential to expanding the boundaries of technology. With the mathematics cognate, you’ll learn the basics of math and develop your logic and critical thinking skills.
+All mathematics cognate students must take MATH-M 211 Calculus I and MATH-M 212 Calculus II, as well as:
+Select one course from the following:
+MATH-M 301 Linear Algebra and Applications
+MATH-M 303 Linear Algebra for Undergraduates
+Select two courses from the following:
+MATH-M 343 Introduction to Differential Equations with Applications I
+MATH-M 344 Introduction to Differential Equations with Applications II
+MATH-M 353 Discrete Mathematics
+MATH-M 365 Introduction to Probability and Statistics
+MATH-M 371 Elementary  Computational Methods
+MATH-M 447 Mathematical Models and Applications I
+MATH-M 453 Cryptography
+Planning for the future
+This cognate prepares you for various technology career paths, including interface design, statistical reporting, and web programming. If you’re interested in graduate school, consider further studies in
+computer science
+or
+complex networks and systems
+.
+Media
+Are you interested in shaping the future of informatics in the media? This cognate may be for you. You can choose to focus on how the media affects (and is affected by) society, media production, game design, or journalism.
+All media cognate students must take MSCH-C 101 Media and complete courses in media and society, media production, game design and development, and journalism and digital storytelling.
+Planning for the future
+This cognate prepares you for careers such as strategic analyst, multimedia developer, and journalist. If you’re interested in graduate school, consider further studies in
+informatics
+or
+media
+.
+Medical sciences
+Are you interested in allied health, exercise science, medicine, dentistry, optometry, or nursing? Blend basic knowledge in the medical sciences and information technology with the medical sciences cognate. The IT health care job market is hot, and some of the world’s largest health care companies recruit our students.
+Students in the medical science cognate take:
+ANAT-A 215 Basic Human Anatomy
+PHSL-P 215 Basic Human Physiology
+Three additional courses from a list of options outlined in the
+bulletin
+Planning for the future
+This cognate prepares you for a career in the medical sciences, information technology, or a combination of both. If you’re interested in graduate school, consider further studies in
+nursing
+,
+other health professions
+, or
+informatics
+.
+Music
+Music informatics addresses a wide range of problems that lie on the boundary between music and scientific disciplines such as computer science, cognitive science, math, and psychology. If you enjoy looking at music as data—whether in audio, graphical, performance, or symbolic form—this cognate may be for you.
+All students in the music cognate take MUS-Z 361 Introduction to MIDI and Computer Music and either MUS-Z 111 Introduction to Music Theory and MUS-Z 211 Music Theory II or MUS-T 151 Music Theory and Literature I and MUS-T 152 Music Theory and Literature II. Additional courses are selected from a list of options in the bulletin.
+Planning for the future
+Music informatics is a young, rapidly changing field. It’s likely that many of the most important applications have yet to be created. Current examples include musical accompaniment systems, optical score recognition, music audio analysis, and the synthesis of musical expression from a score.
+Philosophy of mind and cognition
+Enhance your critical thinking, reasoning, interpretation, and communication skills with the philosophy of mind and cognition cognate. You’ll be introduced to the philosophy of mind and intelligent systems. You’ll explore modern philosophy and topics such as the nature of mental phenomena, logic and language, and metaphysics. You’ll learn how to formulate valid argument structures through techniques in logic and symbolic logic.
+Students in this cognate take:
+PHIL-P 360 Introduction to Philosophy of Mind
+COGS-Q 240 Philosophical Foundations of the Cognitive and Information Sciences
+Three additional courses as outlined in the
+bulletin
+Planning for the future
+If you’re interested in graduate school, you have a number of paths to consider. Some options include
+philosophy
+,
+computer science
+,
+informatics
+,
+law
+, and
+medicine
+.
+Pre-health professions
+If you’re thinking of combining the study of informatics with preparation for medical school or another health professions program, this cognate may be for you. You’ll build your cognitive abilities and develop critical thinking and problem-solving skills necessary for medical school.
+Pre-health professions students take the following classes to fulfill this cognate:
+BIOL-L 112 Foundations of Biology: Biological Mechanisms
+CHEM-C 117 Principles of Chemistry and Biochemistry I
+CHEM-C 127 Principles of Chemistry and Biochemistry I Lab
+Seven or more additional credits from a list of courses listed in the
+bullein
+Planning for the future
+This cognate will allow you to incorporate common professional school admission requirements into your degree plan. You’ll be prepared for a broad range of careers in IT, health care, or a blend of both. If you’re interested in graduate school, consider further studies in
+medicine
+,
+other health professions
+, or
+informatics
+.
+Psychology
+Human behavior has important consequences for developments in artificial intelligence, cybersecurity, computer and interface design, and all the ways we connect and collaborate online. With this cognate, you’ll be introduced to key concepts in cognition, perception, and behavior that will be useful in many career paths.
+Students in the psychology cognate take either
+PSY-P 101 Introductory Psychology I and PSY-P 102 Introductory Psychology II or PSY-P 155 Introduction to Psychological and Brain Sciences and four additional courses from a list in the
+bulletin
+.
+Planning for the future
+Consider this cognate if you’re interested in interface design, user experience testing, business, or marketing. If you’re interested in graduate school, consider graduate studies in
+computing, culture, and society
+;
+secure computing
+;
+human-computer interaction design
+; or
+cognitive science
+.
+Public and environmental affairs
+Do you want to discover new ways to use technology to solve pressing social problems? Are you interested in making clean, renewable energy a reality or improving access to quality health care? This cognate may be for you.
+The implications and practical applications of technology on public policy are broad. You can choose from five options in this cognate.
+Environmental management
+With this option, you’ll learn about forestry and water systems—lakes, wetlands, and wastewater treatment—as well as about the air we breathe, pollution control, and toxicology. You’ll understand environmental law and how air and water quality are regulated while using software that environmental scientists use to generate data, which is then organized and interpreted to solve problems.
+Students in this option take:
+SPEA-E 183 Environment and People
+SPEA-E 272 Introduction to Environmental Sciences
+SPEA-E 363 Environmental Management
+Three additional courses from a list of options in the
+bulletin
+Planning for the future:
+If you’re interested in graduate school, consider further studies in
+environmental science
+or
+informatics
+.
+Health systems administration
+This option introduces you to all aspects of health systems administration, including management, policy, finance, and economics. You’ll learn about hospital and long-term care administration as well as strategic planning for health care organizations.
+Students in this option take:
+SPEA-H 124 Overview of the U.S. Healthcare System
+SPEA-V 373 Human Resource Management in the Public Sector
+Three additional courses from a list of options in the
+bulletin
+Planning for the future:
+This option prepares you for an IT job in health care with a broad range of opportunities in systems design, implementation, and consulting as well as other traditional IT jobs. If you’re interested in graduate school, consider further studies in
+public health administration
+or
+informatics
+.
+Policy studies
+With this option, you’ll develop skills in identifying, dissecting, and improving policy. You’ll study finance, economics, public policy, and statistics to gain the tools you need to measure the impact of policy decisions.
+Students in this option take:
+SPEA-V 181 US Policy and Administration
+SPEA-V 182 Policy-making Around the World: Comparative and International Approaches
+Three additional courses from a list of options in the
+bulletin
+Planning for the future:
+If you’re interested in graduate school, consider further studies in
+public affairs
+or
+informatics
+.
+Public finance
+How is money managed within the public sector? With this option, you’ll learn about government and nonprofit accounting and reporting. You’ll discover techniques used by financial administrators to manage public budgets, revenues, and spending.
+Students in this option take:
+SPEA-V 186 Introduction to Public Budgeting and Finance
+SPEA-V 246 Elements of Governmental and Nonprofit Financial Accounting Cycle
+SPEA-V 346 Introduction to Government Accounting and Financial Reporting
+SPEA-V 361 Financial Management
+One additional course from a list of options in the
+bulletin
+Planning for the future:
+If you’re interested in graduate school, consider further studies in
+public affairs
+,
+arts administration
+, or
+informatics
+.
+Urban affairs
+Learn about urban planning, development, and management, as well as the development process for metropolitan areas, with this option. You’ll understand federal and local government structures, fiscal management, and policy issues and implications.
+Planning for the future:
+If you’re interested in graduate school, consider further studies in
+public affairs
+or
+informatics
+.
+Public health
+With this cognate, you’ll be introduced to the foundations of community health within the public health context. You’ll learn about epidemiology concepts, measures, and methods, and how they’re applied to disease control. You’ll build skills in public health program planning and implementation. And you’ll explore public health data sources, research, and evaluation methods and technologies.
+Students in this option take:
+SPEA-V 161 Urban Problems and Solutions
+SPEA-V 365 Urban Development and Planning
+SPEA-V 462 Community Development
+Two additional courses from a list of options in the
+bulletin
+Planning for the future
+If you’re interested in a career in health care, software development, or public advocacy, this cognate may be for you. If you’re interested in graduate school, consider further studies in
+public health
+,
+public and environmental affairs
+, or
+informatics
+.
+Security
+With this cognate, you’ll be introduced to the foundations and fundamentals of information security. You’ll learn about cybersecurity, how systems and networks are protected, the technologies and protocols used, and the complex web of issues that governments and businesses face in trying to protect citizens and customers.
+Students complete the security cognate by taking:
+CSCI-C 291 System Programming with C and Unix
+INFO-I 130 Introduction to Cybersecurity
+INFO-I 230 Analytical Foundations of Security
+INFO-I 231/CSCI-C 231 Introduction to the Mathematics of Cybersecurity
+INFO-I 430/CSCI-B 430 Security for Networked Systems
+INFO-I 433/CSCI-B 433 Systems & Protocol Security & Information Assurance
+One additional course from a list of options in the
+bulletin
+Planning for the future
+If you’re ready to take on hackers, identity thieves, corporate spies, and other cybervillains, this cognate may be for you. The job market for internet security is very strong. If you’re interested in graduate school, consider further studies in
+security informatics
+.
+Virtual reality
+Virtual Reality is a new and powerful technology impacting a variety of industries, including science, engineering, education, medicine, and film. This technology can be used to build interactive virtual worlds ranging from fully immersive environments to augmented experiences in which digital objects appear to mix with the real world. As virtual reality hardware becomes less expensive and more accessible, it will provide creative opportunities to solve real-world problems and offer new avenues to share our experiences.
+Students in this cognate take:
+INFO-I 304 Introduction to Virtual Reality
+INFO-I 442 Creating Virtual Assets
+INFO-I 443 Building Virtual Worlds
+INFO-I 444 Artificial Life in Virtual Reality
+One course from a list of options in the cognate
+Planning for the future
+Our cognate in virtual reality will teach students how the technology works and how to create immersive and interactive virtual experiences. There is a growing demand for people who can apply VR to a wide variety of problems in the professional marketplace, and this cognate will provide graduates with the foundational skills to place them on the cutting edge of this exciting new technology.
+Web design and development
+Designing, building, and deploying front-end technology, such as websites, web apps, mobile apps, wearable devices, and more, are a central component of just about every field. A cognate in web design and development will equip students with an intersection of skills in interface design, data, programming, web and app development, user experience design, and digital graphic design.
+Students will learn to create web interfaces, outline, design, plan, build, and implement web-based projects, apply computational thinking to resolve code construction, platform, and design issues, and analyze and evaluate websites and applications from technical, design, and UI/UX perspectives.
+The web design and development cognate features one required course and four electives constituting a total of five courses and 15 credits, including:
+INFO-I360 – Web Design (required)
+INFO-I399 – JavaScript
+INFO-I399 – Visual Design
+INFO-I400 – Mobile HCI & Design
+INFO-I400 – Cross-Platform Mobile Programming
+INFO-I389 – Serve IT
+Planning for the future
+Front-end skills are in-demand, and understanding the theory and concepts underpinning web development and design will provide a foundation for graduates to thrive in this ever-evolving field.
+Learn more about cognates
+All cognate requirements are listed in the Luddy academic bulletin. To review your specific requirements, choose the bulletin that represents the year you started, or plan to start, your program.
+2023–24 bulletin
+2022-23 bulletin
+2021–22 bulletin
+Learn more about the B.S. in Informatics
+Explore the degree
+B.S. in Informatics
+Cognates
+Undergraduate Minors
+Undergraduate Certificates
+4+1 Program
+M.S. Informatics
+M.S. in Human-Computer Interaction
+Accelerated M.S.I.S.
+Ph.D. in Informatics
+Ph.D. Minors

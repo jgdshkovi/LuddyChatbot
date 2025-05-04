@@ -1,0 +1,84 @@
+[Source URL]: https://news.luddy.indiana.edu/story.html?story=Visiting-Fulbright-scholar-uses-3D-computer-vision-to-study-Mexican-cultural-heritage
+
+Home
+News
+Visiting Fulbright scholar uses 3D computer vision to study Mexican cultural heritage
+Visiting Fulbright Scholar Homero Rios-Figueroa brings 3D computer vision and Mexican cultural heritage together in an exciting new class – Pattern Recognition on RGB-D Images (Computer Vision and Mexican Culture Image Recognition).” “
+Feb 7, 2025
+Hub icon
+Twitter
+Facebook
+For visiting
+Fulbright Scholar
+Homero Rios-Figueroa
+, the goal was clear – develop and teach a new
+Luddy School of Informatics, Computing and Engineering
+course that improves student skill in 3D computer vision while exploring Mexico’s rich cultural heritage through image processing and object recognition in art, archeology, architecture, textiles and natural landscapes.
+The result is “Pattern Recognition on RGB-D Images (Computer Vision and Mexican Culture Image Recognition).”
+“The goal is to improve students’ technical skills and promote the mutual understanding between the people of the United States and another country, in this case Mexico,” said Rios-Figueroa, a renowned professor at Mexico’s
+Universidad Veracruzana
+whose research centers on computer vision, pattern recognition, machine learning and artificial intelligence.
+His spring semester course is a collaboration between the Luddy School, IU’s
+Mexico Gateway
+,
+Fulbright COMEXUS
+and IU’s
+Office of the Vice President for International Affairs.
+The original participation call came from the
+COMEXUS: Becas Fulbright Garcia Robles Commission
+for Mexican US for Cultural and Educational interchange.
+As part of the Fulbright Program centered on increasing the mutual understanding between people from the United States and other countries, the course is for undergraduate and graduate students in computer science, engineering, applied mathematics and related fields.
+Fulbright Scholars
+go to institutions across the United States and around the world to build their skills and connections, and to gain and provide valuable international insights and perspectives.
+The Mexico Gateway is located in Mexico City. Opened in 2018, it allows IU students and faculty to immerse themselves in Mexican academic activities, culture and partnerships.
+Molly Fisher,
+Mexico Gateway director, said she was excited about IU’s collaboration with COMEXUS to bring talented Mexican scholars to IU. She emphasized that these exchanges enrich the scholars’ experiences and also benefit IU students by offering international experience at home. She said she hoped this would become a long-term partnership fostering academic and cultural exchange.
+“We want to strengthen our bi-lateral relations and promote understanding,” she said. “Not everyone has a chance to travel internationally. This is a chance for students to get international experience without leaving the country.”
+Rios-Figueroa’s course has a strong AI component while introducing students to pattern recognition on color images – red, green and blue along with depth images – with illustrative images of Mexican cultural heritage.
+That includes artifacts from the Mayan, Aztec and Teotihuacan civilizations as well as modern clothing textiles, famous Mexican landscapes such as mountains and beaches, Mexican fruit and dance styles such as Mariachi, and more.
+“I provide images related to archaeological sites so students can do their recognition on those data sets, as well as on another data set,” Rios-Figueroa said.
+“I’m teaching them pattern recognition and giving them an idea of the timeline of Hispanic culture. It’s very interesting. I have to concentrate more on the technical part, and I’m happy if they learn the rest.”
+Rios-Figueroa said modern clothing designers use colorful patterns with animal and geometric figures that come from Mexican tribes. Imaging can identify those tribes.
+“Each Mexican state has its own culture and folklore,” he said.
+Class students come from different backgrounds – the United States, India, Asia, Latin America and eastern Europe.
+“The odds of our students working across cultural and geographic boundaries in their lives is high,” said
+Logan Paul,
+Informatics senior lecturer and co-director of Luddy Global Outreach, “and I am grateful that we were able to work with partners to bring Dr. Rios-Figueroa here as the first ever Fulbright Chair in Mexico Studies for Artificial Intelligence.”
+Paul added that global education is a big strength at IU and “I am glad that we were able to bring it right to where our students are.”
+Rios-Figueroa said
+David Crandall
+, Luddy Professor of Computer Science and director of the Luddy Artificial Intelligence Center, served as his faculty host, provided work space for him at the Artificial Intelligence Center, and helped publicize the class during registration.
+Rios-Figueroa said
+Yuzhen Ye,
+chair of Computer Science and professor of Informatics and Computer science, wrote the letter inviting him to come to the Luddy School.
+“I am grateful to both of them for all their assistance,” he said.
+Rios-Figueroa also said COMEXUS officials Allie Biscupski and Hazel Blackmore, Yeilyn Serrano at the Institute of International Education and officials at Universidad Veracruzana were invaluable in setting up this teaching-research-collaboration opportunity.
+Blackmore, the executive director at COMEXUS Fulbright-García Robles Commission, said, “This new collaboration between COMEXUS and Indiana University marks an innovative fusion of technology and cultural exchange. Through the first-ever Fulbright Chair in Mexico Studies for Artificial Intelligence at the Luddy School, we’re pioneering new ways to study Mexican cultural heritage using advanced computing. With the presence of Dr. Ríos-Figueroa as a Fulbright-García Robles scholar, we hope to enhance students’ technical expertise, and also deepen the cross-cultural understanding between Mexico and the United States, exemplifying the transformative power of international academic partnerships.”
+Seth Walker,
+director for International Partnerships at the Office of the Vice President for International Affairs, said the course reflects the Luddy School’s unique opportunities. He said we live in a highly interconnected world, and getting experience from someone who offers a different perspective is invaluable.
+“Students get to consider problems from different viewpoints,” he said. “In this case, they can see Mexican culture with a different lens. Hopefully, they are intrigued by the topic.”
+Another program benefit, Walker added, is having visiting scholars spend time in IU’s academic environment with the possibility of forging institutional bonds with other universities.
+Overall, the course ties into the Luddy School’s human-centered emphasis that teaches students technical and societal skills so that they won’t just shape industries, they’ll reimagine the future.
+”
+Author
+Pete DiPrimio
+Contact Info
+Luddy Director of Marketing and Communications
+luddymco@iu.edu
+Explore media resources
+Filed under:
+Bloomington
+Research
+View all tags
+Plus sign
+Previous article
+Luddy Career Fair showcases hiring optimism
+Next article
+Graduate discovered her passion for cybersecurity through Luddy Indianapolis
+More stories
+Luddy Indianapolis Sports Analytics students tackle NFL Big Data Bowl
+Luddy
+March 4
+Luddy Ph.D. graduate earns international dissertation honor
+Luddy
+February 13

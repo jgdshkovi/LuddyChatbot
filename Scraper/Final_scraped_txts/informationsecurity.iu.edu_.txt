@@ -1,0 +1,86 @@
+[Source URL]: https://informationsecurity.iu.edu/
+
+What is information security?
+Indiana University information security protects the confidentiality, integrity, and availability of institutional information assets from unauthorized use. IU is committed to providing an environment that protects the security and privacy of institutional information necessary to support its mission and protect its reputation.
+This site will educate IU users how to contribute to and cooperate with our protection measures. Here you can educate yourself about:
+How to stay safe online
+Information & IT policies
+The Information Security & Privacy Program
+Security resources for IT Staff
+How to report unusual behaviors and IT incidents
+Together we can keep our campus an open and accessible system.
+Do your part to protect IU
+Don't get phished
+Beware of email schemes that intend to separate you from your data, your identity, and your money.
+Learn to spot a phish
+Acceptable Use Agreement
+IU requires that you must assent to an Acceptable Use Agreement every two years for access to IT resources at IU.
+Acceptable Use Agreement
+Always verify identity
+In cases where an individual is not standing before you to show a picture ID, most organizations require an alternate process to validate their provided personal information.
+Identity verification
+Use data appropriately
+Data governance is a collection of activities which help to ensure the proper management of institutional data, a strategic asset at IU. The University Data Management Council (UDMC) promotes a culture of data stewardship, consistent practices, and adherence to IU standards and policies.
+IU Data Management
+Protect your data at IU
+The IU privacy program protects institutional data from unwanted disclosure and informs you of rights, such as access to your data and limitations on how we use it. IU’s privacy team monitors worldwide privacy events, remains current on privacy issues that affect you, and will continue to increase your awareness of emerging privacy topics.
+IU Privacy Portal
+Additional resources
+Take a free course
+IU offers free online security and privacy courses. Log in to E-Training, and from the catalog, choose University Privacy Office from the University-wide menu.
+Knowledge Base
+University Information Technology Services (UITS) provides additional information about a number of security and privacy issues, tools, and software applications.
+Cybersecurity news at IU
+Passkeys can simplify logins: what are they and are they for you?
+Cybersecurity implications of using data with AI
+Cybersecurity tips for remote teaching and learning
+Reporting cybersecurity incidents
+Learn about phishing
+Deep fakes and AI in cyber crime
+Duo Verified Push coming to IU faculty and students for added Two-Step Login security
+Forewarned partnering with IU-led OmniSOC to promote critical cybersecurity tool
+IU-led OmniSOC welcomes University of California, Santa Cruz
+Duo Verified Push coming to IU staff for added Two-Step Login security
+Lehigh Carbon Community College joins IU-led OmniSOC
+Purdue University joins IU-led OmniSOC
+Susan Sons named executive director for IU-led cybersecurity operations center
+Storing or sharing restricted or critical data at IU
+REN-ISAC and Fortinet sign partnership agreement
+IU Center for Applied Cybersecurity Research releases “Effective Cybersecurity for Research”
+DeSales University joins IU-led OmniSOC
+IU-led cybersecurity centers merge
+SecureMyResearch’s rapid adoption in 2021
+IU-led OmniSOC adds Lehigh as newest member
+Jason Williams named IU chief information security officer
+Clemson joins the OmniSOC cybersecurity operations center
+Ransomware attackers set their sights on research
+I-Light and Indiana GigaPOP collaborate with IU-led cybersecurity center on new security model
+Silicon Valley university joins IU-led cybersecurity operations center
+IU-led cybersecurity operations center adds private university as newest member
+Global collaboration in the face of a global threat
+Protecting open-science research as cyber threats rise
+Collaborating to defend IU from cyber threats
+UITS selected as a nominee for TechPoint’s Mira Awards
+Kim Milford comments on SolarWinds hack
+Being proactive about Zoombombing turns into a group effort
+UITS Monitor: Special Edition–Ransomware Threats
+Maurer law students and IU cybersecurity pros tackle technology and privacy
+2021 Trusted CI Fellows Program
+Protecting earth science research
+$2.25 million NSF award will fund CyberCorps student scholarship program at IU Bloomington
+Introducing SecureMyResearch
+AI for cybersecurity
+Keeping the mysteries of the universe safe from hackers
+Big Red 200 powers new secure network for national defense innovation
+IU-led cybersecurity center wins 2019 Campus Technology Impact Award
+Von Welch appointed executive director for cybersecurity innovation at Indiana University
+Peter E. Sand appointed as IU’s first chief privacy officer
+See more articles on IT News
+Security bulletins
+Microsoft IPv6 Remote Code Execution Vulnerability
+IoT, Peripheral, and “Smart” Device Security Best Practices
+Outlook for Windows Vulnerability
+LastPass breach puts you at risk
+Windows TCP/IP Remote Code Execution Vulnerability
+Apple security updates to fix critical vulnerability
+See more bulletins

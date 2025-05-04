@@ -1,0 +1,91 @@
+[Source URL]: https://datascience.indiana.edu/programs/4-plus-1-ms-residential/index.html
+
+Home
+Programs
+Master of Science 4+1 — Residential
+Master of Science 4+1 — Residential
+Add a M.S. in Data Science to your bachelor’s degree in just one year
+Stand out in the career search with an advanced degree in data science—one of the hottest career fields in the world. If you are an undergraduate student with a major, minor, or specialization in data science, you can earn a master’s degree in just one additional year.
+The 4+1 program saves you time and money. You’ll take up to nine fewer credit hours than if you earned a B.S. and M.S. separately. And you’ll be enrolled in some graduate courses while paying the undergraduate rate.
+How it works
+The program is designed so that highly motivated students can earn a master’s degree in just one additional year. To do that, you’ll take at least one graduate-level course during your senior year, when you’re still classified as an undergraduate. You need to request permission from your advisor.
+You’ll be classified as an undergraduate through the last semester you are enrolled in undergrad requirements. You have to complete at least 21 hours of coursework while classified as a grad student.
+Costs
+For the semesters you are in graduate status, you will pay the same tuition and fees as other M.S. students.
+Learn about costs and financial aid
+Undergraduate scholarships and funding
+Transitioning to graduate student status may affect any undergrad scholarships or other funding you have. Make sure to check on this and plan for it.
+When you’ll get your degrees
+Degrees are awarded separately as the degree requirements have been met for each degree.
+Program overview
+Academic requirements
+Students in this program are required to complete 12 credit hours of core coursework that covers three credit hours of Statistical Methods, three credit hours of Data Management and Engineering, three credit hours of Machine Learning, Data Mining, and Text Mining, and three credit hours of capstone project. The nine remaining credit hours are for electives to best suite your individual interests, needs, and overall career goals.
+Statistical Methods (3 credit hours)
+Select one course from the following:
+SPEA-V 506 Statistical Analysis for Effective Decision-Making
+STAT-S 520 Introduction to Statistics
+Higher level statistics course may be taken with departmental approval
+Data Management and Engineering (3 credit hours)
+Select one course from the following:
+CSCI-B 561 Advanced Database Concepts
+ENGR-E 516 Engineering Cloud Computing
+INFO-I 535 Management, Access, and Use of Big and Complex Data
+DSCI-D 532 Applied Database Technologies
+Machine Learning, Data Mining, and Text Mining (3 credit hours)
+Select one course from the following:
+CSCI-B 551 Elements of Artificial Intelligence
+CSCI-B 555 Machine Learning
+CSCI-B 565 Data Mining
+CSCI-B 657 Computer Vision
+CSCI-P 556 Applied Machine Learning
+ENGR-E 511 Machine Learning for Signal Processing
+ILS-Z 534 Search
+INFO-I 513 Usable Artificial Intelligence
+INFO-I 606 Network Science
+Capstone Project (3 credit hours)
+Students will be required to work on a project that applies the knowledge and skills learned to solve real-world problems for a company, organization, or individual. This may be fulfilled through a capstone course, an internship, or an independent study project. The aim of this requirement is to demonstrate students' capabilities to prospective employers and inspire innovation.
+DSCI-D 590 Topics in Data Science
+Topic: Faculty Assistance in Data Science
+DSCI-D 591 Graduate Internship
+DSCI-D 592 Data Science in Practice
+DSCI-D 699 Independent Study in Data Science
+ILS-Z 690 Capstone in Information Architecture
+INFO-I 590 Topics in Informatics
+Topic: Luddy Artificial Intelligence Development and Experience Laboratory
+Electives (9 credit hours)
+The remaining nine credit hours are selected from additional data science-related course offerings within the Luddy School of Informatics, Computing, and Engineering. Students may not earn credit for courses taken to fulfill the core or capstone requirements.
+No more than three (3) credit hours of DSCI-D 591 may be earned
+No more than three (3) credit hours of DSCI-D 590, Data Science On-Ramp, may be earned
+Sample degree map
+This sample degree map shows a path a typical student can take after completing the 120 credits required for an undergraduate degree.
+Sample degree map
+Semester
+Elective
+Credits
+Summer
+Elective
+3 Credits
+Fall
+2 Core
+1 Elective
+9 Credits
+Spring
+1 Core
+1 Elective
+Capstone
+9 Credits
+Ready to get started?
+Talk to your advisor as early as possible to make sure you’re on the right path.
+You can apply to the program after you complete 12 credit hours towards a data science major, minor, or specialization.
+Maintain a minimum grade point average of 3.0 in your major and program.
+Apply now
+Bachelor of Science
+Master of Science — Residential
+Master of Science 4+1 — Residential
+Master of Science 4+1 — Online
+Master of Science — Online
+Graduate Certificate — Online
+Dual M.S. in Data Science and Applied Statistics
+Dual M.S. in Data Science and Statistical Science
+Minor in Data Science
+Doctoral Minor

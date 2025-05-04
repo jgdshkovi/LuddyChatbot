@@ -1,0 +1,82 @@
+[Source URL]: https://informatics.indiana.edu/programs/phd-informatics/health-informatics.html
+
+Home
+Programs
+Ph.D. in Informatics
+Health Informatics
+Health Informatics
+Do you want to learn how to use cutting-edge technologies
+to help people better understand, manage, and improve their health? The health informatics track may be for you.
+Through your studies, you will have an impact on the research community and the world by empowering people to manage their health outside of a clinical setting. You might examine:
+Population-based technologies, such as algorithms that use new data sources to better predict the spread of disease
+Patient-facing technologies, such as applications patients can use to manage and improve their own health
+Personalized medicine, which combines biology and chemistry to determine the best treatment for an individual based on their genome and other factors
+Infrastructure technologies, such as computation that preserves privacy or data mining of a large amount of health data
+Learn about related research
+The Health Informatics group designs, develops, and evaluates intelligent learning systems to empower people to better understand, manage, and improve their health.
+Visit the Proactive Health Lab
+Track guide
+Summary
+Students who graduate from the Health Informatics programs in the School of Informatics and Computing at Indiana University understand how to combine cutting edge, innovative technologies with the latest in data
+analytics to design, implement, and evaluate technologies to help people better understand, manage, and improve their health. Students increase their impact in their research community and the world by empowering patients outside of the clinical setting where people live, work, and play.
+The Health Informatics PhD program consists of a rigorous course sequence that introduces students to the fundamentals of design, implementation, data analytics, and evaluation. Students choose between a Design focused or Data-focused degree, selecting electives that fit their interests. Students tailor their degree with an emphasis on a particular health domain.
+Primary track faculty
+James Clawson
+James Clawson’s research interests are in HCI, ubiquitous and wearable computing, and mobile health with a focus on designing and evaluating systems that support patient’s everyday engagement with their health and wellness. His recent work includes two yearlong in-the-wild deployments of mobile health technologies to support breast cancer patients as well as investigating the adoption, use, and abandonment of wearable health tracking technologies.
+Dana Habeeb
+Dana Habeeb is trained as an architect and urban designer. She brings a design perspective to her research in environmental planning and health. She investigates ways to engage and empower individuals to respond to current and future environmental problems by synthesizing research in climate change, public health, and environmental sensing.
+Patrick Shih
+Patrick Shih utilizes mixed methods approaches to tackle research problems in online and geographic communities. Specifically, my current research focuses on leveraging awareness of individual and community activities embedded in sensor technologies, smart devices, social media, and online forums in the design and construction of novel persuasive interfaces and civic engagement platforms that facilitate sustainable motivational and behavioral changes.
+Katie Siek
+Katie Siek’s primary research interests are in human computer interaction, health informatics, and ubiquitous computing. More specifically, she is interested in how sociotechnical interventions affect personal health and well being. Her research is supported by the National Institutes of Health, the Robert Wood Johnson Foundation, and the National Science Foundation including a five-year NSF CAREER award. She has been awarded a CRA-W Borg Early Career Award and a Scottish Informatics and Computer Science Alliance Distinguished Visiting Fellowship.
+Health Informatics program structure
+Required courses
+The incoming PhD students in the Health Informatics track are a single cohort, but their courses will be tailored to their particular interests. There are a total of 90 credits in the Health Informatics PhD track. One recommended sequence for the first year of coursework is shown on the right.
+All courses provided by faculty in the Health Informatics track, including the I609 and I709 Advanced Seminars, are open to and welcome students from other tracks and programs.
+Informatics Core Requirements (6 cr.)
+I501: Introduction to Informatics
+I502: Human-Centered Research Methods in Informatics
+Health Informatics Core Requirements (6 cr.)
+I527: Mobile & Pervasive Design
+I530: Field Deployments
+Seminar Requirements (6 cr.)
+INFO I609 Seminar I in Informatics
+INFO I709 Seminar II in Informatics
+NOTE:
+A student must take I609 and/or I709.
+Research Rotation Requirement (6 cr.)
+INFO I790 Informatics Research Rotation (3 cr.)
+NOTE:
+A student must complete two rotations of I790. A third rotation will not count for course credit.
+Theory and Methodology Requirement (12 cr.)
+NOTE:
+Three courses are required and must be appropriate for a Ph.D. in Informatics.
+Minor (6-15 cr.)
+NOTE:
+A student must complete an internal or external minor approved by the University Graduate School and the School. If a student selects an individualized minor, prior to taking courses, the University Graduate School must approve the proposed minor course list. There is no typical minor; however, students in the Health Informatics track often pursue a minor in Public Health, HCI/d, or Education.
+Electives (12-30 cr.)
+NOTE:
+All electives must be approved by the student’s advisor and the Director of the Informatics Graduate Studies prior to enrolling in the course.
+Thesis Reading and Research (minimum of 21 cr. and a maximum of 30 cr.)
+INFO I890 Thesis Readings and Research.
+Optional courses
+I526 Applied Machine Learning
+I535 Privacy & Security of Health Information
+B.S. in Informatics
+Undergraduate Minors
+Undergraduate Certificates
+4+1 Program
+M.S. Informatics
+M.S. in Human-Computer Interaction
+Accelerated M.S.I.S.
+Ph.D. in Informatics
+Animal Informatics
+Bioinformatics
+Complex Networks and Systems
+Computing, Culture, and Society
+Human-Computer Interaction/Design
+Health Informatics
+Intelligent and Interactive Systems
+Security Informatics
+Virtual Heritage
+Ph.D. Minors

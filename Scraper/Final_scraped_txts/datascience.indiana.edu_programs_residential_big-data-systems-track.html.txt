@@ -1,0 +1,52 @@
+[Source URL]: https://datascience.indiana.edu/programs/residential/big-data-systems-track.html
+
+Home
+Programs
+Master of Science — Residential
+Big Data Systems Track
+Big Data Systems Track
+This track focuses on
+the development/engineering of software systems for collecting/managing/mining massive data. It is most suitable for students with computer science or engineering backgrounds. This track is more hands-on and project-based than other DS tracks. Our Big Data Systems track covers a wide variety of systems from building a backbone data processing system to providing practical yet powerful computing solutions to domain-specific problems, allowing students to obtain a holistic view of the big data applications.
+Data Science Essentials
+If you don’t have a STEM background, consider taking
+Data Science Essentials
+: a self-paced package of online coursework that can help you prepare for the successful completion of the M.S. in Data Science degree.
+Academic background and degree requirements
+Students in this program need a solid foundation in STEM course work, specifically, the following:
+Proficient level of programming experience in C, Java or Python;
+Familiarity with R and MATLAB is useful; and
+Calculus I and II and basic understanding of probability and elements of discrete math.
+Students who do not meet the above prerequisites will be conditionally accepted pending the passing grade for our summer camp, which will cover C, Java, R, Python, a basic understanding of probability, and elements of discrete math.
+Degree requirements
+You’ll be required to take:
+21
+core credits
+9
+elective credits
+A course in data ethics or a major project is highly encouraged, but not required.
+The Big Data Systems track requires a set of core courses that cover: Statistical Methods, AI and Machine Learning, Big Data, Cloud Computing, and Visualization, and Core Engineering. Students may choose electives based on their interests, needs, and career goals. Course electives may include symbolic models of machine learning; high performance computing; elements of artificial intelligence; advanced database concepts; data semantics; data visualization; applied linear models; information architecture for the web; etc.
+Review the full list of your degree requirements
+All data science course requirements are listed in the Luddy academic bulletin. To review your specific requirements, choose the bulletin that represents the year you started, or plan to start, your program.
+If you wish to enroll in a course not listed in the academic bulletin, or outside of the Luddy School of Informatics, Computing, and Engineering, please
+contact us
+to request approval.
+2023–24 bulletin
+2022–23 bulletin
+2021–22 bulletin
+Your tomorrow starts now
+Learn how to apply
+Begin your online application
+Bachelor of Science
+Master of Science — Residential
+Applied Data Science Track
+Big Data Systems Track
+Computational and Analytical Track
+Managerial Data Science Track
+Master of Science 4+1 — Residential
+Master of Science 4+1 — Online
+Master of Science — Online
+Graduate Certificate — Online
+Dual M.S. in Data Science and Applied Statistics
+Dual M.S. in Data Science and Statistical Science
+Minor in Data Science
+Doctoral Minor

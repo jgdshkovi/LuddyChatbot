@@ -1,0 +1,177 @@
+[Source URL]: https://cs.indiana.edu/programs/bs-computer-science/index.html
+
+Home
+Programs
+B.S. in Computer Science
+B.S. in Computer Science
+Bachelor's Degree in Computer Science
+Learn how to tap into the power of computing with our Bachelor of Science (B.S.) in Computer Science. At Luddy, we give you the skills and know-how to address even the world’s most complex problems using technology, from your phone to your future self-driving car.
+Your experience as a computer science major—including challenging class projects, internship and research opportunities, and career-oriented degree concentrations—will prepare you to work in a variety of settings and thrive as technology changes. Our graduates’ skills and versatility are why major tech employers like Amazon and GM hire them, and why their average starting salary is $81,219.
+Career outcomes
+96%
+Employed or in grad school (2023)
+$84,064
+Average starting salary (2023)
+Talk to a recruiter
+Apply now
+Let's stay in touch
+Complete this form to learn more about computer science at IU.
+Luddy Undergraduate Marketing Campaign
+Name
+*
+First
+Last
+Email
+*
+Expected High School Graduation Year
+*
+2025
+2026
+2027
+2028
+2029
+Interested Major
+Any
+Cybersecurity and Global Policy
+Computer Science
+Data Science
+Informatics
+Intelligent Systems Engineering
+UTM Campaign
+UTM Source
+UTM Medium
+UTM Content
+UTM Term
+Stream
+Computer Science career outcomes and salary
+Our graduates report career success in roles like engineer, analyst, developer, consultant, and data scientist. In fact, 92 percent of our graduates move on to employment or graduate school.
+Take advantage of the possibilities of a career in computer science backed by a well-rounded foundational knowledge and targeted expertise in your specific field through Luddy’s B.S. in Computer Science.
+Learn about careers
+Top job titles (of 77 reported titles)
+37
+Engineer (data, ML, platform, production, QA, software, solutions)
+8
+Developer (digital tech, full-stack, Python, software)
+8
+Analyst (consulting, trading, solutions engineering)
+19
+Other (consultant, associate, scientist, manager)
+A sampling of places our alumni land
+Katie Spoon
+B.S. in Computer Science (artificial intelligence specialization), Accelerated M.S. in Computer Science
+Today
+Conceiving and conducting a study that uses neural networks to identify characteristics of dyslexia in children's handwriting, to spur earlier evaluation
+Tomorrow
+Working in corporate research—like her internship analyzing and improving AI hardware accelerators at IBM Research—and later for a tech-oriented nonprofit
+Learn about research opportunities
+Computer Science major specializations
+Build key skills in some of computer science’s most marketable areas by focusing your bachelor’s degree in one of the following eight specializations.
+In addition to specialization areas, Indiana University offers multiple opportunities to diversify your degree with
+minors from Luddy
+or from
+another IU school
+. You can round out your computer science bachelor’s degree with a
+Minor in IT
+or even begin taking graduate courses to concurrently earn an
+accelerated M.S. in computer science
+.
+Software Engineering
+B.S. in Computer Science students specializing in software engineering learn essential and advanced programming techniques for designing, debugging, and more.
+Review details and a sample curriculum for the software engineering specialization.
+Artificial Intelligence
+Focusing in artificial intelligence, computer science majors study various methods of data collection, analysis, and machine learning to develop skills sought by many industries.
+Review details and a sample curriculum for the artificial intelligence specialization.
+Computer Security
+Information assurance is the name of the game for your future employers. Learn how to secure systems and networks with a study focus in computer security.
+Review details and a sample curriculum for the computer security specialization.
+Game Development
+Prepare for a career in game programming and development with this immersive computer science major specialization.
+Review details and a sample curriculum for the game development specialization.
+Data Science
+Master the acquisition, modeling, and storage of data in the context of data analysis and algorithm design by focusing your major in data science.
+Review details and a sample curriculum for the data science specialization.
+Foundations
+Our foundations specialization further enhances your knowledge of the key fundamentals of computer science theory. If you enjoy finding patterns and excel at math, add the foundations specialization to your computer science major.
+Review details and a sample curriculum for the foundations specialization.
+Programming Languages
+Students interested in advanced computer programming should select the programming languages degree specialization.
+Review details and a sample curriculum for the programming languages specialization.
+Systems
+Incorporating courses covering computer hardware and software systems, the computer science systems specialization is great for students interested in building and operating networked systems.
+Review details and a sample curriculum for the systems specialization.
+Computer science may be perfect for you if you like math, science, playing and making games, logical or technical writing, playing music, or—oh yeah—working with computers.
+Student research at Luddy
+Across the Luddy School and Indiana University, students and faculty conduct boundary-pushing research projects in areas that range from bioinformatics and computational biology to security and privacy.
+The
+Undergraduate Research Opportunities in Computing student research program
+is an invaluable way for undergraduate computer science students to receive hands-on research experience while earning their degree. Under the mentorship of experienced faculty or Ph.D. students, you’ll participate in research that is relevant to your industry and opens further career opportunities in computer science.
+Luddy Living Learning Center
+The Luddy Living Learning Center (LLC) is a residential community designed for first-years at IU Bloomington. Along with providing students with unique opportunities for trips and speaker events, the Luddy LLC houses one of
+our makerspaces
+featuring high-tech equipment just for Luddy students.
+Explore the Luddy LLC.
+Student organizations
+From Women in Computing to the Sociotechnical Ethics Society, Luddy School students can join a number of student clubs on campus. For computer science students, check out the
+Programmatik club
+, the
+Computer Science club
+, and the complete list of
+Luddy’s student organizations
+.
+Computer Science degree requirements
+Requirements for the B.S. in Computer Science—including the honors option—are listed in the Luddy academic bulletin. To review the specific requirements for your degree, choose the bulletin that represents the year you entered IU.
+Example Computer Science Course Plan
+Computer Science Requirements 2024-25
+Computer Science Requirements 2023-24
+Computer Science Requirements 2022-23
+Computer Science Requirements 2021-22
+Find Requirements in Earlier Bulletins
+IU computer science related programs
+Explore the extensive offerings of IU’s computer science programs, even if an undergraduate computer science major doesn’t match your career goals.
+Minor in computer science
+Students in other Luddy or IU bachelor’s degree programs can
+minor in computer science
+to pick up programming skills and qualify for further career opportunities.
+Computer Science Master's Program
+Undergraduates in Luddy’s B.S. in Computer Science program can take advantage of the
+Accelerated M.S. in Computer Science program
+or the
+Accelerated M.S. in Secure Computing program
+to graduate with both a B.S. and an M.S. in Computer Science in just five years.
+Explore the
+complete list of computer science master’s degree programs
+offered by Luddy.
+Luddy School advising and student resources
+Whether you’re already a computer science student or you’re undeclared, advisors at the Luddy School of Informatics, Computing, and Engineering can help you understand computer science degree requirements, take advantage of academic opportunities, and personalize your journey to meet your goals.
+Exploratory IU students can learn more by contacting
+Luddy School undergraduate advisors
+.
+Academic resources for current computer science students can be found in the
+student portal
+.
+Talk to your advisor
+Go to our student portal
+IU scholarships and aid
+It’s easy to estimate how much you’ll pay to attend the Luddy School of Informatics, Computing, and Engineering. Through direct-admit scholarships and federal financial aid, you can lower the cost of attending IU for your B.S. in Computer Science.
+Review
+cost and financial aid information, explore scholarship opportunities
+, or calculate
+how much attending IU will cost you
+.
+Earn a B.S. in Computer Science at Indiana University
+Luddy’s Bachelor of Science in Computer Science degree program empowers students to excel in their future careers through unique research opportunities, the power of peer networks, and top-of-the-line instruction in several key areas of computer science.
+For more information about the B.S. in Computer Science, contact the Department of Computer Science.
+Review Luddy admission requirements and learn how to apply.
+Apply to the B.S. in Computer Science at IU Bloomington.
+B.S. in Computer Science
+Specializations
+Minor in Computer Science
+Minor in Information Technology
+Accelerated M.S. in Computer Science
+Accelerated M.S. in Secure Computing
+Graduate Certificate in Cybersecurity
+M.S. in Computer Science
+M.S. in Bioinformatics
+Cybersecurity Master's Program (M.S. in Secure Computing)
+Dual M.S. in Secure Computing and M.A. in Russian and East European Studies
+Ph.D. in Computer Science

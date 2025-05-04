@@ -1,0 +1,126 @@
+[Source URL]: https://kelley.iu.edu/programs/executive-education-degrees-certificates/professional-certificates/space-cybersecurity.html
+
+Free info session April 17
+Protecting space assets starts here—join us on
+April 17 at 3 p.m. ET
+for a free virtual info session to learn about the Space Cybersecurity Digital Badge program at Indiana University. Meet faculty and learn about today’s evolving cybersecurity landscape.
+Register to attend
+Why space cybersecurity?
+Cyberattacks, ranging from hacktivists to organized crime networks and even nation states, are targeting vulnerable networks and are frequently successful in stealing funds as well as valuable intellectual property.
+At the same time, there is a booming demand across both the public and private sectors for practitioners with this training, with more than 700,000 openings nationwide for cybersecurity professionals. There is a particular need for those with an expertise in space cybersecurity given the reliance on space-based infrastructure for everything from weather forecasting and satellite telecommunications to broadband internet.
+Since Russia’s cyberattacks on space-based services
+provided by commercial US space companies during its war on Ukraine, the cybersecurity of space systems has become high on the agenda, spurring discussions at the White House and in Congress, and a
+$700 million budget request by the Space Force
+for this purpose alone. At the same time,
+a fast-growing market has emerged
+, with demand for professionals and firms.
+Participants in the Space Cybersecurity Digital Badge program will gain in-depth understanding of the various cyber threats to space systems as well as techniques, tools, and best practices to address those threats. At the end of the program, participants will have the capability to develop and implement effective strategies for managing cyber risks to space systems.
+Upcoming dates
+Summer 2025:
+May 19 to August 4 (skips Memorial day and July 7) Mondays, 7 to 8 p.m. ET
+Fall 2025:
+September 29 to December 1, Mondays, 7 to 8 p.m. ET
+Price:
+$3,995
+Duration:
+10 weeks
+Delivery:
+Online
+Register
+Showcase your new skills
+Upon completing this program, you will earn a digital badge to showcase your skills on your resume, LinkedIn profile, and other sites as verifiable evidence to your network of the concrete and in-demand skills you gained from participating in this Kelley program.
+“As an active-duty service member, I found this course to be critical in understanding the cybersecurity challenges that we face with our space systems. I gained a deeper understanding of the space-cyber nexus and was able to immediately apply the skills I learned at work.”
+Major Mahesa B. Suprobo
+Cyber Test Project Officer, United States Space Force
+Learning objectives
+After successfully completing this digital badge program, participants will:
+Understand the unique cybersecurity challenges of space systems
+Know the various types of cyber vulnerabilities of space systems
+Be acquainted with the various policies, standards, and best practices for cybersecurity of space systems
+Be prepared to manage the multifaceted cyber threats facing space organizations
+Have a firm introduction to international and US space cybersecurity law and policy
+Realize the contours of important cybersecurity debates, such as cyberattacks as a casus bello (justification for war), and the appropriate role of government in safeguarding space as critical infrastructure
+Understand the technical, supply chain, and geopolitical challenges associated with space cybersecurity
+Develop the confidence necessary to work collaboratively on interdisciplinary space cybersecurity solutions
+Curriculum
+This 10-week program consists of a 60-minute live virtual session and one to two hours of asynchronous work each week. Each course will be independently taught by an expert on the topic coming from the industry, government, military, or nonprofit sector in conjunction with program leads. Topics include:
+Introduction to Space Cybersecurity
+Law and Policy of Space Cybersecurity
+Compliance: Frameworks and Standards
+Designing and Implementing a Mitigation Strategy & Secure by Design
+Threat Identification
+Space Attack Research and Tactic Analysis (SPARTA)
+Verification & Validation (including Risk Analysis)
+Business Continuity, Mission Assurance, and Redundancy
+Space Systems Security & SOC
+Cross-Sector Collaboration on Space Cybersecurity: Government, Military, Industry, Academia
+After successful completion of an assurance of learning (assessment) at the conclusion of the program, participants may earn 3 credit hours toward the 12-credit hour Kelley School of Business
+Cybersecurity Managment Graduate Certificate
+or the 30-credit hour IU
+MS in Cybersecurity Risk Management
+.
+Expectations
+Participants are expected to participate in a 60-minute live virtual session and complete one to two hours of asynchronous work each week. To earn the Space Cybersecurity Digital Badge, participants must attend 80% of the sessions and take either the Space Cybersecurity Quiz or the Space Cyberattack Postmortem and pass with a score of 80% or better.
+To earn academic credit for completing the series, a student must participate in 80% of the sessions and take both the Space Cybersecurity Quiz and the Space Cyberattack Postmortem assignments, passing with a score of 80%.
+Format
+The weekly live virtual sessions will be recorded and made available to participants throughout the program. In addition to the live sessions, supplemental content will be provided in the form of short, targeted weekly readings and supplemental readings and asynchronous discussion forums.
+Alternative ways to earn the badge will be made available upon request to accommodate, for example, professional and personal conflicts. These will include developing a cyberattack postmortem that investigates how an organization responded to a real-world data breach and what they could have done better.
+Meet the instructors
+Courses will be delivered by Professor Scott Shackelford, executive director of the Center for Applied Cybersecurity Research at Indiana University, and Eytan Tepper, PhD, director of the Space Governance Lab at IU Bloomington, as well as guest lecturers from the U.S. Cyber Command, The Aerospace Corporation, commercial space companies, Amazon Aerospace and Satellite professional services, and the Space ISAC.
+Scott J. Shackelford, PhD, JD
+Bio
+Scott J. Shackelford, PhD, JD, is the provost professor of Business Law & Ethics at the Kelley School of Business and the executive director of both the Ostrom Workshop and the Center for Applied Cybersecurity Research. He is also an affiliated scholar at both the Harvard Kennedy School’s Belfer Center for Science and International Affairs and Stanford’s Center for Internet and Society.
+Some of Scott’s many publications include
+Forks in the Digital Road: Key Decisions that Gave Us the Internet We Have
+(Oxford University Press, 2023),
+Cyber Peace: Charting a Path Toward a Sustainable, Stable, and Secure Cyberspace
+(Cambridge University Press, 2022),
+The Internet of Things: What Everyone Needs to Know
+(Oxford University Press, 2020), and
+Managing Cyber Attacks in International Law, Business, and Relations: In Search of Cyber Peace
+(Cambridge University Press, 2014). Scott has written more than 100 articles, book chapters, essays, and op-eds for diverse outlets ranging from the
+University of Illinois Law Review
+and the
+American Business Law Journal
+to the
+Christian Science Monitor
+and HuffPost. His research has been covered by diverse outlets, including Politico, NPR, Forbes,
+Time
+,
+Forensic Magazine
+, Law360,
+Washington Post
+, and the
+L.A. Times
+.
+Both his academic work and teaching have been recognized with numerous awards, including a Harvard University Research Fellowship, a Stanford University Hoover Institution National Fellowship, a Notre Dame Institute for Advanced Study Distinguished Fellowship, the 2014 Indiana University Outstanding Junior Faculty Award, and the 2015 Elinor Ostrom Award.
+Dr. Eytan Tepper
+Bio
+Eytan Tepper, PhD, is a research professor of Space Governance & Security, and director of the Space Governance Lab at IU Bloomington, where he is affiliated with the Ostrom Workshop established by Nobel Laureate Elinor Ostrom. He teaches courses on space governance, space-cyber governance, and space cybersecurity and serves as program director of the new Space Cybersecurity Digital Badge program at Indiana University’s Kelley School of Business.
+Eytan earned his doctorate from the McGill University Institute of Air and Space Law and subsequently pursued a postdoctoral fellowship at the New York University (NYU) School of Law. A renowned expert on space law, governance, and security, he leads research projects on global space governance, the laws of space warfare, space-cyber power, and the commercial space revolution. Eytan’s approach is transdisciplinary, employing cutting-edge literature from international law, international relations, political economy, and strategic studies.
+Eytan has published in journals like the
+Maryland Law Review
+, the
+Georgia Law Review
+,
+NYU Journal of International Law and Politics
+,
+Constitutional Political Economy
+,
+Global Studies Quarterly
+, the
+Annals of Air and Space Law
+,
+Georgetown Journal of International Affairs
+,
+Journal of Space Law
+,
+Space Policy
+, and
+New Space
+journal. In addition, he has presented his work in key venues in academia and beyond, including Harvard, Yale, Cambridge, the American Society of International Law, the Academy of Legal Studies in Business, the International Astronautical Congress (IAC), the International Civil Aviation Organization (ICAO), IEEE, DEFCON, and the UN Committee on the Peaceful Uses of Outer Space.
+Prior to returning to academia, he was a practicing lawyer with a career spanning the public and private sectors, representing government ministries and Fortune 500 companies.
+Questions? We're here to help.
+Email us at
+kelleypd@iu.edu
+with any questions you may have, and a member of our team will be happy to assist you.

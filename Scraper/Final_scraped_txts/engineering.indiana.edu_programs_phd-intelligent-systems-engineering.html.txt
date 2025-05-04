@@ -1,0 +1,88 @@
+[Source URL]: https://engineering.indiana.edu/programs/phd-intelligent-systems-engineering.html
+
+Home
+Programs
+Ph.D. in Intelligent Systems Engineering
+Ph.D. in Intelligent Systems Engineering
+Advance the evolution of engineering
+Intelligent systems are revolutionizing engineering. In our Ph.D. in Intelligent Systems Engineering (ISE) program, you will learn to use artificial intelligence, embedded computing components, and sophisticated data interpretation in preparation for a
+career
+in industry, government research labs, or academia.
+Our future-focused program emphasizes:
+Hands-on designing, building, and simulating of systems
+Smaller-scale, often mobile, often personal/consumer technologies and devices
+Modern information technology approaches including big data, computational modeling, and user interface design
+Use of the vast technological resources at Indiana University, a top research university
+Intelligent Systems Engineering Handbook
+How to apply
+Learn about the application deadline and what to submit with your application.
+Cost
+See what a Luddy education costs and learn about the cost of living in Bloomington.
+Funding
+We strive to provide financial support to all Ph.D. students during their academic careers.
+The premier faculty in ISE
+You will learn from and conduct research with faculty members who are leading experts in areas such as:
+Embedded systems
+The internet of things
+Cloud computing
+Developmental and computational toxicology
+Medical imaging and brain mapping
+Fiber devices
+Machine learning
+Cancer modeling
+Meet our faculty
+Learn about our research
+Program of study
+Our multidisciplinary curriculum includes:
+Courses and seminars in core ISE topics, methodology and theory, and your chosen ISE track
+Electives in related disciplines in and outside the school, leading to a Ph.D. minor
+A qualifying exam
+A dissertation, including a proposal and a defense
+Choose a track
+Select one of the following six tracks, or choose a general major of intelligent systems.
+Bioengineering
+This broad field combines scientific knowledge in the life sciences, computing, and engineering practices to solve problems spanning biology, medicine, environmental remediation, and more. Bioengineering builds on existing IU Bloomington strengths to train the next generation of computing-driven bioengineers.
+Computer engineering
+Computer engineering includes everything from building more efficient networks to making computer hardware smaller and faster to creating software that will better use the resources at its disposal. Within CE, students can mix and match courses to tailor the program toward building big data or deep learning analysis systems, creating high performance computing systems, or engineering specialized computing devices.
+Cyber-physical systems
+This field focuses on systems that interact with the physical world. CPS encompasses the entire system—including high-level software—and it often emphasizes small or embedded devices. This includes robotics and sensor-rich environments such as smart homes, smart cars, and smart cities. In all of these cases, the intelligence comes from computing devices.
+Environmental engineering
+Environmental engineers use the principles of biology, chemistry, engineering, and technology to solve problems facing the environment. Studying climate change, tackling pollutants, predicting environmental outcomes, developing drones to measure 3D concentration gradients and fluxes, and studying applied microbiology and aquatic chemistry are just some of the ways you can make an impact on a global scale in this exciting field.
+Molecular and nanoscale engineering
+Molecular and nanoscale engineering integrates concepts from electrical and materials engineering with nanoscience to prepare students to work with cyber-physical systems or other responsive, intelligent systems that include nanoscale building blocks. Modeling and simulation of nanostructured assemblies, functional nanoparticles, and soft nanosystems are integral parts of this emerging field. Students are trained in both experimental and computational aspects of nanoengineering, and can pursue their interest in sensing technologies, energy devices, nanomedicine, materials discovery, and other areas of study.
+Neuroengineering
+Neuroengineering studies, enhances, monitors, heals, and replicates the nervous system. Neuroengineers have the unique opportunity to link theories of the mind to applications that can build intelligent machines and software. Advances in this field will bring about repairs for damaged nervous systems, new devices to read brain function, and smart machines to accomplish tasks. Microscale devices that couple nervous systems with physical systems also can lead to new cognitive development as well as computations that form the basis of memory systems.
+Complete a minor
+Broaden your education with a minor from the Luddy School of Informatics, Computing, and Engineering or another IU Bloomington school. Other options include an internal minor of ISE credits (it must be different from your track) or an individualized interdisciplinary minor.
+Learn about
+Ph.D. minors offered by Luddy
+. To learn about minors outside the Luddy School of Informatics, Computing, and Engineering, visit the websites of IU Bloomington’s other
+colleges and schools
+.
+We offer five Ph.D. minors in ISE: bioengineering, computer engineering, cyber-physical systems, molecular and nanoscale engineering, and neuroengineering.
+International students
+Many students and faculty in ISE and throughout Indiana University come from other countries. The university, our department, and the Luddy School of Informatics, Computing, and Engineering offer many types of support for you and a global community that we hope you will join.
+Learn about international student support
+Learn about off-campus employment
+Review your degree requirements
+Degree requirements for the Ph.D. in Intelligent Systems Engineering are listed in the University Graduate School academic bulletin. Requirements for the ISE Ph.D. minors are listed beginning with the 2018–19 bulletin. To review your specific requirements, choose the bulletin that represents the year you started, or plan to start, your program.
+2024-25 bulletin
+2023-24 bulletin
+2022-23 bulletin
+Current student resources
+Student portal
+Handbooks, forms, and more helpful resources.
+Courses
+See what courses we are offering and when.
+Advising
+Before you have a faculty advisor and form your Advisory Committee, you can get guidance and assistance from the Luddy Graduate Studies Office (
+gradvise@indiana.edu
+). Later you can contact your faculty advisor, Advisory Committee, or Research Committee. We also recommend regularly consulting the timeline in the Ph.D. student handbook.
+Take the next step
+Learn about funding
+Visit us
+Apply now
+B.S. in Intelligent Systems Engineering
+Accelerated M.S. in Intelligent Systems Engineering
+M.S. in Intelligent Systems Engineering
+Ph.D. in Intelligent Systems Engineering

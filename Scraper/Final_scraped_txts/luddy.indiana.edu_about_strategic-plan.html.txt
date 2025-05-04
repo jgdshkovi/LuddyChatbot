@@ -1,0 +1,173 @@
+[Source URL]: https://luddy.indiana.edu/about/strategic-plan.html
+
+Home
+Luddy Strategic Plan
+Luddy Strategic Plan
+Luddy Strategic Plan 2024-2030
+Seizing Our Opportunity
+History of the Luddy School
+Dean's Message
+Vision, Mission, and Values
+Strategic Planning Process
+Strategic Focus Areas
+Student Success and Opportunity
+Transformative Research and Creativity
+Service to Our State and Beyond
+School Culture and Operations
+Acknowledgement
+Luddy by the numbers
+Bloomington
+Faculty: 157
+Staff: 111
+Students: 3,813
+Indianapolis
+Faculty: 50
+Staff: 58
+Students: 1,951
+Combined Total
+Faculty: 207
+Staff: 169
+Students: 5,764
+History of the Luddy School
+The IU School of Informatics, founded in 2000, was the first of its kind in the United States. Today, as the IU Luddy School of Informatics, Computing, and Engineering, it continues to be completely unique in composition, intellectual breadth, and mission. With a twenty-first century sensibility, the Luddy School integrates computing, social science, and information systems design in unique ways.
+There is no other school like the Luddy School: we are innovative, interdisciplinary, and multicampus.
+Luddy is a core school at Indiana University, meaning it is a single school in two locations: Bloomington and Indianapolis. The Bloomington campus houses departments of Informatics, Computer Science (founded in 1971 at IU and moved to Luddy in 2005), Information and Library Science (founded at IU in 1951 and moved to Luddy in 2013), and Intelligent Systems Engineering (founded in 2016). The Indianapolis campus houses departments of BioHealth Informatics (founded in 2013), Human-Centered Computing (founded in 2013), Library and Information Science (founded in 1964 and moved to Luddy in 2013), as well as the Polis Center (founded in 1989 and moved to Luddy in 2020).
+Indiana University is currently going through major changes, with promises to double research expenditures and grow the faculty by 100 in Bloomington alone. Luddy will be at the center of these changes. With the dissolution of IUPUI, Luddy at Indy will absorb the demand for information, computing, and engineering degrees. A new department of Computer Science was founded this year (2023), and we are making plans to expand the scope of our other departments into new areas.
+The time has never been better, because the opportunity has never been greater.
+By aligning our strategic priorities and moving in a shared direction, we can become an even greater force for socially responsible technical innovation. We can inspire and equip the next generation and make Luddy the place known for having the brightest minds and boldest ideas in STEM.
+Dean’s Message
+The world is moving incredibly fast. We all know this, but few truly comprehend the magnitude and speed. New challenges and opportunities continually emerge. We pursue technical excellence for positive societal impact and embrace our task to strengthen and expand our core school identity. From advances in Artificial Intelligence to new prospects in microelectronics, biomedical, and health engineering, we unite diverse intellectual traditions to deliver technical excellence that impacts society in massive, meaningful ways.
+When you look around Luddy, it’s hard not to be humbled by what you’ll find.
+There is no school like ours. It is home to historians and archivists, social scientists and cognitive psychologists—people driven to make the world better and smarter than they found it. We are trailblazers in emerging media, driving greater equity and stronger ethics for public news and information. We design cutting-edge technologies, including apps, robots and devices that change lives and make everyday life better. And unlike others, we don’t stop at hardware and software. We advance the quality and integrity of data and information because we understand technologies are only as powerful and purposeful as what’s underneath.
+Our uniquely multidisciplinary nature and twenty-first century sensibility gives us the upper hand
+as we inspire a new and more comprehensive approach of teaching and researching. Together— as humanists, historians, social scientists, engineers, and computer scientists—we’re redefining technology and innovation by keeping humanity firmly at the center of everything we do.
+But the big question is always, “Where to next?” The answer is in this strategic plan.
+We look forward to putting this plan into action and making the Luddy School a remarkable thought leader for society-centered scientific and technological innovation. There are incredible opportunities waiting to be seized and more impact waiting to be made.
+Let’s make that impact together.
+Joanna Millunchick
+Dean and Professor of Intelligent Systems Engineering
+Luddy School of Informatics, Computing, and Engineering
+Mission, Vision, and Values
+Our mission
+Across a broad range of applications, we unite the full breadth of computing, information science, and technology to lead education and research forward, and enhance the well-being of humanity.
+Our vision
+To be an unstoppable force for society-centered scientific and technological innovation.
+Our values
+The following fundamental principles guide our actions as we pursue technical excellence for positive societal impact:
+Society-centered science and technology
+We keep humanity firmly at the center of our approach and understand the human benefits and consequences of our work.
+Thought leadership
+We strive to become national thought leaders and advance the thinking and understanding of our disciplines.
+Excellence and integrity
+We hold ourselves to the highest standards of scholarly principles and distinction.
+Belongingness
+We proactively address barriers to create meaningful experiences and foster systems where everyone has an equal opportunity for success.
+Teamwork and transparency
+We enhance collaboration knowing that our whole is more impactful than its parts.
+Stakeholder Engagements
+12
+departmental focus groups convened
+392
+IU students and alumni surveyed for insights
+258
+students and alumni from peer institutions across the country surveyed
+53
+industry partners and community-based organizations involved
+Strategic Planning Process
+The plan is organized around four strategic areas, which align to and support the
+overall vision and mission of Indiana University. These include student success and opportunity, transformative research and creativity, service to our state and beyond, and school culture and operations. Each strategic area outlines a set of strategies and initiatives to be used to achieve success, all of which will be measured using relevant direct, indirect, quantitative, and qualitative measures. The strategic plan is intended to be dynamic, with continuous reflection and refinement based on our learnings, progress, and the ever-changing landscape of our fields.
+Beginnings
+In keeping with our values of teamwork and transparency, the strategic planning process was designed to receive as much input as possible. The process to create the strategic plan began in early 2023, following the appointment of Dean Joanna Millunchick and coinciding with the release of the Indiana University 2030 strategic plan in which the Luddy School of Informatics, Computing, and Engineering stands to play a key role. To help guide the process and inform critical planning decisions, a 16-member steering committee was formed, comprising representation from both Bloomington and Indianapolis campuses and a variety of departments within the school.
+Phases
+The process was completed in two phases, the first of which included a comprehensive review and analysis of the school’s strengths, gaps, and opportunities across the pillars of education, research, and service. In this phase, leaders and steering committee members reviewed background context; examined critical data and insights regarding Luddy’s programs, research activities, and service contributions; and engaged important internal and external stakeholders to share their perspective for the needs and opportunities of the school. Through this work, Luddy engaged more than 800 individuals, including university leadership from both campuses, faculty and staff, current and past students, peer institutions, industry partners, and community-based organizations through live and online mediums.
+Outcomes and Foci
+A collection of cross-cutting themes emerged from these efforts. The themes were then used by Luddy leadership and committee members to craft a five-year plan to guide Luddy’s continued leadership in the fields of informatics, computing, and engineering. Once created, the plan was shared with additional stakeholders, including university leadership and Luddy faculty and staff, for input before publication of the final version.
+Strategic Focus Areas
+Consistent with the IU 2030 plan, Luddy's strategic plan establishes four foundational pillars to guide the school's direction and the many contributions of Luddy faculty and staff:
+Student success and opportunity
+Luddy commits to setting the gold standard in teaching and learning. We embrace a culture of technical excellence and will continuously improve our teaching to meet the evolving needs of society. We will provide a diverse student population with opportunities to apply their knowledge to real-world challenges and ensure every student’s success is our success.
+Transformative research and creativity
+Luddy will pursue innovative and transformative research and creative activity as a crucial societal and economic outcome of academic excellence. We will draw upon and integrate the strengths of our unique array of socio-technical disciplines to propel societal goals.
+Service to our state and beyond
+Luddy will leverage its expertise and capabilities to serve communities across our state, improving the lives of Hoosiers, strengthening cultural and economic vitality, and pursuing innovation and knowledge that improve the human condition.
+School culture and operations
+Luddy will strengthen the ways we work and collaborate with one another, as well as the underlying systems and structures that support us, to ensure the conditions for our success.
+1
+Student Success and Opportunity
+Luddy commits to setting the gold standard in teaching and learning. We embrace a culture of technical excellence and will continuously improve our teaching to meet the evolving needs of society.
+We will provide students with opportunities to apply their knowledge to real-world challenges and ensure that every student’s success is our success.
+Goals and Strategies
+Set the standard in teaching and learning.
+Drive continuous curricular improvements to ensure Luddy courses and programs are relevant and reflective of the most current research, practices, and societal needs.
+Foster a culture of excellence in teaching through expanded professional development, recognition, and communities of practice.
+Strengthen instructional delivery by increasing the use of scholarly teaching and evidence-based teaching practices within Luddy classrooms.
+Establish equitable and evidence-based evaluation of instructional effectiveness and link to continuous improvement efforts.
+Recruit and prepare students to succeed and become leaders in their field.
+Significantly grow Luddy’s student pipeline through enhanced marketing, outreach, and recruitment efforts.
+Proactively address barriers to student access, participation, and success in Luddy programs including through the introduction of new on-ramps, offerings, and pedagogies.
+Create and implement a signature Luddy student experience.
+Expand opportunities for Luddy students to apply classroom learnings to real-world problems.
+Improve systems and practices for tracking and promoting the success of all students.
+Build and support a variety of perspectives within Luddy.
+Build interest in Luddy programs and careers among students from different backgrounds through innovative partnerships and outreach efforts.
+Strengthen recruitment and scholarship offerings to ensure a well-rounded student population.
+Deepen student engagement and belonging within the Luddy community to  enhance student success, professional development, and long-term connection.
+2
+Transformative Research and Creativity
+Luddy will pursue innovative and transformative research and creative activity as
+a crucial societal and economic outcome of academic excellence. We will draw upon and integrate the strengths of our unique array of socio-technical disciplines to propel societal goals.
+Goals and Strategies
+Amplify Luddy's current areas of excellence with a prioritized focus on those that emphasize socio-technical advancement.
+Build awareness for Luddy research programs and the accomplishments of faculty, staff, and students.
+Recruit, foster, and retain outstanding research talent in support of Luddy priorities and IU’s Faculty 100 effort.
+Diversify and grow extramural funding across all areas of excellence.
+Encourage research and creative activity that yields disclosure and licensing of inventions, and expanded partnerships with industry, academic peers, and other key constituencies.
+Deepen community-engaged research in direct collaboration with Hoosier communities.
+Invest in the development of new strategic growth areas.
+Build out new areas of research focused on emerging areas of need, such as microelectronics, robotics, health, and medical engineering and informatics, artificial intelligence, information-based engineering, and society.
+Recruit and develop outstanding research talent in new areas of strategic growth.
+Establish a supportive growth environment, including funding and project management supports.
+Develop mechanisms for identifying new areas in which to invest.
+Strengthen the research support infrastructure to increase productivity and build cross-unit collaboration.
+Align and strengthen administrative resources and processes.
+Proactively address barriers that hinder productivity and collaboration.
+Reward and recognize high performance in a variety of research and creative contexts.
+3
+Service to Our State and Beyond
+Luddy will leverage its expertise and capabilities to serve communities across our state, improving the lives of Hoosiers, strengthening cultural and economic vitality, and pursuing innovation and knowledge that improve the human condition.
+Goals and Strategies
+Serve as a thought leader in fostering technical excellence for societal impact.
+Build recognition as the leading experts in socio-technical topics.
+Scale the reach and impact of Luddy’s areas of excellence to positively impact our community.
+Create opportunities for students, faculty, and staff to share their knowledge and expertise.
+Expand opportunities for students to apply their knowledge and skills within a real-world context through Luddy ALIGN and other programs.
+Support faculty and staff in bringing the world into the classroom and laboratory.
+Advance efforts for faculty, staff and students to innovate, incubate, and accelerate small business enterprises and nonprofits.
+Strengthen Indiana’s future P-12 STEM pipeline.
+Serve as a leading partner to P-12 educators through support for high school pathways, continued leadership to supply P-12 educators, and support for advanced teacher-education programs.
+Build streamlined opportunities at Luddy for talented graduates of our P-12 pipeline.
+4
+School Culture and Operations
+Luddy will strengthen the ways we work and collaborate with one another, as well as the underlying systems and structures that support us, to ensure the conditions for our success.
+Goals and Strategies
+Develop a signature Luddy culture.
+Strengthen internal engagement efforts among faculty, staff, students, and alumni to build school pride, unity, respect, and belonging.
+Enhance school-wide communication processes, ensuring faculty, staff, and students are empowered with the information and resources to be successful.
+Establish formalized reward and recognition structures to reinforce Luddy culture and values.
+Encourage integration across Luddy’s education, research, and service work.
+Promote a range of perspectives and continuous development.
+Recruit, retain, and develop faculty and staff through fair and effective practices.
+Ensure all perspectives are embraced in our community as essential to our school’s core values and guiding principles.
+Establish formalized onboarding and professional development pathways to foster faculty and staff development and growth at all stages and ranks.
+Institute incentives and rewards to encourage sustained contributions to our mission, leadership in our school and beyond, and embodiment of our values.
+Strengthen internal systems and capabilities.
+Enhance internal processes and operations to foster transparency and equity.
+Improve data access and quality to support performance and continuous improvement.
+Invest in resources such as core technology, operations systems, space, and personnel to support growth in research and teaching.
+The time has never been
+better
+because the opportunity has never been
+greater
+.
+Acknowledgement
+The IU Luddy School of Informatics, Computing and Engineering is grateful for the many individuals who invested time, insight, and energy into the development of this strategic plan. Our sincerest thanks goes to each member of our student body, staff, faculty, and alumni who have contributed to the plan, and especially to those on our Steering Committee for their considerable role in this endeavor.

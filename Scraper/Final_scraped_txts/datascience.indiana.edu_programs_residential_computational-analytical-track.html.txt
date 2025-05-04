@@ -1,0 +1,67 @@
+[Source URL]: https://datascience.indiana.edu/programs/residential/computational-analytical-track.html
+
+Home
+Programs
+Master of Science — Residential
+Computational and Analytical Track
+Computational and Analytical Track
+Take your skills to the next level
+The Computational and Analytical track offers training in both data science methods and their application in different domains. Students with a strong computer science background who wish to dive deeper into the mechanics of data science methodologies may wish to pursue a more rigorous curriculum. If you’ve got a strong STEM background and are ready to advance your career as a data specialist, the residential M.S. in Data Science computational and analytical track is for you.
+Our expert
+faculty
+will guide you through the mechanics of data science tactics and methodologies, placing strong emphasis on technological theory, engineering, and statistics.
+Academic background
+To enroll in this track, special prerequisites apply. Your test scores and transcripts must show that you’ve earned the following:
+Optional GRE score (quantitative) of 160 or higher
+A grade of B or higher in college calculus I and II
+A grade of B or higher in a college-level algorithms or data structure course
+A grade of B or higher in two college-level programming courses
+Degree requirements
+You’ll be required to take:
+15
+core credits
+15
+electives
+Though the capstone project is optional, many students choose to pursue it to bolster their resume and gain additional career-focused experience.
+Build a curriculum that works for you
+Of all our program options, this track offers the greatest flexibility.
+While your core requirements focus on the foundations of data science (data systems, algorithms, data analytics, and big data infrastructure), a broad range of
+elective courses
+will allow you to customize your degree based on your career goals.
+Course electives include topics such as:
+Symbolic models of machine learning
+High performance computing
+Elements of artificial intelligence
+Advanced database concepts
+Data semantics
+Data visualization
+Applied linear models
+Information architecture for the web
+Review the full list of your degree requirements
+All data science course requirements are listed in the Luddy academic bulletin. To review your specific requirements, choose the bulletin that represents the year you started, or plan to start, your program.
+If you wish to enroll in a course not listed in the academic bulletin, or outside of the Luddy School of Informatics, Computing, and Engineering, please
+contact us
+to request approval.
+2024–25 bulletin
+2023–24 bulletin
+2023–24 MS in Data Science and 4 + 1 bulletin
+2023–24 MS Data Science-Online and 4+1 bulletin
+2022-23 bulletin
+2021–22 bulletin
+Your tomorrow starts now
+Learn how to apply
+Begin your online application
+Bachelor of Science
+Master of Science — Residential
+Applied Data Science Track
+Big Data Systems Track
+Computational and Analytical Track
+Managerial Data Science Track
+Master of Science 4+1 — Residential
+Master of Science 4+1 — Online
+Master of Science — Online
+Graduate Certificate — Online
+Dual M.S. in Data Science and Applied Statistics
+Dual M.S. in Data Science and Statistical Science
+Minor in Data Science
+Doctoral Minor

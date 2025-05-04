@@ -1,0 +1,166 @@
+[Source URL]: https://datascience.indiana.edu/programs/ms-data-science-applied-statistics/index.html
+
+Home
+Programs
+Dual M.S. in Data Science and Applied Statistics
+Dual M.S. in Data Science and Applied Statistics
+Combine statistical science with data science
+This dual degree program awards an M.S. in Statistical Science and an M.S. in Data science. It is recommended for students who have a background in statistics and also want to acquire deep computational skills.
+You’ll earn two degrees in fewer credit hours and less time than it would take to earn them separately.
+Let's stay in touch!
+We want to hear from you! The Luddy School is here to answer any questions you may have, and we’re more than happy to guide you down your path to tomorrow.
+Request more information
+Program overview
+How it works
+You need to apply and be admitted by both the data science and statistics admission committees.
+Combining the degrees means you can graduate with 52 credit hours, instead of the 61 credit hours it would take to earn the degrees separately.
+Academic requirements
+Students need to fulfill the following requirements.
+Data Mining and Search
+(3 credits)
+CSCI-B 551 :
+Elements of Artificial Intelligence
+CSCI-B 555 :
+Machine Learning
+CSCI-B 565 :
+Data Mining
+CSCI-P 556 : Applied Machine Learning
+ENGR-E 511 : Machine Learning for Signal Processing
+ILS-Z 534 : Search
+INFO-I 606 : Network Science
+Data Management and Engineering
+(3 credits)
+CSCI-B 561 :
+Advanced Database Concepts
+ENGR-E 516 : Engineering Cloud Computing
+INFO-I 535 : Management, Access, and Use of Big and Complex Data
+DSCI-D 532 : Applied Database Technologies
+Data Visualization and Storytelling
+(3 credits)
+ENGR-E 583 : Information Visualization
+ENGR-E 584 : Scientific Visualization
+INFO-I 590 : Data Visualization
+Graduate level Luddy courses
+(18 credits)
+No more than 12 credits from STAT courses
+At most 3 credits of DSCI-D 590 Data Science On-Ramp
+All 4 of the following courses
+(13 credits)
+STAT-S 520 : Introduction to Statistics or a more advanced course on statistical theory approved by the DGS
+STAT-S 631 :
+Applied Linear Models I
+STAT-S 632 :
+Applied Linear Models II
+STAT-S 690 :
+Statistical Consulting
+One of the following courses
+(3 credits)
+STAT-S 610 :
+Introduction to Statistical Computing
+STAT-S 611 :
+Applied Statistical Computing
+STAT-S 612 :
+Reproducible Results and the Workflow of Data Analysis
+Any STAT graduate level course
+(3 credits)
+6 credits of one the following domains
+Augmented and Virtual Reality
+INFO-I 590 : Topics in Informatics
+Artificial Life in Virtual Reality
+Building Virtual Worlds
+Creating Virtual Assets
+Introduction to Virtual Reality
+Data Security and Privacy
+INFO-I 520 : Security for Networked Systems
+INFO-I 525 : Organizational Informatics and Economic Security
+INFO-I 533 : Systems and Protocol Security and Information Assurance
+INFO-I 538 :
+Introduction to Cryptography
+Economic Data Analytics
+ECON-M 504
+ECON-M 511
+ECON-M 514
+ECON-M 518
+ECON-M 524
+Health and Biomedical Data Science
+INFO-I 507
+INFO-I 519 : Introduction to Bioinformatics
+INFO-I 529 : Machine Learning Bioinformatics
+Human Robotic Interation
+CSCI-B 657 : Computer Vision
+ENGR-E 599 : Autonomous Robotics
+INFO-I 513 :
+Usable Artificial Intelligence
+INFO-I 527
+INFO-I 540
+INFO-I 542
+Social Data Science
+ENGR-E 583 : Information Visualization (may be counted only once)
+ILS-Z 639 : Social Media Mining
+INFO-I 513 : Usable Artificial Intelligence
+INFO-I 590 : Data Visualization (may be counted only once)
+INFO-I 606 : Network Science (may be counted only once)
+Degree maps
+Below are several sample degree paths students could take.
+Typical degree map
+This is the typical degree map students would follow for the dual degree.
+Example only
+Year
+Fall
+Spring
+First
+STAT S520 Introduction to Statistics
+DS DME Requirement
+DS Domain 1
+STAT S670 Exploratory Data Analysis
+DS DMS Requirement
+DS Domain 2
+Second
+STAT S631 Applied Linear Models
+DS DVS Requirement
+DS Elective
+STAT S632 Applied Linear Models II
+DS Elective
+DS or STAT Elective
+Third
+STAT S610 Introduction to Statistical Computing
+STAT S690 Statistical Consulting
+DS or STAT Elective
+DS or STAT Elective
+DS or STAT Elective
+Adding applied statistics later
+This degree map is for students who start in the data science program and later decide to add on the applied statistics M.S.
+Example only
+Year
+Fall
+Spring
+First
+DS DME Requirement
+DS DVS Requirement
+DS Elective
+DS DMS Requirement
+DS Domain 1
+DS Elective
+Second
+STAT S631 Applied Linear Models
+STAT S520 Introduction to Statistics
+DS Domain 2
+STAT S632 Applied Linear Models II
+STAT S670 Exploratory Data Analysis
+DS or STAT Elective
+Third
+STAT S610 Introduction to Statistical Computing
+STAT S690 Statistical Consulting
+DS or STAT Elective
+DS or STAT Elective
+DS or STAT Elective
+Bachelor of Science
+Master of Science — Residential
+Master of Science 4+1 — Residential
+Master of Science 4+1 — Online
+Master of Science — Online
+Graduate Certificate — Online
+Dual M.S. in Data Science and Applied Statistics
+Dual M.S. in Data Science and Statistical Science
+Minor in Data Science
+Doctoral Minor

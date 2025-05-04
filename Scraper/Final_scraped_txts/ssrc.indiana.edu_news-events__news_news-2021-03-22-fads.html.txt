@@ -1,0 +1,19 @@
+[Source URL]: https://ssrc.indiana.edu/news-events/_news/news-2021-03-22-fads.html
+
+Home
+News & Events
+News
+Faculty Assistance in Data Science (FADS)
+Announcing the Faculty Assistance in Data Science (FADS) internal funding opportunity
+Friday, March 19, 2021
+The Program for
+Faculty Assistance in Data Science
+(FADS) is designed to provide access to expertise and assistance in advanced data analytics, visualization, and development for the purpose of catalyzing faculty research. This program pairs faculty from across the campus in any discipline with graduate students pursuing a M.S. in Data Science (MSDS) through the Luddy School of Informatics for summer or semester research internships. These paid internships cover up to 100 hours of student effort on a faculty research project, and are sponsored by OVPR and the University Graduate School. Internships will be awarded to students on a competitive basis, and carefully matched to faculty projects using demonstrated competencies and interest in a given analytic area. Preference will be given to projects that provide valuable learning experiences for the MSDS students, those which enable promising new or expanded research directions for the investigator, and those which are unlikely to be successful without this program.
+Data science assistance is available in data visualization, database development and management, machine learning, natural language processing, network analysis, cloud and high-performance computing, data mining, and web and app development.
+See a full list of available student competencies here
+.
+Apply through InfoReady
+News & Archives
+Upcoming SSRC Events
+Campus Social Science Events
+Subscribe to SSRC Email Lists

@@ -1,0 +1,41 @@
+[Source URL]: https://www.trustedci.org/
+
+October 3, 2024:
+Cybersecurity Center of Excellence Receives Five-Year, $6M/Year Award From NSF
+Help us pick the location of our Regional Summit next year.
+Take our survey
+.
+Mark Your Calendars
+April 4th through the 6th, Trusted CI will be at the
+Emerging Researchers National Conference in STEM
+. Come visit us at Booth #40!
+Trusted CI
+webinar
+: 4th Monday of the month at 11am Eastern time
+April 28th: Discover and defend cyber vulnerabilities of deep learning medical diagnosis models to adversarial attacks, Shandong Wu (
+Award #2115082
+) (Registration coming soon)
+RRCoP webinar
+: 2nd Wednesday of the month at 2pm Eastern time
+MS-CC Cybersecurity Community of Practice
+: 2nd Tuesday of the month at 2pm Eastern time
+Protecting NSF cyberinfrastructure (CI) since 2012
+The mission of
+Trusted CI
+is to enable trustworthy NSF science by partnering with cyberinfrastructure (CI) operators to build and maintain effective cybersecurity programs, publishing resources that are valuable to the broader NSF community, and supporting the processes, tools, and knowledge to secure NSF research progress.
+Are you an NSF project in need of cybersecurity help?
+Contact us
+Trusted CI Spotlight: Ransomware
+Ransomware poses an increasing risk to researchers and the higher education community. Trusted CI, the NSF Cybersecurity Center of Excellence, has a decade of experience in solving the unique cybersecurity challenges faced by the research community. Trusted CI can help you secure your cyberinfrastructure while also considering higher education’s open and collaborative nature, its unique use of instruments, and its large and complex data sets.
+Learn more about
+ransomware
+.
+Adopting the Trusted CI Framework
+Are you a large organization formed from smaller programs and need to unify your cybersecurity strategy? Do you have cybersecurity controls in place but lack a systemic approach to a secure cyberinfrastructure? Trusted CI had you in mind when it developed a framework to help research organizations approach cybersecurity from a mission-oriented, programmatic, and full lifecycle perspective. Trusted CI helps you identify your security needs and develop a plan to achieve solutions.
+Learn more about the
+Trusted CI Framework
+.
+Join the discussion
+Subscribe to
+our email lists
+to stay up to date with the community.

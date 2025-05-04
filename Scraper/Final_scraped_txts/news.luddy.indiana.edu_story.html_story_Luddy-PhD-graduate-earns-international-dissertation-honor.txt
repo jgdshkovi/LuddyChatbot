@@ -1,0 +1,81 @@
+[Source URL]: https://news.luddy.indiana.edu/story.html?story=Luddy-PhD-graduate-earns-international-dissertation-honor
+
+Home
+News
+Ph.D. dissertations earn Luddy students top honors
+Impressive Ph.D. dissertations from Luddy School students Yue Xiao and Kaicheng Yang earned them the highest honor for research that Indiana University bestows upon its graduate students.” “
+Jul 2, 2024
+Hub icon
+Twitter
+Facebook
+Luddy School of Informatics, Computing, and Engineering’s
+Yue Xiao
+and
+Kaicheng Yang
+finished first and second in the mathematics, physical sciences, and engineering category among Indiana University Ph.D. Dissertation Award submissions.
+Xiao, who completed her Ph.D. in Computer Science and now works as a research scientist at IBM Thomas J Watson Research Center in New York, won for her dissertation,
+“Fulfilling Privacy and Security Compliance in Software Supply Chain.”
+Yang, a postdoctoral researcher at Northeastern University after earning a Ph.D. in Informatics, was runner-up for his dissertation
+,
+“Social Media Bots: Detection, Characterization, and Human Perception.”
+Committee members considered dissertations over the past two years.
+The first-place award includes a stipend of $5,000.
+David Daleke,
+dean of the IU Bloomington graduate school and vice provost for graduate education and health sciences, said in the notification letter to Xiao that “This is the highest honor for research that Indiana University bestows upon its graduate students.”
+Xiao’s dissertation has been nominated for the
+2024 Council of Graduate Schools ProQuest Distinguished Dissertation Award
+in the Mathematics, Physical Sciences, and Engineering category.
+The Council of Graduate Schools is the U.S. national organization dedicated solely to the advancement of graduate education and research.
+“This is truly a remarkable achievement,” said
+Apu Kapadia
+, associate dean for graduate studies, professor of Computer Science
+“So proud of our Luddy students,” added
+Filippo Menczer
+, Luddy Distinguished Professor of Informatics and Computer Science.
+Xiao’s dissertation addressed the critical issue of privacy compliance in the mobile supply chain, and focused on the integration of third-party libraries (TPLs) that often introduce significant privacy and security risks. It presented a comprehensive analysis of privacy compliance mechanisms governed by various regulations, laws, and industry standards.
+It centered on the development and implementation of four innovative detection tools – Lalaine, Colaine, iHunter, and Xfinder – that automate the detection of real-world privacy violations and measure privacy risks by identifying inconsistencies between stated privacy practices and actual data handling behaviors in the mobile supply chain.
+The dissertation also included detailed case studies and root cause analyses of non-compliance issues, offering strategic recommendations to app developers, third-party vendors, law regulators, and platforms (Apple and Google) to enhance privacy frameworks and compliance mechanisms.
+Advisors were Assistant Professors of Computer Science
+Xiaojing Liao
+and
+Luyi Xing
+.
+“Winning this award marks a perfect end to my five-year PhD career,” Xiao said. “It is an incredible honor and a highlight of my academic journey. This recognition is not just a testament to my hard work, but also to the unwavering support and encouragement I’ve received from the Luddy School community. I am deeply grateful to my advisors, Prof. Xiaojing Liao and Prof. Luyi Xing, whose guidance and mentorship have been invaluable. Their belief in my work has been a constant source of motivation. This award is as much theirs as it is mine. I also want to extend my heartfelt thanks to my committee members for their insightful suggestions and support throughout this process.”
+Liao praised Xiao’s dedication and research contributions. She said Xiao’s dissertation work, deeply rooted in data-driven cybersecurity and privacy compliance analysis, has significantly advanced the field and made social impacts.
+“That includes fixing system vulnerabilities that affect hundredsof millions of people and influencing policy and standards changes,” Liao said.
+Xing said Xiao’s research is at the intersection of computing systems and AI, and addressed fundamental and emerging challenges relating to data privacy, legal compliance and real-world cybercrimes. It comes from receiving complementary training in computer systems and AI.
+“Among all doctoral dissertations nation-wide in cybersecurity and privacy in the last five years,” Xing said, “hers is the outstanding and special one. It brings in new deep understanding in the interplay between computer systems and AI.
+“She’s a rising star in cybersecurity and AI research nation-wide.”
+Yang’s dissertation focused on better understanding the behaviors of malicious bots and address their negative social media impact by using machine learning models to develop novel bot detection methods and make them publicly available.
+“This empowers social media users to safeguard against bot manipulation,” he said, “and enables researchers to explore the behaviors and impacts of social bots in various contexts.”
+Yang presented evidence that showed malicious bots were strategically deployed to disseminate misinformation during the COVID-19 pandemic.
+He said study results revealed that people overestimated the threat posed by bots and are vulnerable to bot manipulation due to inherent biases. He suggested future research directions for bot detection and the dynamics of human-bot interactions.
+“My work significantly enhances our understanding of social bots, which continue to play an integral role in our online information ecosystem.”
+Media relations
+Indiana University
+Pete DiPrimio
+Writer/Editor
+P:
+(812) 855-1341
+E:
+pdiprimi@iu.edu
+Contact Info
+Luddy Director of Marketing and Communications
+luddymco@iu.edu
+Explore media resources
+Filed under:
+Bloomington
+Research
+View all tags
+Plus sign
+Previous article
+Luddy professor uses VR app to bring ancient worlds to life
+Next article
+Hands-on digital civics exchange project delivers global-impact experience
+More stories
+Luddy professor collaborates on award-winning demo paper
+Luddy
+October 30
+Luddy research papers accepted at ACM/CHI; Jung receives best paper award
+Luddy
+January 13

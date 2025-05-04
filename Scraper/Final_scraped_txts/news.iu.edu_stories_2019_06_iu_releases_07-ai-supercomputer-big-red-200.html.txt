@@ -1,0 +1,109 @@
+[Source URL]: https://news.iu.edu/stories/2019/06/iu/releases/07-ai-supercomputer-big-red-200.html
+
+Home
+Stories
+IU to acquire fastest university-owned AI supercomputer
+Big Red 200 will power advanced machine learning applications using massive data sets and faster scientific calculations in a broad range of fields, including medicine, climate change, addiction and cybersecurity
+For Immediate Release
+Jun 7, 2019
+BLOOMINGTON, Ind., and SEATTLE, Wash. – Indiana University and Cray Inc. have announced IU’s acquisition of the fastest university-owned supercomputer in the nation to support its advanced research in artificial intelligence, machine learning, data analytics, and scientific and medical research.
+An accessible version of the infographic can be viewed online.
+Graphic by the Office of the Vice President for Information Technology
+The new system, Big Red 200, is named for the
+IU Bicentennial
+and will replace the highly successful Big Red II Cray supercomputer, which began service in 2013 but is becoming obsolete. Big Red 200 will become fully operational on IU’s bicentennial anniversary on Jan. 20, 2020.
+How fast is Big Red 200? It would take everyone in the state of Indiana more than 28 years – performing one calculation per second 24 hours a day, 7 days a week, 365 days a year – to perform the same number of calculations that Big Red 200 can do in just one second. It is almost 300 times faster than the original Big Red supercomputer from 15 years ago.
+“There has been a huge growth in the use of AI in nearly every area of science in recent years,” IU Vice President for Research Fred Cate said. “Common to many of these is the application of sophisticated machine learning techniques to massive amounts of data. Essential to this is enormous computing power specially configured to optimize these kinds of calculations. Big Red 200 will bring this nationally competitive capability to Indiana University scientists and researchers and to the state.”
+Big Red 200 will be the first of Cray’s revolutionary new Shasta supercomputers installed at a U.S. university. Larger versions of these systems will be installed over the next few years at a number of the federal Department of Energy’s laboratories as part of the Exascale Computing Project, which aims to develop the world’s fastest supercomputers with Exascale speeds in excess of 10
+18
+calculations per second.
+“The Big Red 200 system at Indiana University will be an amazing resource for advancing AI, science and engineering, and will enable IU to play a pioneering role in the development of applications, methods and software for Exascale computing as a partner of Argonne National Laboratory and DOE’s Exascale Computing Project,” said Rick Stevens, one of the leaders of the ECP and the associate laboratory director at Argonne National Laboratory.
+Fred Cate.
+Photo by Zach Hetrick, Indiana University
+“IU has got remarkable value from its supercomputer systems over the last 20 years,” said Brad Wheeler, IU vice president for information technology and chief information officer. “These systems are heavily used by hundreds of IU researchers, scientists and students in over 325 disciplines across the university, and they have helped fuel a rapid escalation of competitive research awards to IU.”
+In 2018 alone, IU was awarded more than $185 million in research grant awards directly supported by the university’s high-performance computing systems. The $9.6 million Big Red 200 system is funded by revenue from federal contracts and grants, and it will be housed in IU’s state-of-the-art Data Center.
+“We are excited to continue and expand our partnership with Indiana University,” Cray CEO Peter Ungaro said. “
+As the first university to deploy Cray’s next-generation Shasta supercomputing system, it will be introducing exascale-class capabilities to its researchers across the converging fields of modeling, simulation, analytics and AI. Shasta will drive exciting new innovations on campus and in the state of Indiana and help enable the use of AI across their many diverse research disciplines including cybersecurity, medicine and more
+.”
+IU researchers make extensive use of IU’s advanced computing systems and look forward to moving their research teams to Big Red 200.
+Health and medical areas are one of the fastest-growing research domains for advanced machine learning applications. Big Red 200 will support IU’s close partnerships between IU Health and researchers at the IU School of Medicine to discover and advance insights for quality care. Computational systems for advanced AI research are becoming increasingly critical for recruiting and retaining the best research talent in the state.
+“I am excited about utilizing the AI capabilities of Big Red 200 to accelerate the research programs in the Department of Medical and Molecular Genetics at the IU School of Medicine,” said Distinguished Professor Tatiana Foroud, chair of the department. “Researchers are now able to generate large quantities of multi-omic data that is ideally suited for AI applications. Analyses powered by the expanded AI capabilities will allow scientists in the Department of Medical and Molecular Genetics to make novel discoveries elucidating the underlying mechanisms and pathways of disease. I believe this new AI-capable supercomputer will enable breakthrough discoveries across a broad range of research areas, including neurodegeneration and the study of Alzheimer’s disease.
+Brad Wheeler.
+“Importantly, Big Red 200 will be an essential resource for the
+Precision Health Initiative
+, one of the Indiana University
+Grand Challenges
+, which is designed to enhance the prevention, treatment and health outcomes of human diseases through a more precise analysis of the genetic, developmental, behavioral and environmental factors that shape an individual’s health.”
+David Crandall, associate professor of informatics and computing and director of the Computer Vision Lab in the School of Informatics, Computing and Engineering, added, “Big Red II came online in 2013 at the perfect moment, just as the deep learning revolution was gaining steam and GPU computing was becoming essential for AI research. It allowed my lab to do research in computer vision that wouldn’t have otherwise been possible. But cutting-edge AI models and algorithms now require even greater computational power.
+“The new system’s latest-generation
+NVIDIA
+V100 GPUs will allow my group – and many others throughout the university – to continue pushing forward the state of the art in machine learning while applying AI to important interdisciplinary applications. It will also be a fantastic teaching resource for our courses in machine learning, artificial intelligence, robotics and computer vision.
+“A resource of this scale is well beyond the budget of any one lab or group. I’m really thrilled that the university is continuing its tradition of supporting research and education through forward-looking investments in cyberinfrastructure.”
+Assistant professor Ben Kravitz, from the IU Bloomington College of Arts and Sciences’ Department of Earth and Atmospheric Sciences, will also benefit from access to Big Red 200. He currently uses IU’s Big Red II supercomputer to model the eﬀects of environmental and climate change throughout the world and in Indiana.
+Kravitz uses global climate model simulations of various scenarios of climate change and is working on downscaling them into regional models for Indiana and the Midwest. These data can then be used by other researchers and practitioners to understand how climate change could aﬀect water resources, agriculture, emergency planning and even public health.
+“I’m a climate modeler, and IU’s commitment to making advanced supercomputers available to faculty, staﬀ and students is one of the reasons I took the job here,” Kravitz said. “I can do so much amazing work because IU wants to make it happen.”
+Franco Pestilli, associate professor of physiological and brain sciences, works to accelerate discovery by connecting massive brain datasets and brain science researchers across the world through
+brainlife.io
+.
+“Big Red 200 will become an unprecedented university asset to the endeavors of brain scientists as it helps enable faster and better understanding of the human brain,” he said. “These efforts will likely advance diagnostics and cure of a variety of diseases, such as blindness (macular degeneration, glaucoma), brain aging and Alzheimer’s, and traumatic brain injury and sports concussion, among others. This new exceptional resource will benefit science and human society.”
+IU’s
+Center for Applied Cybersecurity Research
+will be one of the first groups to use Big Red 200.
+“With the application of AI to data-intensive cybersecurity, these research frontiers require advanced systems to scale our defenses to meet the high speed of today’s cyber threats,” said Von Welch, IU executive director for cybersecurity innovation. “This advancement in IU’s cyberinfrastructure will allow us to advance the state of AI in cybersecurity in IU’s leading-edge cybersecurity services:
+OmniSOC
+and
+ResearchSOC
+.”
+About Indiana University
+Founded in 1820, Indiana University is one of the world’s foremost public institutions. With more than 94,000 students and 21,000 employees statewide, IU continues to pursue its core missions of education and research while building a foundation for the university’s enduring strengths in teaching and learning, world-class scholarship, innovation, creative activity, community engagement and academic freedom. Bloomington is the flagship campus of the university, and each one of IU’s seven campuses is an accredited, four-year degree-granting institution.
+About Cray
+Cray Inc.
+combines computation and creativity so visionaries can keep asking questions that challenge the limits of possibility. Drawing on more than 45 years of experience, Cray develops the world’s most advanced supercomputers, pushing the boundaries of performance, efficiency and scalability. Cray continues to innovate today at the convergence of data and discovery, offering a comprehensive portfolio of supercomputers, high-performance storage, data analytics and artificial intelligence solutions.
+Media Contact
+Office of the Vice President for Information Technology
+Ceci Jones
+P:
+812-856-2337
+E:
+ccjones@iu.edu
+Explore media resources
+Filed under:
+Artificial intelligence
+Bicentennial Priority: Catalyzing Research
+College of Arts and Sciences
+Environment
+Grand Challenges
+Luddy School of Informatics, Computing and Engineering
+News Release
+Precision Health
+Research
+School of Medicine
+Top Stories
+UITS
+Vice President for Information Technology and Chief Information Officer
+Vice President for Research
+View all tags
+Plus sign
+Previous article
+Learn more about JagLine, IUPUI’s new campus shuttle service
+Next article
+Volunteer leaders recognized for their contributions with Partners in Philanthropy awards
+More stories
+Arts and Humanities
+,
+Law and Policy
+,
+Science and Technology
+‘AlgoRhythms’ summit will explore the future of music and AI
+News at IU
+March 3
+Global
+,
+Health and Wellness
+,
+Law and Policy
+,
+Science and Technology
+Brondizio awarded ‘Nobel Prize for the environment,’ honoring decades-long research on the Amazon
+News at IU
+February 11

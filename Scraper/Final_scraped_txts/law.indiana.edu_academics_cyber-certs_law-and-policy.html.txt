@@ -1,0 +1,97 @@
+[Source URL]: https://law.indiana.edu/academics/cyber-certs/law-and-policy.html
+
+Home
+Academics
+Cybersecurity programs
+Cybersecurity certificate
+Graduate certificate in cybersecurity law and policy
+Society requires individuals with cybersecurity law and policy background to establish the proper legal frameworks for responding to the ways that technology is disrupting existing norms and creating new challenges.
+Although cybersecurity issues are often thought of as primarily technical, law and policy are critically important skills in this arena. Cybersecurity law and policy are only beginning to develop and the demand for cybersecurity professionals continues to increase in the private and public sectors at the local, national, and international levels. A few examples illustrate the breadth and need for individuals with a law and policy background in cybersecurity. Consumer risks are created by the Internet of Things. Safety risks are created by self-driving vehicles. Democratic risks are created by various threats to elections. National security risks are created by threats to technology tied to critical infrastructure.
+To address these risks, society requires not only individuals with technological expertise, but also individuals with cybersecurity law and policy background to help establish the proper legal frameworks for responding to the ways that technology is disrupting existing norms and creating new challenges. There is a growing need for individuals with formal background in cybersecurity law and policy to both understand the current regulations and to thoughtfully develop new cybersecurity law and policy frameworks in this ever-shifting field.
+About the certificate
+The Maurer School of Law and Indiana University Bloomington are uniquely placed to answer these demands because of deep and broad experience in education and research on cybersecurity and information privacy. Recognized by the federal government as a National Center of Academic Excellence in Cyber Defense Education (CAE-CDE) and National Center of Academic Excellence in Cyber Defense Research (CAE-R), IU's cybersecurity and information privacy programs are distinguished by their interdisciplinary approach, including integration of law, business, and computer science.
+The Cybersecurity Law and Policy Certificate can be earned on campus in Bloomington or online from anywhere in the world. The Maurer School of Law will award a graduate certificate to students who complete at least 12 credit hours in courses specified below while maintaining a minimum grade point average of 3.0. All credits earned as a certificate student can be applied toward the 30 credits required for a
+Master's of Science in Cybersecurity Risk Management
+.
+Courses required for certificate
+Required courses
+All students must take one of the following two core courses (and may take both):
+B587 Cybersecurity Law I
+(3 cr.)
+B738 Cybersecurity Law II
+(3 cr.)
+Students without a technology background must take:
+A541 Computing and Technology Boot Camp
+(3 cr.) in the School of Informatics, Computing, and Engineering
+Students without prior legal experience, who are not concurrently enrolled in the JD program, must complete at least one credit of
+B504 Introduction to Law
+.
+Elective courses
+Students must select from a list of designated courses to satisfy the balance of the 12 credit hours required for the certificate. These courses include:
+B708 Information Privacy Law I: Constitutional Privacy Issues
+(3 cr.)
+B728 Information Privacy Law II: Privacy Regulation
+(3 cr.)
+B536 Health Privacy Law
+(2 cr.)
+B655 Information Privacy and Security Management Practicum
+(3 cr.)
+L730 Seminar in Intellectual Property Law: Data Law and Policy (3 cr.)
+Center affiliation
+As a condition of admission to the certificate program, JD students must apply to and be accepted as a JD affiliate of an IU research center with cybersecurity or information privacy as a principal area of focus. These include the long-established
+Center for Applied Cybersecurity Research
+and the new
+Ostrom Workshop Program on Cybersecurity and Internet Governance
+. Non-Law School students are not required to affiliate with a Research Center.
+How to apply
+Current Maurer School of Law JD students:
+Complete
+this center affiliation application
+, then submit it to Prof.
+Joe Tomain
+at:
+jtomain@iu.edu
+.
+All other applicants:
+Click here to visit the
+University Graduate School admissions page
+. From the drop-down menu, choose the semester in which you would like to start your studies.
+Click the Apply Now button to be taken to the Indiana University Graduate CAS sign in page. Create an account or sign in to your existing account.
+Type “cybersecurity law” into the search bar to find the Cybersecurity Law and Policy Maurer Graduate Certificate. Click the plus sign (+) next to the certificate name to add it to your application.
+Click on the “My App” tab to finish building your application.
+Application deadlines
+Apply by July 1 for admission in the Fall semester. Apply by December 1 for admission in the Spring semester.
+Questions?
+For more information, please contact:
+Joseph A. Tomain
+Senior Lecturer in Law
+Director of Cybersecurity and Information Privacy Law Programs
+Maurer School of Law Indiana University
+(812) 855-0466
+jtomain@indiana.edu
+Learning outcomes
+All students will be expected to demonstrate:
+Familiarity with U.S. federal and state laws and regulations and major judicial opinions concerning cybersecurity;
+Familiarity with major U.S. federal and state regulators with responsibility for cybersecurity, their regulatory powers and jurisdiction, and other tools available to them;
+Familiarity with major models of cybersecurity law in other parts of the world, and specifically their likely impact on U.S. institutions;
+Familiarity with sources of information about cybersecurity issues, technologies, threats, and law, and the ability to assess their relevance, accuracy, and reliability;
+The ability to assess cybersecurity laws, regulations, and judicial decisions in terms of their likely effectiveness, their impact on institutions and individuals, their efficiency, their cost-effectiveness, and other legal or policy issues they might raise;
+The ability to assess new technologies, applications, products, and services in terms of the cybersecurity issues they may present and their lawfulness under existing law; and
+An understanding of the broader context in which cybersecurity issues occur and other values that are likely to be implicated by efforts to address cybersecurity challenges, including information privacy, freedom of expression and association, efficient commerce, and national security.
+In addition, students lacking familiarity with U.S. law will be expected to demonstrate:
+A general understanding of the basic structure of U.S. law and the U.S. legal system
+Students lacking familiarity with information technologies will be expected to demonstrate:
+A general understanding of computers, networks, and mobile devices, and how they interconnect;
+A basic understanding of "big data" analytics and algorithms; and
+A basic understanding of authentication tools.
+JD degree
+Graduate degrees
+Courses
+Areas of focus
+Global experiences
+Public interest
+Experiential education
+Family office program
+Cybersecurity programs
+Cybersecurity certificate
+Information privacy certificate

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which course is listed in the CYGLPOLBS program but not in the CSCIBA program?",
+    "reference_answer": "The GNDR course is listed in the CYGLPOLBS program but not in the CSCIBA program."
+  },
+  {
+    "question": "Where can I find information about course equivalencies for studying abroad at Indiana University?",
+    "reference_answer": "You can find information about course equivalencies for studying abroad at Indiana University on the following website: https://abroad.iu.edu/planning/course-equivalencies/index.html"
+  },
+  {
+    "question": "Which universities' students are eligible for the OmniSOC summer internship?",
+    "reference_answer": "Students currently enrolled at Indiana University, University of Nebraska, Northwestern University, or Rutgers University are eligible for the OmniSOC summer internship."
+  },
+  {
+    "question": "What are the main goals of the IU Cybersecurity Clinic?",
+    "reference_answer": "The main goals of the IU Cybersecurity Clinic are to work with community partners to create realistic cybersecurity solutions and instill best practices from a legal, business, and technical standpoint; develop an array of resources for the community with tangible takeaways for other organizations; provide students with hands-on experience in the cybersecurity field; and leverage Indiana University's tradition of cybersecurity leadership to foster community relationships and enhance cyber resilience in the organizations served."
+  },
+  {
+    "question": "What awards and recognitions has Apu Kapadia received for his work?",
+    "reference_answer": "Apu Kapadia's work on accountable anonymity earned two of his papers the 'Runners-up for PET Award 2009: Outstanding Research in Privacy Enhancing Technologies'. His recent work on detecting bystanders in photos received a CNIL-INRIA 2020 Privacy Protection runner-up prize. He also received honorable mentions at ACM CHI 2016 and Pervasive Computing in 2007 for his work on usable security."
+  },
+  {
+    "question": "What are some of the master's programs offered at Indiana University's SPEA?",
+    "reference_answer": "Some of the master's programs offered include the Master of Science in Environmental Science (MSES), Master of Environmental Sustainability (MES), Master of Science in Healthcare Management (MSHM), Master of International Affairs (MIA), and Master of Arts in Arts Administration (MAAA)."
+  },
+  {
+    "question": "What is the average number of students per core course in Fordham University's MSDS program?",
+    "reference_answer": "On average, there are 23 students per core course."
+  },
+  {
+    "question": "Could you specify the official online source where I might locate comprehensive details regarding F-1 Curricular Practical Training (CPT), considering the constraints of accessing only government or educational institution websites?",
+    "reference_answer": "Information about F-1 Curricular Practical Training (CPT) can be found at the following URL: https://studyinthestates.dhs.gov/sevis-help-hub/student-records/fm-student-employment/f-1-curricular-practical-training-cpt"
+  },
+  {
+    "question": "Could you detail the specific area of research that Dr. Thai Le is concentrating on at Indiana University, particularly any constraints or conditions related to AI/ML models in the field of Natural Language Processing?",
+    "reference_answer": "Dr. Thai Le's research focuses on the trustworthiness of AI/ML models, particularly in Natural Language Processing (NLP). His mission is to enhance the robustness, safety, and transparency of AI technologies in various sociotechnical contexts, ensuring that society and internet users can harness their power with confidence and clarity."
+  },
+  {
+    "question": "What are the available course options specifically for students who are pursuing a biology cognate within the Informatics program at Indiana University, and how do these courses align with different career paths or further studies in bioinformatics?",
+    "reference_answer": "Students select one of three options: foundations; molecular, genomics, and bio-technology; and microbiology."
+  },
+  {
+    "question": "Could you guide me on where to find information about events at Indiana University's Center for Network and Information Security, considering that I am currently pursuing a specialization in software engineering and need to align these events with my academic schedule?",
+    "reference_answer": "You can find information about events at Indiana University's Center for Network and Information Security on their website at https://cnets.indiana.edu/events/"
+  },
+  {
+    "question": "If I am an international student at IU and wish to work more than 20 hours per week, what specific steps must I take to ensure compliance with university regulations, considering I am also enrolled in a distance-accessible nursing program?",
+    "reference_answer": "If you wish to work more than 20 hours per week, CPT authorization is required."
+  },
+  {
+    "question": "Considering a student interested in studying abroad, which core courses should be prioritized in the first three semesters for the systems specialization in the B.S. in Computer Science at Indiana University to ensure eligibility for international programs with a minimum GPA requirement of 3.0?",
+    "reference_answer": "The recommended core courses in the first three semesters for the systems specialization are CSCI-C 200 or CSCI-C 211, CSCI-C 212, CSCI-C 241, and CSCI-C 343."
+  },
+  {
+    "question": "Could you direct me to where I might find detailed information about the Minor in Intelligence Studies at Indiana University, considering the insights from Colin Gray's interdisciplinary research on design and ethics?",
+    "reference_answer": "You can find more information about the Minor in Intelligence Studies at Indiana University on the following webpage: https://ils.indiana.edu/programs/minor-intelligence-studies.html"
+  },
+  {
+    "question": "Hi, as a prospective international student interested in computer science research opportunities, where can I find the faculty directory for research area 136 at Luddy School?",
+    "reference_answer": "You can find the faculty directory for research area 136 at Luddy School by visiting the following URL: https://luddy.indiana.edu/research/faculty-directory.html?&type=2&research=136"
+  },
+  {
+    "question": "Hi, as a prospective student considering enrollment at Indiana University, I'm curious about who I should contact for requests related to student education records. Could you provide some guidance on this?",
+    "reference_answer": "Any oral or written request should be referred to the Office of the Vice President & General Counsel and Office of the Registrar."
+  },
+  {
+    "question": "Hi, I'm Sarah, and I'm looking to advance my career in cybersecurity. I'm considering the Cybersecurity Management Graduate Certificate at Indiana University's Kelley School. Could you tell me what the three arenas covered in this curriculum are?",
+    "reference_answer": "The three arenas covered are cybersecurity literacy, IT risk management, and global cybersecurity law and policy."
+  },
+  {
+    "question": "Hi, I'm considering applying to the Master of Public Affairs program at Indiana University. Could you tell me about the kind of opportunities Jona Jaha had during the MPA program?",
+    "reference_answer": "Jona Jaha had one-of-a-kind opportunities to learn from and research with world-renowned professors and scholars in the energy and environmental policy fields."
+  },
+  {
+    "question": "Hi, as a prospective student at Indiana University's Luddy School, I'm eager to use respectful and inclusive language with my future classmates. Could you tell me where I can find information on how to share my personal pronouns?",
+    "reference_answer": "You can find information on how to share your personal pronouns at the source: http://pronouns.org/they."
+  },
+  {
+    "question": "What topics are covered in the course INTL-L 350 Origins and Evolution of International Law and what is the focus of the course INTL-I 210 Diplomacy, Security, Governance?",
+    "reference_answer": "The course INTL-L 350 explores the history, central figures, and key arguments in the development of international law, including concepts such as natural law, reason of state, positivism, embedded liberalism, crimes against humanity, and Responsibility to Protect, while the course INTL-I 210 examines the development of the modern state and the role of international organizations in maintaining global security and promoting global governance, addressing issues of political and cultural diplomacy and their effect in international disputes."
+  },
+  {
+    "question": "What topics will you learn in the Minor in Information Technology program at Indiana University and are computer science students eligible for it?",
+    "reference_answer": "In the Minor in Information Technology program at Indiana University, you will learn computer programming, network technology, and interface or web programming, but computer science students are not eligible for this minor."
+  },
+  {
+    "question": "What is the purpose of the Three-Minute Thesis program and what challenge does Pope face when presenting her work?",
+    "reference_answer": "The Three-Minute Thesis program is designed to hone academic, presentation, and research communication skills by turning a lengthy thesis defense into a three-minute summary appropriate for a non-specialist audience, while Pope faces the challenge of presenting her highly technical work that uses information theory, a branch of math unfamiliar to many, even at conferences for neuroscientists and network scientists."
+  },
+  {
+    "question": "What schools are involved in the multi-school partnership for cybersecurity at Indiana University and what does the Master's in Cybersecurity Risk Management program focus on?",
+    "reference_answer": "The multi-school partnership involves IU's Luddy School of Informatics, Computing, and Engineering; the Kelley School of Business; and the Maurer School of Law, and the Master's in Cybersecurity Risk Management program focuses on training students in tools and tactics to identify and mitigate threats, becoming creative, responsive thinkers, and developing industry- and organization-specific policies as cybersecurity leaders."
+  },
+  {
+    "question": "Where can I find information about graduate programs and details about master's programs offered at the Luddy School of Informatics, Computing, and Engineering?",
+    "reference_answer": "You can find information about graduate programs at the Luddy School of Informatics, Computing, and Engineering by visiting their graduate programs page at https://luddy.indiana.edu/academics/grad-programs/index.html, and details about master's programs can be found at https://luddy.indiana.edu/academics/grad-programs/masters.html."
+  },
+  {
+    "question": "What opportunities are available to students at the Jacobs School of Music and what is the purpose of 'Earshot at Jacobs'?",
+    "reference_answer": "As a Jacobs student, you'll have exceptional educational opportunities, learn from internationally renowned faculty, study in cutting-edge facilities, and have a broad range of performance opportunities, while 'Earshot at Jacobs' is a new way to highlight what's happening at Jacobs through feature stories."
+  }
+]

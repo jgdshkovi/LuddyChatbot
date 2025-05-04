@@ -1,0 +1,67 @@
+[Source URL]: https://news.luddy.indiana.edu/story.html?story=Luddy-School-study-to-help-women-achieve-peak-athletic-performance
+
+Home
+News
+Luddy School study to help women achieve peak athletic performance
+Luddy School Informatics Professor Katie Siek is directing a one-month study with Luddy students to help women achieve peak athletic performance. The goal is to see how effective DaVinci Wearables are in tracking key elements of female physiology.
+Feb 11, 2025
+Hub icon
+Twitter
+Facebook
+Katie Siek
+, professor of Informatics at the
+Luddy School of Informatics, Computing, and Engineering
+, wants to help women achieve peak athletic performance. She’s directing a one-month study with Luddy students to see how effective
+DaVinci Wearables
+are in doing that.
+With seed funding from
+Applied Research Institute
+, the study will evaluate DaVinci Wearables’ mobile app to help design a better experience for women athletes to optimize their fitness based on their current menstrual cycles, current fitness, and nutrition metrics.
+“I’m excited about the potential of helping people understand how their personal health can impact their performance,” Siek said. “It’s challenging – sometimes you have good days, sometimes you have bad days. It would be nice to have some data on why and help you understand, maybe it wasn’t a bad day. Maybe it was an OK day based on where you are.”
+DaVinci Wearables is developing a small device about the size of a quarter that fits into a person’s athletic shorts while working out. Designed just for women, they track crucial aspects of female physiology to provide valuable data to enhance athletic performance. Used in conjunction with smart devices such as a band, watch and ring, they record data such as body temperature and galvanic skin response. They use AI to assess body composition and then use all the data from menstrual cycle stages to past and future workouts to current nutrition to suggest the ideal workout to help women meet their athletic goals.
+DaVinci Wearables can tell users how ready they are for a workout or a competition. The company website says its goal is “empowering the future generations of female athletes.”
+Siek said she connected with the company through the
+Indiana University Foundation
+and Luddy School Dean
+Joanna Millunchick
+. That led to a collaboration with
+Christy Fernandez-Cull,
+the CEO of Davinci Wearables.
+“We’re looking at how we can collect all this data about women and give them their ideal workouts and the ideal timing so they can perform their best,” Siek said.
+Study participants will get a prototype DaVinci device, access to the DaVinci app which as a bodyAPI and bio-intelligence platform interfaces with many smart devices while providing actionable sports-specific training plans, and evaluate its usability and acceptability. Siek said the study will focus on what people prioritize while using it, and DaVinci will use the study to improve its product.
+The DaVinci female bio-intelligence system can be used to remind participants to drink water and to record food – what a participant is eating and how many calories the food contains. AI would eventually be used to provide nutrition or fuel guidance, body guidance and mind guidance. Participants use their smart devices such as watches to collect their workout data.
+Siek said the current study will target Luddy undergraduate and graduate students, but hopes to eventually expand it to include Indiana University student-athletes. She said the project gives students the opportunity to conduct real-world research while collaborating with an amazing entrepreneur.
+Participants are HCI/d master’s student Tanya Bansal, and undergraduate researchers
+Lily Witte
+, a Hoosier diver and Luddy student majoring in Computer Science, Jay Thilking, Maddie Rieland, Scarlet Kagemann and Sunzia Reza.
+Beyond improving usability, Siek said the study will also provide important feedback on what users want.
+“This is an excellent example of how a state and federally funded academic institution can collaborate with industry to improve the health of Hoosiers.”
+Media relations
+Indiana University
+Pete DiPrimio
+Writer/Editor
+P:
+(812) 855-1341
+E:
+pdiprimi@iu.edu
+Contact Info
+Luddy Director of Marketing and Communications
+luddymco@iu.edu
+Explore media resources
+Filed under:
+Bloomington
+Research
+View all tags
+Plus sign
+Previous article
+Graduate discovered her passion for cybersecurity through Luddy Indianapolis
+Next article
+Health Informatics students present healthcare research at AMIA Symposium; Sunchu wins Best Paper Award
+More stories
+Health and Wellness
+Polis Center’s ‘State of Women’ report helps local nonprofit support Central Indiana women, families
+News at IU
+March 24
+Luddy professors co-author unique math textbook
+Luddy
+November 20

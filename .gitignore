@@ -1,0 +1,8 @@
+__pycache__/
+
+# Backend/faiss_index_luddy/
+
+# Scraper/Final_scraped_txts/
+
+UI/node_modules/
+# UI/dist/

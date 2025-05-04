@@ -1,0 +1,14 @@
+[Source URL]: https://spice.luddy.iu.edu
+
+Securing IT's future for individuals and society
+We accomplish security through research, education, and outreach. Capitalizing on interdisciplinary studies and practical research focuses, SPICE means to have a real effect on users, economics, and our social environments. Building technologies that support suitable user interfaces, organizational priorities, economic factors, and legal compliance - we take the complexities of mathematics and computer science and reduce them to appear more magic than science. Security and Privacy in Informatics, Computing, and Engineering's targeted but personalized approach includes numerous connections and collaborative efforts with research groups representing a wide range of security applications areas and complementary sciences.
+Goals & Vision
+SPICE is the branch of informatics that studies and supports the design, evaluation, and implementation of technologies that enable control over information. Security Informatics builds upon strong theoretical foundations to construct practical solutions for the intertwined challenges of security and privacy. Security Informatics addresses both immediate problems of today, such as phishing, and emerging research problems, including privacy in ubiquitous computing environments.
+This program is built upon four core components. First there is the understanding of networks and systems. Security is taught with a unique focus on social and organizational informatics of security. Second is the networking core, comprising basic required networking information. Third is the concentration on an academic topic or applied question. Finally, there is a professional element that builds on the three previous areas of knowledge in a comprehensive applied manner.
+In courses and laboratories, challenges to the students will be of a practical nature built upon the theoretical foundation. Meeting these challenges requires an understanding of the network to identify the problem, an understanding of security to evaluate possible solutions, and an understanding of the context to effectively implement the response. Challenges will include responses to cyber-attacks, user interactions (including social engineering), and malware distribution or defense.
+SPICE opportunities
+Center for Academic Excellence in Cybersecurity Community Member
+IU Internet of Things (IoT) House
+SPICE Speaker Series
+IU Cyber Security Club
+IU CyberCorps Scholarship for Service

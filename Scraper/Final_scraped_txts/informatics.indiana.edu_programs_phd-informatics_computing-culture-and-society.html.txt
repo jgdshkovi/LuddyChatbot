@@ -1,0 +1,185 @@
+[Source URL]: https://informatics.indiana.edu/programs/phd-informatics/computing-culture-and-society.html
+
+Home
+Programs
+Ph.D. in Informatics
+Computing, Culture, and Society
+Computing, Culture, and Society
+The Computing, Culture and Society (CCS) research group
+converges around a common concern for the issues that emerge at the intersection of technological innovation and social, political, cultural, economic phenomena. From artificial intelligence and social media, gaming, domestic and workplace applications, rich data and Big Data, to mobile platforms, computing technologies are a constant presence in our lives. We are interested in how these technologies modulate existing structures of power, domination, oppression, and inequity.
+A highly interdisciplinary group, we draw on multidisciplinary backgrounds and a wide range of methods in their work, including case study, design, ethnographic, experimental, historical, survey, and visual methods.
+Learn more about CCS
+Informatics shapes tomorrow
+Watch how the Computing, Culture, and Society track is making a difference
+See CCS in action
+Track guide
+Summary
+Grounded in the Science and Technology Studies (STS) tradition, the Computing, Culture and Society (CCS) track focuses on the relationship between technological innovation and larger social, political, legal, and economic developments. From social media and artificial intelligence, gaming, domestic and workplace applications, little data and Big Data, to mobile technologies and giant server farms, computing technologies are a constant presence in our lives. The CCS track provides students with essential training in social scientific and humanistic theories, methods, skills, and knowledge.  On this solid foundation, CCS students produce original research on the ways culture and society shape, reflect, challenge, and constrain the design and use of information and communication technologies around the world.
+A highly interdisciplinary group, CCS faculty tackle a broad array of projects within this dynamic area of research.  They draw on rich, multidisciplinary backgrounds in anthropology, cognitive science, engineering, history, information science, law, linguistics, music, political science, public policy, robotics, and sociology in order to do so.  The faculty use a correspondingly wide range of methods in their work, including case-based, design, ethnographic, experimental, historical, survey, and visual methods.  A reflection of their broad training and research interests, CCS faculty and their students often collaborate with faculty and students in other Informatics tracks as well as those in Computer Science, the larger university, and broader research communities.
+Current CCS faculty pursue projects that range from the local to the global, analyzing, for instance, the interactions between people and robots, the enacting of identity on and off line, the use of computing technologies to support communities and developing regions of the world, everyday privacy behaviors, gender and computing, the political uses of computing by nation-states, computing and intellectual property concerns, the ways scientists, YouTube, and Twitter users disseminate and consume information, and the impact of computing on the environment.  For updates on faculty and student research projects,
+visit the
+Computing, Culture and Society group’s website
+.
+Primary track faculty
+Nathan Ensmenger
+Ph.D. History & Sociology of Science
+Research areas: Artificial intelligence, computing, culture and society, proactive health informatics, health informatics.
+Christena Nippert-Eng
+Ph.D. Sociology
+Research areas: Computing, culture and society, cognitive sociology, everyday life, privacy, identity, home and work, ethnography, human-centered computing, user-centered design, animal-computer interaction.
+John C. Paolillo
+Ph.D. Linguistics
+Research areas: Computing, culture and society, social media, social network analysis, semantics of human-computer interaction, quantitative and linguistic methods, complex networks and systems.
+Selma Sabanovic
+Ph.D. Science & Technology Studies
+Research areas: Computing, culture and society, intelligent interactive systems, human-robot interaction, social robotics, science and technology studies, cognitive science, healthcare robotics, cross-cultural studies of technology, robots in organizations and communities.
+Curriculum
+A student must successfully complete ninety (90) credit hours of graduate-level course work. The specific track requirements are listed below.
+Required courses
+All required courses provided by faculty in the Computing, Culture and Society track, including I609 and I709, are open to and welcome students from other tracks and programs.
+Informatics Core Requirements (6 cr.)
+INFO I501 Introduction to Informatics (3 cr.)
+INFO I502 Human-Centered Research Methods in Informatics (3 cr.)
+Seminar Requirements (6 cr.)
+INFO I609 Seminar I in Informatics (3 cr.)
+INFO I709 Seminar II in Informatics (3 cr.)
+NOTE:
+A student must take I609 and/or I709.
+These two courses are offered jointly, once every year. Students in the CCS track must take two of these courses with different topics, one as I609, the other as I709. The majority of the students in these courses are from the CCS track, but students from other tracks and programs frequently take them.
+Research Rotation Requirement (6 cr.)
+INFO I790 Informatics Research Rotation (3 cr.)
+NOTE:
+A student must complete two rotations of I790. A third rotation will not count for course credit.
+Theory and Methodology (12 cr.)
+NOTE:
+These courses must be appropriate for a Ph.D. in Informatics.
+Minor (6-15 cr.)
+NOTE:
+A student must complete an internal or external minor approved by the University Graduate School and the School. If a student selects an individualized minor, prior to taking courses, the University Graduate School must approve the proposed minor course list. There is no typical minor; however, students have pursued minors in Methods of Inquiry, African Studies, Latin American Studies, and Gender Studies.
+Electives (12-30 cr.)
+NOTE:
+A student must have all electives approved by the student's advisor and the Director of Informatics Graduate Studies prior to enrolling in the course.
+Thesis Reading and Research (minimum of 21 cr. and a maximum of 30 cr.)
+INFO I890 Thesis Readings and Research
+Optional courses
+INFO I505 Social Media Informatics
+INFO I502 Human-Centered Methods
+INFO I440 Human-Robot Interaction
+INFO I590 Information Systems and Organizational Change
+INFO I590 Enacting Identity
+INFO I590 Exercises in Ethnography
+INFO I590 Privacy, Information and Identity
+Cultural Perspectives on Science and Technology
+Qualifying exam, dissertation proposal and thesis
+CCS Qualifying Examination
+All students take the CCS qualifying examination after completing the core coursework requirements for the track. During the fall semester of the second (for those who entered with a masters degree) or third (for those who entered with a bachelors degree) year, each student works with the CCS faculty to assemble a qualifying examination committee consisting of three faculty, at least two of whom are from the CCS track. The exam will be largely shaped, administered, and graded by this committee.
+The qualifying exam consists of a written examination and an oral examination.
+The written component has three parts:
+An analytic-synthetic essay
+[1]
+required of all students, written in response to a question determined by the CCS faculty and based on authors’ arguments found in the list of CCS Qualifying Examination Readings
+[2]
+An analytic-synthetic essay addressing a question customized for the student according to their interests and based on a list of specialty readings within the CCS tradition, both of which are determined by the student and their three-person faculty examination committee, working in consultation with each other.
+One of three options intended to establish competence in appropriate research methodology either:
+An analytic-synthetic review essay on how a particular concept, behavior, etc., is observed or measured using a variety of approaches.
+A methodological critique of a recent peer-reviewed journal article
+An original, proposed research technique, methodology, or plan designed to answer a specific research question.
+The decision of which of these methodology components the student will address is also decided by the faculty examination committee and student working in consultation with each other.
+The oral examination is given by the faculty examination committee and takes place after the written examination It is one to one and a half hours in length. It provides both the student and the examination committee with an opportunity to further discuss the content of the written examination.
+The qualifying examination is given to all participating students at the end of the Fall or Spring semesters, with the precise exam schedule announced well in advance. Answers to questions 2 and 3 (for which work should have continued throughout the respective semester) are due on Monday when the exam period starts, and question 1 is made available at that time. Students have five days to complete question 1, with final answers due Friday of the qualifying exam week at 5:00 PM. Answers to all questions must be original and written independently. Faculty grade the exams over the next several days, prior to the oral examination. The oral examination commences according to scheduled appointments, generally on a single day. Students will be informed of their exam grade by the end of the week of the oral exam.
+[3]
+The student’s faculty examination committee grades the qualifying examination, based on a combination of both the written and oral exams. Each part/question of the exam is assigned a grade of “pass,” or “fail.” Students must receive the grade of “pass” on all three parts of the exam in order to progress in the PhD program. Students who do not pass one or more parts of the exam may be required to revise and re-submit one or more answers; this must be done by the end of the summer (for Spring exams) or by the start of Spring Break (for Fall exams).
+[1]
+Analytic-synthetic essays are built on careful readings of others’ claims (this is the analytic part) as well as the essay writer’s observations/claims about those claims (this is the synthetic part).  Analytic-synthetic essays demonstrate mastery of existing domain knowledge by demonstrating understanding of individual scholars’ works as well as how a body of works relate to each other.
+[2]
+This is a list developed by the faculty consisting of general CCS-related readings.  It is an on-going endeavor, available to all students.  The version available at the start of their second year of studies is the version on which students will be tested during their qualifying exam.
+[3]
+For example, during the Spring 2018 term, classes ended on Friday, April 26
+th
+. Question 1 of the qualifying exam was distributed to  students at 9:00 AM on Monday, May 13
+th
+. Students had until 5:00 PM on Friday, May 17
+th
+to complete the exam. Each student then met with the faculty for their oral exam for one hour on Wednesday, May 22
+nd
+, and received notification of their evaluations at that time.
+Timeline:
+Student’s 2
+nd
+/ 3
+rd
+year of study
+End of October
+Faculty Examination Committee set
+End of Fall term
+Questions 2&3 set
+Monday, two weeks after the end of the Spring semester
+Questions released to cohort
+Friday, 5PM, two weeks after end of the Spring semester
+Answers due
+(Grading commences immediately)
+Next Wednesday, by appointment
+Oral exams take place
+Friday of Memorial Day weekend
+Students notified of results
+Typical minors
+CCS students declare a wide range of approved minors in order to supplement their training.  There is no typical minor, as there is no typical dissertation topic in this track.
+Sample dissertation titles
+Mate, Paula
+A Qualitative Analysis of the Functioning of the Health Information System in Mozambique (June 2019)
+Chang, Wan-Ling
+Social Shaping of Robot Adoption in Organizational Contexts (May 2017)
+Lee, Heerin
+Collaborative Ways To Design Intelligent Systems For Matters Of Concern (2019)
+Nemer, David
+Rethinking Digital Inequalities: The Experience of the Marginalized in Community Technology Centers (August 2015)
+Park, Dong-oh
+Digital Nation-Building: Interaction Between Technology and Policy of the Digital Identity Infrastructure in Korea (July 2016, ant.)
+Terrell, Jennifer
+Constructing Rooms of Requirement: Transmediation and the Ethnography of Harry Potter Fans (July 2015)
+SAMPLE CURRICULUM
+The following is a sample three-year curriculum.  Students should consult with their advisors in order to select courses that will best support their plans of research. Courses in
+bold
+meet the minimum CCS PhD requirements.  Additional courses may be necessary to fulfill the student’s minor or other programmatic choices.
+Year
+Fall Semester
+Spring Semester
+One
+I501
+I502
+CCS elective 1
+I609
+CCS elective 2
+Minor Course 1
+Two
+CCS elective 3
+I709
+CCS elective 4
+Research Rotation 1
+Minor Course 2
+Minor Course 3
+Three
+Research Rotation 2
+Elective/Independent Study
+Elect/Indep Study/Minor 4
+Elective/Independent Study
+Elect/Indep Study/Minor 5
+Elective/Independent Study
+B.S. in Informatics
+Undergraduate Minors
+Undergraduate Certificates
+4+1 Program
+M.S. Informatics
+M.S. in Human-Computer Interaction
+Accelerated M.S.I.S.
+Ph.D. in Informatics
+Animal Informatics
+Bioinformatics
+Complex Networks and Systems
+Computing, Culture, and Society
+Human-Computer Interaction/Design
+Health Informatics
+Intelligent and Interactive Systems
+Security Informatics
+Virtual Heritage
+Ph.D. Minors

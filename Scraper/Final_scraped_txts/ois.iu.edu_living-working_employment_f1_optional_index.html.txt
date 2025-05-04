@@ -1,0 +1,94 @@
+[Source URL]: https://ois.iu.edu/living-working/employment/f1/optional/index.html
+
+Home
+Student Employment
+Visas & Work Authorization
+F-1 Students
+Optional Practical Training
+Optional Practical Training
+Optional Practical Training for F-1 students
+If you are an F-1 student who will be completing a program of study, you may be eligible for 12 months of Optional Practical Training (OPT). OPT allows you to gain practical training and experience related to your major field of study.
+U.S. Citizenship and Immigration Services (USCIS) is responsible for granting authorization for OPT. You are eligible for 12 months of OPT for each higher education level you complete. For example, you are eligible for 12 months of OPT after completing a bachelor’s degree, and then another 12 months of OPT after completing a master’s degree. If your major field of study is in a science, technology, engineering, or a mathematics (STEM) field, you may be eligible for a STEM extension of OPT.
+Have questions?
+Read the frequently asked questions about OPT.
+Read more
+about OPT
+It is a serious violation of your status to work without authorization. Never work without first receiving authorization.
+Applying for OPT
+Am I eligible for Optional Practical Training authorization?
+All F-1 students who are about to graduate and have been enrolled on the same SEVIS record full time for at least two consecutive semesters (excluding summer terms) are eligible to apply for OPT authorization.
+As an F-1 student, you are eligible for 12 months of OPT, and those 12 months must be taken within the 14 months following the completion of program requirements.
+Eligibility due to COVID-19
+The U.S. government has not updated the regulations related to Curricular Practical Training (CPT) and Optional Practical Training (OPT) due to COVID-19.
+The U.S. government requires you to be in-person in the U.S. for 30 weeks of classroom instruction before you are eligible. Only weeks that you have been in the United States count towards the 30-week requirement. Here are some examples to make it more clear:
+If you arrived in the U.S. on August 12, 2022, and enrolled in classes that met August 23, 2022-December 16, 2022, you have 16 weeks of instruction. Note that the time you were in the U.S. before classes started do not count. To be eligible for CPT you would need to complete at least another 14 weeks of instruction (13 week courses would not be enough).
+If you were enrolled in classes that met August 23, 2022-December 16, 2022, but participated online until you arrived in the U.S. on September 9, 2022, you have accumulated only 14 weeks of instruction. Note that the time you were enrolled in class outside the U.S. does not count. To be eligible for CPT in summer 2023, you would also need to complete 16 weeks of classroom instruction in spring 2023.
+How to start your application
+OPT checklist in Atlas
+Within your OPT Checklist, you will find information about OPT: what it is, when to apply, how to apply, and how to maintain your F-1 status while on OPT.
+Review the information we provide within the Checklist and that USCIS includes in their application instructions. If you want us to review your application information, follow the information provided in the OPT Checklist for doing so before you submit your OPT application to USCIS.
+You will need to use your OPT Checklist to obtain a new I-20 with an OPT recommendation from our office before you submit your I-765 OPT application to USCIS.
+To get started, go to your OPT Checklist in the F-1 Practical Training menu in Atlas.
+When should I apply for Optional Practical Training authorization?
+Applications for OPT can be submitted up to 90 days before your expected program completion date. The applications for OPT need to be received by USCIS no later than 60 days after the completion of the academic program requirements.
+USCIS will need three to four months to process an OPT application. USCIS lists expected processing times for applications on its website.
+The application needs to be received by USCIS no later than 30 days after the OPT I-20 is printed.
+You need to wait until you have received the OPT card and the start date on the card is current before beginning any paid or unpaid practical training.
+Why you should apply as early as possible
+As an F-1 student you are eligible for 12 months of OPT, and those 12 months must be taken within the 14 months following the completion of program requirements.
+If it will take three to four months for USCIS to process a request for OPT authorization, and if the application is filed one month after completing the program of study, the OPT authorization will likely not be processed for three months from the date that USCIS receives it. This could result in the loss of approximately two months of OPT, so it is best to apply as soon as possible.
+What do I need to do to maintain status while on OPT?
+You may not begin practical training until you receive the OPT card (Employment Authorization Document or EAD card) and may only work during the dates listed on the card (unless your employer has filed an H-1B petition).
+After the program end date on your OPT I-20, you may not work anywhere (on or off campus) until you have received your OPT card and the start date on your card is current—even if you were previously authorized to work on campus. At that time, you can resume working on campus only if the work is in your field of study.
+You are required to work at least 21 hours per week. There is no maximum number of hours you can work.
+As an F-1 student authorized for OPT,
+you are required to report any of the following to OIS within 10 days of the occurrence
+:
+Name or address change
+. Report changes through
+Atlas
+.
+Immigration status change
+. Submit the “No Longer on OPT” e-form in Atlas.
+Interruption of employment or periods of unemployment
+. Submit the “Report OPT Unemployment” e-form in Atlas.
+New employer (even if you are just adding a new employer)
+. Submit the “Update OPT Employer Information” e-form in Atlas.
+Note
+: OIS has been informed that SEVP will automatically terminate SEVIS records for students on OPT who have 90 days of unemployment or who have failed to report employment. Termination of your SEVIS record also ends your OPT authorization.
+Learn more about the loss of F-1 status
+Other important OPT information
+You are permitted to engage in more than one practical training opportunity if you wish, as long as all opportunities are in your major field of study.
+You may accept volunteer opportunities in your field of study (as long as you are not on the OPT STEM extension; if you are, you are not able to accept volunteer opportunities).
+A branch of the U.S. government (the Student and Exchange Visitor Program or SEVP) has a portal that allows you to update your OPT employer information and address. You will receive an email invitation from do-not-reply.SEVP@ice.dhs.gov after your OPT is approved and your start date is in the past. However, you do not need to do anything. Using the portal is optional, and since there is limited functionality, you still need to use Atlas for most of your reporting obligations.
+Thus, we suggest using only Atlas to manage all your OPT reporting obligations
+.
+It is important to continue to check your IU email account while on OPT. OIS will continue to email you at your IU email address during your OPT authorization.
+What are the available OPT extensions?
+There are two available OPT extensions—the Cap-Gap Extension and the STEM Extension.
+Cap-Gap Extension
+At the end of the OPT authorization, you have a 60-day grace period to remain in the United States and prepare for departure, to begin a new program of study, or to submit an application for a change of status, unless your employer has filed an H-1B petition.
+The Cap-Gap extension applies to all F-1 students on OPT whose non-college or non-university employers filed a timely H-1B petition for the following fiscal year, regardless of your field of study.
+If your employer files a timely H-1B petition (requesting a change of status within the United States and an employment start date of October 1 of the following fiscal year) before your current OPT authorization expires, you are permitted to continue working and may remain legally in the United States in F-1 status until the H-1B petition is approved, rejected, denied, or revoked. The allowance of extra time while the petition is being reviewed is known as “Cap-Gap authorization.”
+This permission to remain in the United States in F-1 status and continue working under OPT in this particular situation is automatic. There is no new application for an EAD.
+If the H-1B petition is approved, your immigration status change will occur on October 1. If the H-1B petition is withdrawn or denied your OPT Cap-Gap authorization will end 10 days after that, and you will have a 60-day grace period to depart the country, change status, or begin a new program (at the same school or by transferring to a new school).
+The Cap-Gap work authorization continuation only applies in cases where the H-1B petition is filed before the EAD expires. If the EAD expires before the H-1B petition can be filed, but you are still within the 60-day grace period, you may remain in the United States in F-1 status until a decision on the H-1B petition is reached, but you may not be employed.
+F-2 dependents (spouses and unmarried minor children) are eligible to remain in F-2 status during this time as well.
+If your employer’s attorney, your local DMV, or a similar party requests that you provide an updated I-20 that reflects your cap-gap OPT, please email us at
+ois@iu.edu
+to request access to the “Cap-Gap I-20 Request” e-form in
+Atlas.
+STEM Extension
+If you are an F-1 student whose OPT is based on a bachelor’s, master’s, or doctoral degree in a STEM field (as defined by the Department of Homeland Security [DHS]), you may be eligible for an extension of post-completion OPT authorization.
+Learn more about the STEM OPT extension
+Finding a Job
+Visas & Work Authorization
+F-1 Students
+On-Campus Employment
+Curricular Practical Training
+Optional Practical Training
+STEM OPT Extension
+J-1 Students
+J-2 Work Authorization
+Severe Economic Hardship
+Apply for a Social Security Number

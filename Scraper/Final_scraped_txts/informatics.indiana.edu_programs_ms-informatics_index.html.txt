@@ -1,0 +1,91 @@
+[Source URL]: https://informatics.indiana.edu/programs/ms-informatics/index.html
+
+Home
+Programs
+M.S. Informatics
+M.S. Informatics
+Plan for the future with your M.S. in Informatics
+Whether you’re considering earning a Ph.D. or just want to advance your knowledge beyond your bachelor’s degree, our two-year Master of Science in Informatics program will help you discover your path.
+Let's stay in touch!
+You’ll learn to integrate your technical skills and computer science methods with an array of disciplines such as health informatics, intelligent and interactive systems, and security informatics. You’ll touch on technological, social, and scientific impacts of information technology.
+If you decide to pursue your Ph.D. in Informatics after completing your master’s degree, you may be able to transfer up to 30 credits of graduate work to your Ph.D. degree.
+Waki Kamino
+M.S. in Informatics
+Today
+Exploring the use of social robots to support a sense of purpose in older adults.
+Tomorrow
+Pursuing a Ph.D. to contribute to the knowledge on how humanity and robotic technology intersects to inform the design of future social robots.
+Track guide
+Summary
+Our Master's in Informatics program provides a multidisciplinary track that allows students to integrate their technical skills and computer science methods with an array of disciplines. Informatics encompasses bioinformatics, complex networks and systems, computing, culture and society, proactive health informatics, human-computer interaction design, intelligent and interactive systems, security informatics, and virtual heritage, giving students multiple paths to innovation that touch on the technological, social, and scientific impact of information technology.”
+The Master of Science in Informatics (MSI) is a 36-credit degree program offered by the Informatics Department in the Luddy School of Informatics, Computing, and Engineering. Of the required 36 credit hours, at least 27 credits must be taken in approved Informatics courses. The remaining 9 credits can be any graduate level course within or outside of the Luddy School of Informatics, Computing, and Engineering, including Computer Science, Information and Library Sciences, Intelligent Systems Engineering, and Data Science. The courses that each student takes must have a coherent focus within the general field of informatics. Each M.S. Info student will be assigned a faculty advisor who will guide the student in the selection of courses. Students should be able to complete the degree in four semesters of full-time graduate work (three, 3-credit courses per semester).
+The MSI program is designed for students who are contemplating entering a specific track in the Ph.D. Informatics program and have a specific faculty member who is recommending them to apply to the MSI program. By starting off in the M.S. Informatics, the student is introduced to the subject matter which will help them decide if the Ph.D. Informatics program is right for them. If it is the right program, the student can complete the MSI degree (2-year program) and then apply to the Ph.D. Informatics program. Students may be able to transfer up to 30 credits of graduate work towards the Ph.D. degree. In special circumstances, after completing the first year of the MSI program, a faculty member may recommend that the student apply to the Ph.D. Informatics program. When this happens, students who complete 1-year of the MSI program may be able to transfer some of those credits to the Ph.D. Informatics program; however, it really depends on what courses were taken.
+Primary track faculty
+Justin Wood
+: Track Director
+Informatics M.S. Director, Associate Professor of Informatics
+Curriculum
+The Master of Science in Informatics is a 36 credit degree program. Of the 36 required credit hours, at least 27 credits must be taken in approved informatics courses. The remaining 9 credits can be any graduate level course within or outside of the Luddy School of Informatics, Computing, and Engineering, including Computer Science, Data Science, Information Library Science, and Intelligent Systems Engineering.
+Available courses (must take 36 credits)
+INFO I507 Introduction to Health Informatics (3 cr.)
+INFO I520 Security for Networked Systems (3 cr.)
+INFO I521 Malware Epidemic: Threat and Defense (3 cr.)
+INFO I523 Big Data Applications and Analytics (3 cr.)
+INFO I524 Big Data Software and Projects (3 cr.)
+INFO I525 Organizational Informatics and Economics of Security (3 cr.)
+INFO I526 Applied Machine Learning (3 cr.)
+INFO I527 Mobile and Pervasive Design (3 cr.)
+INFO I529 Machine Learning in Bioinformatics (3 cr.)
+INFO I530 Field Deployments (3 cr.)
+INFO I533 Systems and Protocol Security and Information Assurance (3 cr.)
+INFO I535 Management, Access, and Use of Big Complex Data (3 cr.)
+INFO I540 Human Robot Interaction (3 cr.)
+INFO I541 Interaction Design Practice (3 cr.)
+INFO I542 Foundations of HCI (3 cr.)
+INFO I543 Interaction Design Methods (3 cr.)
+INFO I544 Experience Design (3 cr.)
+INFO I549 Advanced Prototyping (3 cr.)
+INFO I561 Meaning and Form in HCI (3 cr.)
+INFO I587 Introduction to Virtual Heritage (3 cr.)
+INFO I588 Advanced Topics in Virtual Heritage (3 cr.)
+INFO I590 Topics in Informatics (3 cr.)
+INFO I591 Graduate Internship (3 cr.)
+INFO I601 Introduction to Complex Systems (3 cr.)
+INFO I604 Human Computer Interaction Design Theory (3 cr.)
+INFO I606 Network Science (3 cr.)
+INFO I609 Advanced Seminar I in Informatics (3 cr.)
+INFO I709 Advanced Seminar II in Informatics (3 cr.)
+Electives
+The student must take 9 credits of any graduate level course within or outside of the Luddy School of Informatics, Computing, and Engineering, including Computer Science, Data Science, Information Library Science, and Intelligent Systems Engineering. The courses that each student takes must have a coherent focus within the general field of informatics.
+Sample curriculum
+Year 1 Fall (9 cr.)
+Informatics course (3 cr.)
+Informatics course (3 cr.)
+Informatics course (3 cr.)
+Year 1 Spring (9 cr.)
+Informatics course (3 cr.)
+Informatics course (3 cr.)
+Informatics course (3 cr.)
+Elective (3 cr.)
+Year 2 Fall (9 cr.)
+Informatics course (3 cr.)
+Informatics course (3 cr.)
+Elective (3 cr.)
+Year 2 Spring (9 cr.)
+Informatics course (3 cr.)
+Informatics course (3 cr.)
+Elective (3 cr.)
+Learn more about our Informatics graduate programs
+Request more information
+Find other ways to meet the Luddy Graduate team
+Meet Us
+B.S. in Informatics
+Undergraduate Minors
+Undergraduate Certificates
+4+1 Program
+M.S. Informatics
+Animal Informatics
+M.S. in Human-Computer Interaction
+Accelerated M.S.I.S.
+Ph.D. in Informatics
+Ph.D. Minors

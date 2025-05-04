@@ -1,0 +1,52 @@
+[Source URL]: https://ssrc.indiana.edu/about/consultants/data-science/index.html
+
+Home
+About Us
+Consultants
+Data Science Expertise
+Data Science Expertise
+Data Science Assistance & Expertise
+Members of the
+Data Science program
+can assist with a range of research project needs. Read about their project skills and programming languages below.
+Project Skills
+Cloud & High Performance Computing
+Computer Vision
+Data Mining
+Data Visualization
+Database Management
+Deep Learning
+Internet of Things, sensors, wearables, gadgets
+Machine Learning
+Natural Language Processing
+Network analysis
+Robotics
+Security / Privacy Management
+Signal Processing
+Smartphone App Development
+Statistics
+Web & Social Media Mining
+Web Front-end Development
+Programming Languages and Tools
+Adruino
+C/C++
+Excel
+Java
+MatLab
+Python
+R
+SAS
+SPSS
+SQL
+Stata
+Request Assistance
+Submit a request for a consultation using
+this form.
+You can also
+apply to the Faculty Assistance in Data Science Program (FADS) through InfoReady
+.
+Mission
+SSRC Staff
+Location and Access
+History
+Social Science Units

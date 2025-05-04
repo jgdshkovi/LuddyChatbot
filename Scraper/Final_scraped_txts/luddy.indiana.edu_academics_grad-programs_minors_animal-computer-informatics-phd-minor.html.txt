@@ -1,0 +1,94 @@
+[Source URL]: https://luddy.indiana.edu/academics/grad-programs/minors/animal-computer-informatics-phd-minor.html
+
+Home
+Academics
+Graduate Programs
+Ph.D. Minors
+Animal Computer Informatics Ph.D. Minor
+Animal Computer Informatics Ph.D. Minor
+Animal Computer Informatics Ph.D. Minor
+Our Ph.D. minor in Animal-Computer Interaction will supplement the training of students engaged in animal-centered work across a variety of major subject areas, providing an overview of the emerging field of animal-computer interaction as well as training in the technical and project-related skills that support an individual student’s interests.
+The ACI minor touches on five key areas, including maker applications for animals; automated quality of life data capture and analysis for captive animal health and wellness; wildlife (and poacher) tracking and monitoring; animal cognition; and interspecies relationships and education. The Ph.D. minor in animal-computer interaction is 9 credit hours. Two courses are required, and a third must be selected from a list of regularly updated courses.
+Animal Informatics at Luddy
+Animal informatics is improving the lives and our understanding of animals every day. Find out more about Animal Informatics at the Luddy School.
+Required courses:
+INFO I514 Seminar in Animal-Computer Interaction
+INFO I511 Animal-Computer Interaction Methods
+One course must be selected from the following options:
+Qualitative Methods and Design
+INFO I527 Mobile and Pervasive Design OR CSCI P535 Pervasive Computing
+I530 Field Deployments
+INFO I440/I540: Human-Robot Interaction
+I543 Interaction Design Methods
+I544 Experience Design
+I590 Environmental Policy and Health Design
+I590 Technology Entrepreneurship
+I604 Human-Computer Interaction Design Theory
+I709 Animal and/as Technology
+IoT Systems and Physical Fabrication
+INFO I400/I590 Makerspace: Design and Fabrication
+INFO I440/I540 Human-Robot Interaction
+INFO I527 Mobile and Pervasive Design OR CSCI P535 Pervasive Computing
+I549 Advanced Prototyping
+CSCI P442 Digital Systems OR ENGR E314/E514 Embedded Systems
+ENGR E537 Rapid Prototyping for Engineers
+Mobile App Development
+INFO I400 Cross-platform Mobile Programming
+INFO I527 Mobile and Pervasive Design OR CSCI P535 Pervasive Computing
+Virtual Reality Platform
+INFO I304/I590 Intro to Virtual Reality
+INFO I442/I590 Creating Virtual Assets
+INFO I443/I590 Building Virtual Worlds
+INFO I444/I590 Artificial Life in VR
+CSCI B453 Game Development
+Data Analytics
+I601 Introduction to Complex Systems
+INFO I422/I590 Data Visualization
+INFO I526/CSCI P556 Applied Machine Learning
+INFO I606 Network Science
+CSCI B555 Machine Learning
+CSCI B565 Data Mining
+ENGR E434/E534 Big Data Applications
+ENGR E484/E584 Scientific Visualization
+ENGR E511 Machine Learning for Signal Processing
+ENGR E533 Deep Learning Systems
+GEOG G588 Applied Spatial Statistics
+Artificial Intelligence and Cognition
+INFO I440/I540 Human-Robot Interaction
+CSCI B551 Elements of AI
+CSCI B657 Computer Vision
+BIOL L453 Sensory Ecology
+BIOL Z460 Animal Behavior
+Geospatial Information System
+GEOG G336/G535 Environmental Remote Sensing
+GEOG G436/G536 Advanced Remote Sensing
+GEOG G438/G538 Geographic Information Systems
+GEOG G439/G539 Advanced Geographic Information Systems
+GEOG G478/G578 Global Change, Food and Farming Systems
+GEOG G439/G639 GIS & Environmental Analysis
+Website and Database Design
+INFO I435/I535 Management, Access, and Use of Big and Complex Data
+ILS Z511 Database Design
+ILS Z515 Information Architecture
+ILS Z517 Web Programming
+ILS Z532 Information Architecture for the Web
+ILS Z556 Systems Analysis & Design
+Technology Entrepreneurship
+INFO I436/I566 Technology Innovation
+INFO I438/I568 Technology Entrepreneurship
+Undergraduate Programs
+Graduate Programs
+Doctoral Programs
+Ph.D. Minors
+Master's Programs
+Certificates
+LIS Specialist
+Training Grants
+Graduate Handbooks
+Accelerated and 4+1 Programs
+Departments
+Courses
+Advising & Tutoring
+Academic Opportunities
+Luddy ALIGN
+International Student Support

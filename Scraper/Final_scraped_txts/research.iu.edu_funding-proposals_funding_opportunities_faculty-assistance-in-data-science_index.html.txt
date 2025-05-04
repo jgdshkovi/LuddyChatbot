@@ -1,0 +1,73 @@
+[Source URL]: https://research.iu.edu/funding-proposals/funding/opportunities/faculty-assistance-in-data-science/index.html
+
+Home
+Funding & Proposal Support
+Funding Search Tools
+Internal Funding Opportunities
+Faculty Assistance in Data Science
+Faculty Assistance in Data Science
+Faculty Assistance in Data Science
+About this opportunity
+Campus:
+Bloomington
+Contact:
+Brea Perry,
+blperry@iu.edu
+ord@iu.edu
+Deadline:
+September 19, 2025
+Award cycle:
+Annual
+Funding available:
+N/A
+FADS FAQs
+Read about successful FADS partnerships in 2021
+The Program for Faculty Assistance in Data Science (FADS) is designed to provide access to expertise and assistance in advanced data analytics, data visualization, and database development for the purpose of catalyzing faculty research. This program pairs faculty in any discipline with graduate students pursuing a M.S. in Data Science (MSDS) through the Luddy School of Informatics for summer research internships. These paid internships cover up to 150 hours of student effort on a faculty research project and are sponsored by The Office of the Vice President for Research and the University Graduate School. Internships will be awarded to students on a competitive basis, and carefully matched to faculty projects using faculty preferences, demonstrated competencies, and interest in a given analytic area. Preference will be given to projects that provide valuable learning experiences for the MSDS students, those which enable promising new or expanded research directions for the investigator, and those which are unlikely to be successful without this program.
+Data science assistance is available in data visualization, database development and management, machine learning, natural language processing, network analysis, cloud and high-performance computing, data mining, and web and app development. A full list of available student competencies is accessible at
+https://ssrc.indiana.edu/about/consultants/data-science/index.html
+.
+Eligibility
+Any faculty member in a tenure track or research scientist position at Indiana University may apply. Previous recipients may reapply with a new project. Applications for the FADS program submitted in fall 2025 will fund internships in spring or summer of 2026.
+Eligible as PIs
+All tenured and tenure‐eligible faculty members
+Research scientists and other non-tenure track faculty whose evaluation criteria are based on research activity
+Graduate Faculty leading research
+Emeritus faculty
+Not Eligible as PIs
+Visiting and adjunct faculty members
+Postdoctoral fellows and research associates
+Graduate students
+Usage and time frame
+The 150 hours of student effort may be distributed in any manner agreed upon by the faculty member and student (e.g., 15 hrs/week for 10 weeks) up to 20 hours/week. Faculty can choose to be paired with students in either the spring or summer term, based on their preference. Student pairing will be made available to faculty by
+December 1, 2025
+.
+Spring projects will take place from
+January 20-April 24, 2026
+and students will earn course credits.
+Summer projects will take place from
+May 16-July 24, 2026
+and students can earn course credits, or apply for competitive paid fellowship placements.
+Application requirements
+Applicants must complete an electronic application and upload a completed application form. Please note page limitations.
+Application sections include:
+Summary of project (500-word maximum)
+Rationale for assistance in data analytics and visualization (200-word maximum)
+Specific competencies required, including programming languages if applicable (see
+https://ssrc.indiana.edu/about/consultants/data-science/index.html
+)
+Statement of benefit to the student (200-word maximum)
+Statement of information about other sources of funding, including whether you would be willing to sponsor all or part of a fellowship (e.g., through a grant or faculty research funds) should demand exceed the number of projects OVPR can support.
+Biosketch or curriculum vitae (3-page maximum)
+Ready to apply?
+Apply for IU Internal Funding Opportunities through InfoReady
+RDS Request Form
+Funding Search Tools
+Internal Funding Opportunities
+Pivot
+Corporate & Foundation Funding Opportunities
+Limited Submissions
+Proposal Preparation Tools
+Workshops & Events
+Proposal Routing & Submission
+About RDS Teams
+Indiana Clinical and Translational Sciences Institute (CTSI)

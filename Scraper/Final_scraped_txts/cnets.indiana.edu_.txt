@@ -1,0 +1,30 @@
+[Source URL]: https://cnets.indiana.edu/
+
+About
+The Center for Complex Networks and Systems Research (CNetS) focuses on fostering interdisciplinary research in all areas related to complex networks and systems, computational social science, and data science. We mine, model, and analyze complex systems and networks, producing high-impact and high-visibility research that applies, and occasionally develops, AI approaches to a wide range of topics: from modeling online diffusion and influence to detecting social bots and online manipulation, and from science of science to climate studies and a range of health-related topics.
+Learn More
+News
+Menczer AAAS Fellow
+The American Association for the Advancement of Science, one of the world’s largest general scientific societies and publisher of the Science family of journals, named Filippo Menczer to its 2024 fellows’ class, a lifetime honor within the scientific community.
+Menczer is among 471 scientists,...
+March 29th, 2025
+Seungwoong Ha Talk
+Seungwoong Ha
+November 19, 2024
+1:00pm
+Luddy Center for Artificial Intelligence, Room 2005
+Zoom: https://iu.zoom.us/j/89107137699
+Title: Dynamics of Collective Minds: A Computational Model of news-comment Dynamics"
+Abstract:
+In an online community, many of the community users collectively...
+November 19th, 2024
+Selena Wang Talk
+Speaker: Selena Wang
+March 12, 2025
+3pm
+Luddy AI 2005
+Zoom: https://iu.zoom.us/j/89307757306
+Title: Neuroimaging connectivity analysis needs network science for brain-behavior linking
+Abstract: The brain is comprised of interacting neurons, and its complexity poses significant challenges for res...
+November 18th, 2024
+Browse All News

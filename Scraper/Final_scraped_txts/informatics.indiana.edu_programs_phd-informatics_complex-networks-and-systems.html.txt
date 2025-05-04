@@ -1,0 +1,148 @@
+[Source URL]: https://informatics.indiana.edu/programs/phd-informatics/complex-networks-and-systems.html
+
+Home
+Programs
+Ph.D. in Informatics
+Complex Networks and Systems
+Complex Networks and Systems
+Are you interested in exploring
+and understanding how the parts of a system interact with each other to drive the behavior of the system as a whole, in areas as diverse as social networks, the human brain, a language, power grids, financial markets, or gene regulatory networks? The complex networks and systems (CNS) track may be for you.
+CNS shapes tomorrow
+Watch how the Complex Networks and Systems program is making a difference
+See CNS in action
+When you study CNS, you’ll explore new solutions for problems in computer science, physics, math, biology, health, and cognitive and social sciences. You might determine what makes a certain YouTube video go viral, examine Instagram data to discover adverse reactions caused by drug interactions, or develop a model that can accurately predict the spread of misinformation online.
+The complex networks and systems track includes:
+A focused core of informatics coursework
+Research and events training in complex networks and systems
+Seminars such as colloquiums or talks organized by
+CNetS
+and the
+CSBC
+A strong faculty-supervised research component
+Learn about related research
+Training in this track is consolidated and enhanced by the Center for Complex Networks and Systems Research (
+CNetS
+) and the Center for Social and Biomedical Complexity (
+CSBC
+).
+Visit CNets
+Visit CSBC
+Track guide
+Summary
+The Complex Networks & Systems track, with its unique interdisciplinary values, offers a training opportunity to explore the connections among theoretical, technological, biological, and social implications of complex systems in a diverse and multidisciplinary research-oriented curriculum. The study of complex systems is focused on discovering and understanding how the myriad parts of a system—which could be the Internet, the human brain, a language, a power grid, or an ecosystem—interact with each other and determine the macroscopic behavior of the system itself. This strongly interdisciplinary field has exciting implications for computer science, physics, math, biology, and cognitive and social sciences. Faculty at the associated
+Center for Complex Networks and Systems Research
+(CNetS) and
+Center for Social and Biomedical Complexity
+(CSBC) are investigating complex systems in action, from determining how a particular YouTube video suddenly goes viral to developing models that can accurately predict the spread of contagious diseases.
+There are 11 core faculty that can serve as PhD advisor on a wide range of topics that span from complex networks to cognitive science, computational social science, social media analytics, human and artificial intelligence, science of science and more. Our students come from around the world and have a variety of educational backgrounds. What they share is a desire to widen their theoretical, computational, and technical skills—and, from the earliest days of the program, to engage in research projects ranging from Web mining to modeling biochemical regulation. Our students have graduated to join some of the best academic, government and research and development centers in the World, ranging from top universities to the most advanced technology companies.
+Primary track faculty
+Alessander Flammini
+: Track Director
+Computational social science, complex networks, online social media.
+Yong-Yeol Ahn
+Structure and dynamics of complex systems, such as society and living organisms, using massivdatasetsts.  Hierarchical & modular structure in social and biological networks, the analysis of metabolic networks, and the social media.
+Jisun An
+Data Science with applications to journalism, politics, health, and computational social science.
+Randall Beer
+Cognitive science, computational and theoretical biology. Understanding how coordinated behavior arises from the dynamical interaction of an animal’s nervous system, its body and its environment. Evolution and analysis of dynamical “nervous systems” for model agentsneuromechanicalal modeling of animals, biologically-inspired robotics, and dynamical systems approaches to behavior and cognition.
+Johan Bollen
+Computational social science, social media analyticsinformetricscs, and digital librariesMememe diffusion, markets and sentiment, metrics from usage data, science of science.
+Santo Fortunato
+Statistical physics of social dynamics, Community structure in complex networks, Science of Science.
+Haewoon Kwakak
+Social computing, computational social science, media bias, online harms, fairness and biasociotechnicalal systems, game analyticsesportsts.
+Filippo Menczer
+Web science, social media, social networks, social computing, Web search and data mining, distributed and intelligent Web applications, and modeling of complex information networks.
+Staša Milojević
+Dynamics of science as a social and an intellectual (cognitive), science, technology, and societySTSTS), science of science, information science, network science, economics, sociology, philosophy, history.
+Filippo Radicchi
+Complex Networks and Systems, Data Science, Science of Science, Sport Analytics.
+Samantha Wood
+Origins of intelligence, computational neuroscience, learning and development, perception and cognition, body-brain-environment systems, biological and artificial intelligence.
+Curriculum
+Required courses
+A student must successfully complete ninety (90) credit hours of graduate-level course work. The specific track requirements are listed below.
+Informatics Core Requirements (6 cr.)
+INFO I501 Introduction to Informatics (3 cr.)
+INFO I502 Human-Centered Research Methods in Informatics (3 cr.)
+Complex Systems & Networks Core Requirements (6 cr.)
+INFO I601 Introduction to Complex Systems (3 cr.)
+INFO I606 Network Science (3 cr.)
+Seminar Requirements (6 cr.)
+INFO I609 Seminar I in Informatics: Complex Systems (3 cr.)
+INFO I709 Seminar II in Informatics: Complex Systems (3 cr.)
+NOTE:
+A student must take I609 and/or I709.
+Research Rotation Requirement (6 cr.)
+INFO I790 Informatics Research Rotation (3 cr.)
+NOTE:
+A student must complete two rotations of I790. A third rotation will not count for course credit.
+Theory and Methodology Requirement (12 cr.)
+NOTE:
+These courses must be appropriate for a Ph.D. in Informatics.
+Minor (6-15 cr.)
+NOTE:
+A student must complete an internal or external minor approved by the University Graduate School and the School. If a student selects an individualized minor, prior to taking courses, the University Graduate School must approve the proposed minor course list. There is no typical minor; however, students in the Complex Systems & Networks track often pursue a minor in Biology, Computer Science, or Statistics.
+Electives (12-30 cr.)
+NOTE:
+A student must have all electives approved by the student's advisor and the Director of Informatics Graduate Studies prior to enrolling in the course.
+Thesis Reading and Research (minimum of 21 cr. and a maximum of 30 cr.)
+INFO I890 Thesis Readings and Research
+Optional courses
+INFO I585 Biologically-inspired Computing
+INFO I590 Topics in Informatics
+CSCI B657 Computer Vision
+COGS Q580 Introduction to Dynamical Systems in Cognitive Science
+Qualifying exam
+Written and oral examinations decided by program committee based on bibliography from I609, I709 and specific research interests of candidate. Typical written exam: three papers or one-week take home exam.
+Typical minors
+Cognitive Science, Statistics, Biophysics.
+Sample dissertation titles
+Abi-Haidar, Alaa
+An Adaptive Document Classifier Inspired by T-cell Cross-regulation of the Immune System
+Mourao, Marcio
+Reconstructing the Mechanisms and the Dynamical Behavior Complex Biochemical Pathways
+Conover, Michael
+Digital Democracy: The Structure and Dynamics of Political Communication in a Large Scale Social Media Stream
+Frey, Seth
+Complex Collective Dynamics in Human Higher-Level Reasoning: A Study Over Multiple Methods
+Kaur , Jasleen
+Emergence of Innovation and Impact in Science
+Kolchinsky, Artemy
+Measuring Scales: Integration and Modularity in Complex Systems
+Mao , Huina
+Modeling Economic and Financial Behavior from Large-scale Datasets
+Shuai, Xin
+Modeling Scholarly Communications Across Heterogeneous Corpra
+Simas, Tiago
+Stochastic Models And Transitivity In Complex Networks
+Wang, Zhiping
+Biomedical Literature Mining For Pharmacokinetics Numerical Parameter Collection
+Weng, Lilian
+Information Diffusion on Online Social Networks
+Barron, Alexander T.J.
+Collective Creation of Identity and Institutions through the Lens of Language Innovation
+Notarmuzi, Daniele
+Information Diffusion in Online Social Media
+Varol, Onur
+Analyzing Social Big Data To Study Online Discourse And Its Manipulation
+Yang, Kai-Cheng
+Social Media Bots: Detection, Characterization, and Human Perception, 2023
+B.S. in Informatics
+Undergraduate Minors
+Undergraduate Certificates
+4+1 Program
+M.S. Informatics
+M.S. in Human-Computer Interaction
+Accelerated M.S.I.S.
+Ph.D. in Informatics
+Animal Informatics
+Bioinformatics
+Complex Networks and Systems
+Computing, Culture, and Society
+Human-Computer Interaction/Design
+Health Informatics
+Intelligent and Interactive Systems
+Security Informatics
+Virtual Heritage
+Ph.D. Minors
