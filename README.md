@@ -2,13 +2,13 @@
 
 This repository contains the backend implementation of LuddyBot, a context-aware AI assistant designed for Indiana University's Luddy School. It includes two main components: document embedding generation and chatbot response handling using LLaMA-based inference and hybrid search with reranking.
 
-## 📁 Contents
+### 📁 Contents
 - `createEmbeddings.py`: Script to load, chunk, embed, and index academic documents using FAISS.
 
 - `chatbotV2.py`: FastAPI-based application that serves LuddyBot responses based on hybrid retrieval and LLM inference.
 
-## ⚙️ Setup Instructions
-### 1. Environment Setup
+### ⚙️ Setup Instructions
+#### 1. Environment Setup
 Ensure you have Python 3.9+ and install the dependencies:
 
 `pip install -r requirements.txt`
@@ -29,7 +29,7 @@ Dependencies include:
 - tqdm
 
 
-### 2. Embedding Creation
+#### 2. Embedding Creation
 Before running the chatbot, generate the FAISS index:
 
 `python createEmbeddings.py`
@@ -37,7 +37,7 @@ Before running the chatbot, generate the FAISS index:
 - Place all .txt source documents inside a folder named Final_scraped_txts/.
 - The script will generate and save the FAISS index at faiss_index_luddy/.
 
-## 🤖 Running the Chatbot
+### 🤖 Running the Chatbot
 Set the `GROQ_API_KEY` environment variable with your API key.
 Set environment variable if using Cohere:
 `export COHERE_API_KEY=your_api_key`
@@ -56,21 +56,16 @@ Send POST requests to /ask endpoint with the following JSON format:
 ```
 
 
-## 🔍 Core Features
-### Hybrid Search: 
-Combines semantic similarity with keyword filtering.
+### 🔍 Core Features
+**Hybrid Search:** Combines semantic similarity with keyword filtering.
 
-### Re-ranking: 
-Uses CrossEncoder (ms-marco-MiniLM-L6-v2) to prioritize relevant documents.
+**Re-ranking:** Uses CrossEncoder (ms-marco-MiniLM-L6-v2) to prioritize relevant documents.
 
-### LLaMA Inference: 
-Uses Groq's hosted LLaMA3-70B model for generating structured, context-sensitive answers.
+**LLaMA Inference:** Uses Groq's hosted LLaMA3-70B model for generating structured, context-sensitive answers.
 
-### Session History: 
-Maintains conversation flow with SQLite-backed chat history.
+**Session History:** Maintains conversation flow with SQLite-backed chat history.
 
-### Contextual Summarization: 
-Automatically summarizes long conversations to maintain context continuity.
+**Contextual Summarization:** Automatically summarizes long conversations to maintain context continuity.
 
 
 
@@ -89,13 +84,13 @@ We are also keeping track of discovered links and visited links, to make sure we
 
 This project provides a robust evaluation pipeline for Retrieval-Augmented Generation (RAG) systems. It computes both retrieval and generation quality metrics to assess performance in question-answering tasks.
 
-## 📂 Contents
+### 📂 Contents
 `rag-eval-enhanced.py`: Main script to evaluate RAG systems using FAISS, LLMs, rerankers, and various IR/NLP metrics.
 
 Supports hybrid search, reranking, semantic similarity, and answer faithfulness scoring.
 
 
-## ⚙️ Features
+### ⚙️ Features
 - Retrieval Metrics: Precision@K, Recall@K, MRR, NDCG
 
 - Generation Metrics: Semantic Similarity, Faithfulness, Answer Relevance
@@ -107,7 +102,7 @@ Supports hybrid search, reranking, semantic similarity, and answer faithfulness 
 - Visualization of results using matplotlib
 
 
-## 🚀 Usage
+### 🚀 Usage
 
 ```
 python rag-eval-enhanced.py \
@@ -119,7 +114,7 @@ python rag-eval-enhanced.py \
 ```
 
 
-## 🧪 Input Format
+### 🧪 Input Format
 The script expects a JSON file like:
 
 ```
@@ -134,24 +129,24 @@ To generate a sample template:
 
 `python rag-eval-enhanced.py --test_data rag_test_data.json`
 
-## 📈 Output
+### 📈 Output
 - `evaluation_results.csv`: Summary of metrics per query + average row
 - `evaluation_detailed.json`: Full breakdown with individual scores
 - `evaluation_plots.png`: Bar plots for each metric group
 
 
-## 🧠 Customization
+### 🧠 Customization
 - Change model paths in the RAGEvaluator constructor
 - Add support for other rerankers or embeddings
 - Integrate with different LLMs for response generation
 
 # For UI
 
-## LuddyBuddy Chat Widget
+### LuddyBuddy Chat Widget
 
 A simple React chat widget that doubles as a Chrome extension.
 
-### Development
+#### Development
 
 1. **Clone your repo** and enter the folder:
    ```bash
